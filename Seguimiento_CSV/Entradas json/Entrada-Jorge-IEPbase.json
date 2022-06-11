@@ -1,0 +1,12 @@
+{
+    "listausuarios": "./IEP/cmm_SYSMEPI01_2019_1_student_profile_info_2020-04-25-1516.csv",
+    "ora": "./IEP/cmm_SYSMEPI01_2019_1_ORA_data_2020-04-25-1520.csv",
+	"jsonuserprueba":"",
+    "codigodrive_reporte":"",
+    "codigodrive_listausuarios":"",
+    "codigodrive_listanegra":"",
+    "codigodrive_encuesta":"",
+    "talleres":[
+        "./IEP/cmm_SYSMEPI01_2019_1_student_state_from_block-v1_cmm+SYSMEPI01+2019_1+type@course+block@course_2020-04-25-1516.csv"
+    ]
+ }

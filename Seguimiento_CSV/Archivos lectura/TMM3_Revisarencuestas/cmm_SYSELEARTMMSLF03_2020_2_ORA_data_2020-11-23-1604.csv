@@ -1,0 +1,779 @@
+Submission ID,Item ID,Anonymized Student ID,Date/Time Response Submitted,Response,Assessment Details,Assessment Scores,Date/Time Final Score Given,Final Score Points Earned,Final Score Points Possible,Feedback Statements Selected,Feedback on Peer Assessments
+8ba79eae-a8ff-42ca-99ea-23d6796629fa,30574,7e64c4ef09bb89878bd420fe61513d3e,2020-11-23 03:00:47.011395+00:00,"{""parts"": [{""text"": ""Si se puede calcular el volumen, utilizando el agua como unidad de medida.  Se puede medir el volumen del agua contenida en la caja, posteriormente sumergir las papas y volver a medir  tomando como referencia las nuevas medidas de las aristas que ocupa el agua en el recipiente. Finalmente restar el volumen y por el volumen dos. (Establecer la diferencia)""}]}",,,,,,,
+cb02148f-7ad4-4d46-889c-6207bc0042d8,30475,f57f20925cbdcb6b115b37717b11ad18,2020-11-22 17:54:49.360445+00:00,"{""parts"": [{""text"": ""Fabian podría utilizar calcular el area de un triangulo, pero debe cambiar la unidad de medida, la puede transformar a metros y quedaría 1m por 0,87m dividido en 2 = 0,435 y luego multiplicar por 6 que es la cantidad de triángulos que esta formada la figura, siendo su àrea total de 2,61 m2""}]}","Assessment #26666
+-- scored_at: 2020-11-23 01:01:18.515245+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26666
+-- Calificación: Parcialmente correcta (8)
+",2020-11-23 01:01:18.565883+00:00,8,12,,
+b4f80238-28d0-43eb-9679-ceac05eae0b9,30420,f57f20925cbdcb6b115b37717b11ad18,2020-11-22 01:12:12.455891+00:00,"{""parts"": [{""text"": ""Se debe multiplicar largo por ancho (ab) de cada rectangulo y sumarlas.La propiedad de conservación del área ya que el area total equivale a la suma de cada una de las areas que requieren reparación.""}]}","Assessment #26665
+-- scored_at: 2020-11-23 01:00:29.163718+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26665
+-- Calificación: Regular (4)
+",2020-11-23 01:00:29.211477+00:00,4,12,,
+9bae5fc1-4984-486c-af98-c6b5fdc09738,30331,f57f20925cbdcb6b115b37717b11ad18,2020-11-21 00:08:53.997586+00:00,"{""parts"": [{""text"": ""Los arboles son apropiados para la estimación de la altura, pero el àrbol pequeño tiene mejor atributo porque su altura equivale a 1 piso del edificio y el niño puede estimar la altura de edificio y luego puede comparar su altura con la del árbol o también medir el arbol pequeño o marcar al altura del mismo árbol en el edificio y multiplicar por 6.\nAdemas el árbol mas alto corresponde a 2 pisos y se puede multiplicar por 3 para obtener la altura del edificio.""}]}","Assessment #26664
+-- scored_at: 2020-11-23 00:58:56.465885+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26664
+-- Calificación: Parcialmente correcta (8)
+",2020-11-23 00:58:56.513109+00:00,8,12,,
+2cea30fb-1393-4ce9-a1ee-0b73d258b73f,30295,0e7caf08db4c581daa58db3d0debf702,2020-11-20 21:32:07.705396+00:00,"{""parts"": [{""text"": ""La información es suficiente para poder calcular el volumen. Lo primero es tomar las medidas hasta donde llega el agua sin las papas, luego se introducen las papas y se vuelve a tomar las medidas de donde llega el agua. La diferencia que existe entre las medida inicial y la final servirán para poder calcular el volumen. La medida de donde llega el agua sin las papas, servirá como base del paralelepípedo que se formara, luego las medidas que llego a subir el agua con las papas serán las medidas que usaremos para calcular el volumen""}]}","Assessment #26667
+-- scored_at: 2020-11-23 01:02:05.634245+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26667
+-- Calificación: Parcialmente correcta (8)
+",2020-11-23 01:02:05.687712+00:00,8,12,,
+af1a06fb-dbb8-4df2-ae1e-0b2d2fb28de4,30288,13bd49593cec9f11db5e668251915e49,2020-11-20 02:26:08.068648+00:00,"{""parts"": [{""text"": ""Para calcular el área del hexágono regular Fabian solamente necesita el lado y el apotema. Ya que es el perímetro del hexágono por la apotema y todo eso /2.\nEl lado de un metro lo transformo a centímetro ,es decir, equivale a 100 centímetros .\n(6x100)x87 y el resultado lo divido por 2 da como resultado 26.100""}]}","Assessment #26571
+-- scored_at: 2020-11-20 13:51:18.248792+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26571
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:51:18.298271+00:00,8,12,,
+c79c3356-cafa-4783-a19c-fb0d8784a75e,30278,7e39c6e77aaeab1b44fc8c3f9a95dc33,2020-11-20 00:59:36.839563+00:00,"{""parts"": [{""text"": ""El elemento más adecuado para medir a pesar que no es estandarizada serían los árboles ya que uno su altura es de 2 pisos lo que la altura será 3 arboles grandes y el otro el árbol más pequeño que correspondería a 6 árboles pequeños.""}]}","Assessment #26565
+-- scored_at: 2020-11-20 13:42:33.464336+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26565
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:42:33.519125+00:00,8,12,,
+e9e2bea1-89bd-41d6-8bed-27861f4a5b3f,29698,93706a12a7e8ca05d01a229053e9a27e,2020-11-15 23:51:29.977685+00:00,"{""parts"": [{""text"": ""Tendrían que sacar el área de un triangulo y luego multiplicarlo por 6 para obtener el área total del hexágono""}]}","Assessment #26570
+-- scored_at: 2020-11-20 13:51:03.100860+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26570
+-- Calificación: Regular (4)
+",2020-11-20 13:51:03.151756+00:00,4,12,,
+8fac00d2-3dee-4ff6-be78-e8f53dfb2a67,29693,93706a12a7e8ca05d01a229053e9a27e,2020-11-15 23:38:23.150745+00:00,"{""parts"": [{""text"": ""Los profesores sacara el área de los lugares dañando para después sumarlas  obtener e área total a reparar.""}]}","Assessment #26568
+-- scored_at: 2020-11-20 13:43:47.162733+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26568
+-- Calificación: Regular (4)
+",2020-11-20 13:43:47.227061+00:00,4,12,,
+72588f09-e262-4630-932b-319836503134,29609,849c2f9e30d8b84d9a625b7206ceea60,2020-11-15 02:46:26.085714+00:00,"{""parts"": [{""text"": ""Para realizar el cálculo del área de la región hexagonal, se puede descomponer la figura en regiones triangulares iguales y congruentes, quedando compuesto por triángulo 1, triángulo 2, triángulo 3, triángulo 4, triángulo 5 y triángulo 6. Donde la medida de la base es de 1 metro y su altura de 87 centímetros, y la fórmula para calcular el área de un triángulo corresponde a base por altura dividido por dos, donde la base es de 1 metro o 100 centímetros, correspondiente a la equivalencia entre metros y centímetros; y la altura corresponde a 87 centímetros. Posteriormente se reemplazan los valores y multiplico (100*87) : 2 cuyo resultado es 4350, correspondiente al valor de un triángulo, pero como el hexágono se dividió en seis triángulos congruentes, el valor antes obtenido corresponde sólo a uno de los seis triángulos, por lo que el 4350 hay que multiplicarlo por 6 cuyo resultado es 26100, por lo que el área del hexágono es 26.100 centímetros cuadrados, y si se realiza la conversión centímetro a metro el área corresponde a 261 metros cuadrados.\nPero como se trata de pintar un superficie, la unidad de medida más adecuada es el metro, por lo que se puede decir que Fabián necesita pintura que cubra la superficie correspondiente a 261 metros cuadrados.""}]}","Assessment #26569
+-- scored_at: 2020-11-20 13:50:56.117526+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26569
+-- Calificación: Correcta (12)
+",2020-11-20 13:50:56.186876+00:00,12,12,,
+83a80d91-54fb-48b6-8137-5bf78b22d562,29607,13bd49593cec9f11db5e668251915e49,2020-11-15 02:44:35.712333+00:00,"{""parts"": [{""text"": ""No seria correctolo que señala Paz, ya que al anotar esa cantidad de tiempo estaría indicando otro registro de hora \nSabemos que 0.5 horas, es igual a media hora, lo cual sería 30 minutos (una hora tiene un total de 60 minutos)\nPor lo tanto, 1.5 horas tiene un total de 90 minutos, ya que: (60 + 60/2)minutos = (60 + 30)minutos = 90 minutos, entonces el registro de Paz seria erróneo, para indicar la cantidad de tiempo que ella desea registrar ,tendría que decir 1hora y 05 minutos o 65 minutos que equivaldrían al tiempo transcurrido.""}]}","Assessment #26585
+-- scored_at: 2020-11-20 13:58:20.663688+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26585
+-- Calificación: Correcta (12)
+",2020-11-20 13:58:20.708577+00:00,12,12,,
+2bea77cf-0de4-4384-b0e9-d2840e267c0a,29569,c0b8cba7edaa47d304323fdd4c4bb36e,2020-11-14 21:43:40.922386+00:00,"{""parts"": [{""text"": ""El registro anotado por Paz no corresponde al tiempo que ella demoró porque al escribir las horas y minutos utilizando la coma, la parte decimal representa las décimas de la unidad y no los 5 minutos que ella demoró en ordenar la pieza. Por ello, el tiempo escrito en la pizarra, representa 1, 5 horas, que es igual a 1 hora y 30 minutos.""}]}","Assessment #26584
+-- scored_at: 2020-11-20 13:58:12.566018+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26584
+-- Calificación: Correcta (12)
+",2020-11-20 13:58:12.610636+00:00,12,12,,
+7c118870-f577-4d04-ba6f-89d9fcd082e6,29499,58bf8950546aab90554b413f8db52d4b,2020-11-14 13:34:16.375273+00:00,"{""parts"": [{""text"": ""Por que 1,5 horas corresponde a 1 hora  y 30 minutos, debido a que el 0,5 quiere decir mitas de una hora que es 30 minutos.\nEn cambio elle estuvo 1 hora con 5 minutos no 1 hora con 30 minutos.""}]}","Assessment #26583
+-- scored_at: 2020-11-20 13:58:02.079813+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26583
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:58:02.126654+00:00,8,12,,
+3dc22c0c-9c64-415c-a86e-f0c876271db2,29476,4b745c0794713b4e61467952b17c5298,2020-11-14 03:06:03.352700+00:00,"{""parts"": [{""text"": ""Porque para anotar la hora, ocupamos el sistema sexagesimal, esto quiere decir que esta en base 60, donde 60 segundos corresponden a un minuto y 60 minutos a una hora. Para escribir la hora utilizamos los \""dos puntos\"". Ella debió haber anotado 1:05 minutos.\nLo que ella escribió, correspondería a una hora y media.""}]}","Assessment #26582
+-- scored_at: 2020-11-20 13:57:53.149784+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26582
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:53.192997+00:00,12,12,,
+3a89c9e9-68f5-4b39-a62d-52482e4518c0,29456,849c2f9e30d8b84d9a625b7206ceea60,2020-11-13 23:34:20.694370+00:00,"{""parts"": [{""text"": ""El registro anotado por Paz se encuentra incorrecto debido a que ella en vez de registrar los minutos en las centésimas lo realizó en las décimas, ¿por qué debió haberlo registrado en las centésimas?, esto se debe a que se utiliza el sistema sexagesimal, que corresponde a un sistema de valor posicional de base 60, dos posiciones seguidas de este sistema, se relacionan porque la de mayor valor es igual a 60 veces la de menor valor, por lo que Paz al registrar en la posición de las décimas, indicó con el número 5 media hora y no 5 minutos, ya que confundió el sistema sexagesimal con el sistema decimal, el cual es de base 10.""}]}","Assessment #26581
+-- scored_at: 2020-11-20 13:57:46.230140+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26581
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:46.276258+00:00,12,12,,
+fa422783-0a77-4c2a-94f5-4d39a9485c90,29452,0e7caf08db4c581daa58db3d0debf702,2020-11-13 23:11:13.132538+00:00,"{""parts"": [{""text"": ""Para medir el tiempo utilizamos el sistema sexagesimal con base 60, es decir 1 hora esta compuesta por 60 minutos , y el minuto por 60 segundos. Cuando se coloca una \""coma \"" se esta indicando que la unidad de medida utilizada se esta dividiendo en cierta cantidad de partes iguales , en este caso de esta dividiendo en 10 partes iguales, como es un sistema sexagesimal, se esta dividiendo 60 en 10 partes iguales , 60 minutos en 10 grupos de minutos, los que tienen la misma cantidad. Como coloco 1,5 horas , lo que esta expresando es que ocupo 1 hora completa, y 5 grupos de minutos , los cuales están compuestos por 6 minutos cada uno, entonces al ocupar 5 grupos lo que hacemos es multiplicar esta cantidad por los minutos que lo componen. 5 x 6 = 30. Lo que expreso Paz es 1 hora y 30 minutos, no 1 hora y 5 minutos , ya que la parte decimal representa decimas de la unidad y en ningún caso los minutos o segundos.""}]}","Assessment #26580
+-- scored_at: 2020-11-20 13:57:39.604667+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26580
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:39.660063+00:00,12,12,,
+1e7aa687-23c2-44b5-ac57-11c9e7f81ca5,29432,a620e7d40c260b239b4e58d1df636e3a,2020-11-13 20:28:33.985094+00:00,"{""parts"": [{""text"": ""Paz esta asociando que la coma (,) separa entre horas y minutos, pero el sistema decimal no es con el cual se mide el tiempo, en este caso el 5 corresponde a 30 minutos, ya que en ambos casos representa la mitad, en el decimal para completar un entero le falta 0,5 y en el reloj le faltan 30 minutos para completar la hora. Por lo que al anotar 1,5 esta indicando que se demoró una hora y media y no una hora y cinco minutos, que fue lo que realmente demoró.""}]}","Assessment #26579
+-- scored_at: 2020-11-20 13:57:33.015599+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26579
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:33.059939+00:00,12,12,,
+90dd9f93-40a3-4926-86a9-21e6b5203330,29421,4474ea08fe23d827ee189007f62af009,2020-11-13 19:26:24.665419+00:00,"{""parts"": [{""text"": ""El ejemplo presentado representa un error clásico en los estudiantes cuando se enfrentan a la expresión de elementos cotidianos con números decimales o fraccionarios. El tiempo que utilizó se expresó de forma literal  en el pizarrón 1 y 5 representativo de las horas que demoró; sin embargo no consideró que un entero para el sistema sexagesimal se expresa en 60 minutos. Por tanto, para arreglar su respuesta, debe considerar a cuánto representan los 5 minutos en el entero de una hora.""}]}","Assessment #26578
+-- scored_at: 2020-11-20 13:57:26.105279+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26578
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:26.157045+00:00,12,12,,
+18632c77-8ec1-43e8-8c1d-4f9132170393,29420,8470ce150fb5a4a1a2b92385d5cd2a70,2020-11-13 19:25:56.682273+00:00,"{""parts"": [{""text"": ""De acuerdo al sistema sexagesimal cada segundo y minutos equivalen a 60, por ende no corresponde porque al anotar el 5 nos da a entender que demoró 30 minutos y no 5 minutos, ya que fue anotado de forma literal.""}]}","Assessment #26577
+-- scored_at: 2020-11-20 13:57:18.649480+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26577
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:18.698530+00:00,12,12,,
+7ff83b88-dc4c-4fc1-b153-f64a22e8e181,29415,5613b21d34598c11b598311dfcc0d95d,2020-11-13 18:59:53.779249+00:00,"{""parts"": [{""text"": ""Porque diciendo 1,5 horas está afirmando que demoró 90 minutos. Pero realmente demoró 65 minutos.""}]}","Assessment #26576
+-- scored_at: 2020-11-20 13:57:10.355028+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26576
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:57:10.411836+00:00,8,12,,
+c12f39e4-17c5-4d8d-b060-0f3b1bc847da,29414,797e80bac3662a23d45b88168f820a1e,2020-11-13 18:34:52.277886+00:00,"{""parts"": [{""text"": ""Lo primero, es mencionar que lo que escribió corresponde a una hora y media, no a una hora y 5 minutos.\nSu error se debió porque, escribió el tiempo agregando una simple coma,  asumiendo que era equivalente en sistema decimal sin hacer la conversión antes. Siendo que, el tiempo utiliza el sistema sexagesimal , es decir, base 60 y no base 10. \nElla debió, haber dicho que se demoro 1,08 horas aproximadamente o simplemente 65 minutos.""}]}","Assessment #26575
+-- scored_at: 2020-11-20 13:57:03.263665+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26575
+-- Calificación: Correcta (12)
+",2020-11-20 13:57:03.309426+00:00,12,12,,
+612b1f5d-f153-4b1f-b357-9835f5fb5238,29312,9cadd87e20bd864d6a0fab4fa551ae9a,2020-11-12 18:32:26.604198+00:00,"{""parts"": [{""text"": ""No corresponde, ya que 1 hora equivale a 60 minutos, por tanto ella considera al escribir 1,5 horas que cada hora equivale a 100 minutos.""}]}","Assessment #26574
+-- scored_at: 2020-11-20 13:56:50.158946+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26574
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:56:50.206371+00:00,8,12,,
+d7ac88d0-38b8-4f06-bfc8-94425bcff3f8,29299,93706a12a7e8ca05d01a229053e9a27e,2020-11-12 15:48:51.975676+00:00,"{""parts"": [{""text"": ""Porque la parte decimal que anota a 12 minutos. La hora que ella anota es 1 hora con 12 minutos.""}]}","Assessment #26573
+-- scored_at: 2020-11-20 13:56:33.097330+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26573
+-- Calificación: Regular (4)
+",2020-11-20 13:56:33.470001+00:00,4,12,,
+ee9e2869-41a1-4f9d-ac2f-84eefec0314e,28900,9cadd87e20bd864d6a0fab4fa551ae9a,2020-11-09 23:17:47.568810+00:00,"{""parts"": [{""text"": ""Fabián debe llevar 1 metro a 100 cm, para así ocupar la misma unidad de medida; luego debe multiplicar la base de un triángulo que sería 100 cm por la altura de este que es 87 cm, y luego dividir por 2 el resultado, así obtendremos el área de un triángulo; y finalmente esto multiplicarlo por los 6 triángulos que componen la pileta. Una vez realizado los cálculos sería conveniente llevar los cm cuadrados a metros cuadrados.\nEj: (100 x 87) / 2 = 4350 cm cuadrados\n       4350 x 6 = 26.100 cm cuadrados\n2, 61 metros cuadrados necesita de pintura.""}]}","Assessment #25479
+-- scored_at: 2020-11-11 23:10:51.380352+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25479
+-- Calificación: Correcta (12)
+",2020-11-11 23:10:51.428376+00:00,12,12,,
+02f926aa-9323-4cc7-8cb7-b3f3dfea8efc,28687,9cadd87e20bd864d6a0fab4fa551ae9a,2020-11-08 14:15:38.336881+00:00,"{""parts"": [{""text"": ""Es posible determinar el volumen, ya que si las mediciones se realizan después de echar las papas, debemos observar cuantos cm bajará el agua y así tendríamos la altura, la cual se multiplica con el ancho y alto del recipiente, dándonos el volumen de las papas.""}]}","Assessment #25480
+-- scored_at: 2020-11-11 23:11:39.340460+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25480
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:11:39.403553+00:00,8,12,,
+f5eef1db-9086-4df1-82ef-3e135b940e4d,27499,8470ce150fb5a4a1a2b92385d5cd2a70,2020-11-08 01:00:50.146739+00:00,"{""parts"": [{""text"": ""la información entrega es suficiente para calcular el volumen, se debe calcular la medida entre a, b y h para obtener el resultado""}]}","Assessment #25074
+-- scored_at: 2020-11-08 02:36:24.694710+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25074
+-- Calificación: Regular (4)
+",2020-11-08 02:36:25.111526+00:00,4,12,,
+c62acad7-104f-4eb5-973c-ba82c780c71c,28483,13bd49593cec9f11db5e668251915e49,2020-11-07 03:00:25.486769+00:00,"{""parts"": [{""text"": ""En relaciòn a la información entregada por la docente ,esta no es suficiente para calcular el volumen de las papas ya que solo menciona el nivel del agua después de introducir las papas y solo con esa información no podremos obtener su volumen ,para obtener el volumen de ambas papas es importante :\n1.  conocer con anterioridad el área de la base de la caja de vidrio\n2. El nivel del agua antes de sumergir las papas\n3.El nivel del agua después de sumergir las papas\nCon esta información podremos obtener el volumen exacto de las papas ya que sabremos cual era el volumen antes de introducir las papas al agua y su variación luego de introducirlas ,así conoceremos con exactitud cual es el volumen de ambas, si quisiéramos saber su volumen de cada papa por separado tendríamos que realizar el mismo procedimiento sumergiéndolas de forma individual ,ya que si solo calculamos volumen del recipiente en el que están contenidas las papas no obtendremos el volumen exacto solo una estimación.""}]}","Assessment #25073
+-- scored_at: 2020-11-08 02:36:16.997059+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25073
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:36:17.049183+00:00,8,12,,
+8060fb94-3ad0-4ab1-a7ca-511338ef1642,27824,1768a833b83b3b12c4c3d9ef9a53b5b8,2020-11-03 01:11:18.826583+00:00,"{""parts"": [{""text"": ""es suficiente ya que tiene que multiplicar calcular el volumen inicial del recipiente con agua (a por b) por c y luego el final  (a por b)por h que es la altura del agua con las papas adentro.""}]}","Assessment #25072
+-- scored_at: 2020-11-08 02:35:38.467189+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25072
+-- Calificación: Regular (4)
+",2020-11-08 02:35:38.517745+00:00,4,12,,
+5af6fa85-0078-40d5-b6fd-8c01e749d4df,27733,bc666d8a55cf6b4ed770629ca234ef21,2020-11-02 02:47:45.470366+00:00,"{""parts"": [{""text"": ""En parte el procedimiento es correcto, salvo que solo debe introducir un cuerpo a la vez, puesto que como son irregulares se debe partir de la base que tienen volúmenes distintos. Lo que realiza correctamente es el tomar las medidas del recipiente hasta el limite del agua y luego, una vez ingresado uno de los cuerpos, medir cuanto subió el nivel del agua para poder calcular su volumen.""}]}","Assessment #25071
+-- scored_at: 2020-11-08 02:35:31.596654+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25071
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:35:31.647011+00:00,8,12,,
+c4aca1c2-7ae6-4655-a5c1-26d44a66734e,27616,4b745c0794713b4e61467952b17c5298,2020-11-01 01:59:27.676114+00:00,"{""parts"": [{""text"": ""No, no es suficiente, ya que el conocer la altura de la caja es irrelevante, y necesitamos conocer la altura del agua inicial en el recipiente y compararla con la altura final del agua luego de introducidas las papas. Para poder conocer el volumen de las papas, es necesario que tengan como información el volumen de agua inicial, (el área basal del recipiente por la altura inicial del agua). Luego de introducir las papas, necesitarán conocer cuanto subió el nivel del agua o medir el área basal del recipiente por la nueva altura del agua y restar ambos volúmenes (volumen inicial con el final) para poder conocer el volumen de las papas.""}]}","Assessment #25070
+-- scored_at: 2020-11-08 02:35:11.502194+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25070
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:35:11.549548+00:00,8,12,,
+71292f6e-6789-4462-9c72-41ad4c8f3d50,27614,849c2f9e30d8b84d9a625b7206ceea60,2020-11-01 01:42:02.053405+00:00,"{""parts"": [{""text"": ""La información que se obtiene no es suficiente para calcular el volumen de ambos cuerpos irregulares, esto se debe a que la profesora no fue precisa en la información que los estudiantes debían registrar para poder realizar la actividad solicitada, debiendo haber considerado el área de la caja de vidrio, el nivel de agua antes de sumergir la papa y el nivel de agua después de sumergir la papa.\nLo que debió haber solicitado a los estudiantes la profesora debió haber sido lo siguiente.\n1.- Calcular el volumen del agua contenida en el recipiente antes de incorporar los cuerpos irregulares, para ello deben medir el largo del recipiente, luego el ancho y posteriormente el alto del agua que se encuentra dentro del recipiente, pueden utilizar la misma huincha de medir que se encuentra dentro de los materiales. De lo contrario haber entregado la medida del volumen del recipiente de vidrio antes de sumergir las papas, como medida inicial del volumen.\n2.- Registrar el volumen del agua que se encuentra el recipiente.\n3.- Luego sumergir las papas y de ahí solicitar la medida del volumen que tiene el recipiente con el contenido dentro, tal y como aparece en la instrucción que se encuentra en la imagen.\n4.- Finalmente para conocer el volumen del cuerpo irregular, los estudiantes deben encontrar la diferencia entre el volumen obtenido con las cuerpos dentro y el volumen inicial del recipiente, cabe destacar que tiene que ser en este orden, puesto que la medida final es mayor que la inicial, y con esto se produce que la sustracción no se encuentre en números negativos, ya que la medida del volumen no puede estar expresada de esta forma. Además se cumple con la sustracción de números naturales, donde el minuendo debe ser mayor al sustraendo para poder obtener la resta.\nPor lo tanto, la respuesta al objetivo de trabajo se obtiene de la diferencia entre el volumen final y el volumen inicial del recipiente.""}]}","Assessment #25069
+-- scored_at: 2020-11-08 02:34:53.657013+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25069
+-- Calificación: Correcta (12)
+",2020-11-08 02:34:53.750374+00:00,12,12,,
+e812e881-26d9-4504-9310-e06d30cdb037,27570,c0b8cba7edaa47d304323fdd4c4bb36e,2020-10-31 23:08:12.003197+00:00,"{""parts"": [{""text"": ""Para esta actividad, considero que falta información ya que no tomaron  el altura del agua antes de ingresar las papas al recipiente con agua. \nSin este dato, no pueden determinar la diferencia de las alturas, y por ello, tampoco el volumen. \nEl procedimiento que usaría para calcular el volumen seria el indicado en este ejercicio, y aclararía que primero deben tomar el altura del agua antes de ingresar las papas. \n-Otra alternativa sería seguir este mismo procedimiento, luego sacar las papas y medir la altura.""}]}","Assessment #25068
+-- scored_at: 2020-11-08 02:34:32.378299+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25068
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:34:32.432279+00:00,8,12,,
+9f6ea000-fdee-445b-8a40-f4539aaf5c49,27503,5613b21d34598c11b598311dfcc0d95d,2020-10-31 18:03:47.764387+00:00,"{""parts"": [{""text"": ""Las medidas son suficientes. \nSe calcula el volumen del contenedor antes de inroducir las papas.\nLuego se calcula después de introducir las papas. \nSe resta, y la diferencia es el volumen de las papas.""}]}","Assessment #25067
+-- scored_at: 2020-11-08 02:34:18.729503+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25067
+-- Calificación: Regular (4)
+",2020-11-08 02:34:18.799385+00:00,4,12,,
+b5c9e8d8-3c39-40ab-a982-bd411ce35184,27498,4474ea08fe23d827ee189007f62af009,2020-10-31 17:45:39.957919+00:00,"{""parts"": [{""text"": ""Si es suficiente, ya que al ingresar las papas dentro del agua es posible realizar un cálculo del volumen. Para realizar el cálculo del volumen, se debe calcular a x b x h, mediciones que delimitan el alcance del agua dentro del recipiente.""}]}","Assessment #25066
+-- scored_at: 2020-11-08 02:34:08.483884+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25066
+-- Calificación: Regular (4)
+",2020-11-08 02:34:08.535344+00:00,4,12,,
+4965c754-e188-45c5-a717-18704cf5f471,27402,93706a12a7e8ca05d01a229053e9a27e,2020-10-31 00:10:14.471819+00:00,"{""parts"": [{""text"": ""Sacar el volumen de la cada, sacar la cantidad de agua que tiene inicialmente la caja, después colocar las piedras volver a sacar el volumen del agua que utiliza la caja y restársela al volumen de la caja inicial""}]}","Assessment #25065
+-- scored_at: 2020-11-08 02:33:53.371238+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25065
+-- Calificación: Regular (4)
+",2020-11-08 02:33:53.425695+00:00,4,12,,
+ad3efa35-78ea-49e3-a6bb-94f67373209b,27369,797e80bac3662a23d45b88168f820a1e,2020-10-30 20:09:33.123128+00:00,"{""parts"": [{""text"": ""Lo que indica la docente no esta correcto, ya que se necesita la altura del agua antes de introducir las dos papas. \nPor lo tanto, para poder calcular el volumen de las dos papas deben: calcular el área la base (largo y ancho) y la altura inicial y  final, para luego hacer la comparación de alturas y calcular el volumen de las dos papas.""}]}","Assessment #25064
+-- scored_at: 2020-11-08 02:33:43.311643+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25064
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:33:43.357401+00:00,8,12,,
+852b22d2-d2ab-4c0a-b769-541a49f0d440,27337,a620e7d40c260b239b4e58d1df636e3a,2020-10-30 16:03:48.297060+00:00,"{""parts"": [{""text"": ""Para calcular el volumen falta la medida del agua antes de ingresar las papas.\nde esta manera se calcula el área basal (a*b) y luego por la altura (h) en ambo casos y luego restar ambos resultados es decir: \na*b*h1 - a*b*h2\ncon h1, como la altura del nivel del agua después de sumergir las papas y h2, como la altura del nivel del agua antes de sumergir las papas.\notra opción sería realizar la diferencia de alturas de inmediato, es decir:\na*b*(h1-h2)""}]}","Assessment #25063
+-- scored_at: 2020-11-08 02:33:31.075997+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25063
+-- Calificación: Correcta (12)
+",2020-11-08 02:33:31.130999+00:00,12,12,,
+be2d16aa-404b-4838-a12c-ea2bd3931650,27148,58bf8950546aab90554b413f8db52d4b,2020-10-29 02:23:22.178163+00:00,"{""parts"": [{""text"": ""Primero deben medir el volumen del agua que hay en el recipiente multiplicando el área basal del recipiente por la altura del agua, una vez realizado esto introducen las papas y calculan nuevamente el volumen del agua con las papas dentro, multiplicando el área basal del recipiente con  la nueva  altura del agua  y al obtener  dichos valores se restan sus resultados y se obtiene el volumen de las papas.""}]}","Assessment #25062
+-- scored_at: 2020-11-08 02:33:19.381306+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25062
+-- Calificación: Parcialmente correcta (8)
+",2020-11-08 02:33:19.435875+00:00,8,12,,
+84326d07-2bc5-434f-bdea-4b8e430a278d,26494,f225a17c7e77e962f4cafdf808113986,2020-10-24 02:27:44.685773+00:00,"{""parts"": [{""text"": ""El procedimiento utilizado es:  se encerraron en rectángulos (figura regular) ya que es mas simple calcular su área multiplicando largo por ancho, para luego sumar las superficies obteniendo los metros cuadrados que se deben reparar. La propiedad geométrica que lo justifica es la del rectángulo donde sus pares de lados paralelos tienen la misma longitud, lo que facilita el cálculo de su área.""}]}","Assessment #26567
+-- scored_at: 2020-11-20 13:43:40.446143+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26567
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:43:40.501135+00:00,8,12,,
+4e39c55c-48c6-4a8e-ae43-9fd6532a029c,26471,bc666d8a55cf6b4ed770629ca234ef21,2020-10-23 22:06:58.871652+00:00,"{""parts"": [{""text"": ""Los datos que obtiene Fabián son los de la base y la altura del triángulo. Lo primero es que debemos transformar la altura (80cm) a metros para igualar las unidades de medida, entonces calculamos el área de un triángulo (1x0,87/2) lo que nos da 0,435 m2 y ese valor lo multiplicamos por 6 (cantidad de triángulos presentes en el hexágono regular), y así obtenemos como resultado final 2,61 m2 de área para nuestro hexágono regular.""}]}","Assessment #25478
+-- scored_at: 2020-11-11 23:10:38.834526+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25478
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:10:38.883517+00:00,8,12,,
+4fc4ecf7-038a-4846-946a-50f1ab7769eb,26064,bc666d8a55cf6b4ed770629ca234ef21,2020-10-19 00:28:55.479674+00:00,"{""parts"": [{""text"": ""Primero que todo el medir las longitudes de cada triangulo para luego calcular su área y sumarlas para obtener cuanto necesitan para comprar es lo correcto, puesto que obtendrán el área total a reparar, además como las imperfecciones están contenidas en los rectángulos el área calculada alcanzara de sobra para repararlas.""}]}","Assessment #26566
+-- scored_at: 2020-11-20 13:43:26.350705+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26566
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:43:26.398018+00:00,8,12,,
+dd80c949-909b-473b-a3fb-4b9cc8e0214c,25993,dcb0e43ecfbf51cdbbbe900431269529,2020-10-18 03:13:01.901483+00:00,"{""parts"": [{""text"": ""El procedimiento que aplicarán los profesores fue el de trazar las diagonales, es decir, repartir la figura en triángulos iguales, a través de la propiedad de la conservación.\nPudiendo comparar y relacionar según las medidas, incluyendo la extensión de un rectángulo, donde uno visualiza la medida, de un lado de éste, que se puede ocupar para calcular el área del triángulo, pues está dando la medida de la altura, de éste. Sabiendo que la base tiene como medida 1 metro (100 centímetros) y la altura 0.87 metros (87 centímetros).\nEntonces ocupamos la fórmula para calcular el área del triángulo; base por altura dividido en 2. Sería 87 x 100: 2 o 0.87 x 1 :2 y el resultado del área de un triángulo luego se multiplica por 6. Pues el hexágono esta conformado por 6 triángulos iguales.""}]}","Assessment #25477
+-- scored_at: 2020-11-11 23:10:28.020096+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25477
+-- Calificación: Correcta (12)
+",2020-11-11 23:10:28.066625+00:00,12,12,,
+1a75caa9-8a73-444e-bff2-78f554ca97a9,25986,4b745c0794713b4e61467952b17c5298,2020-10-18 02:54:16.253247+00:00,"{""parts"": [{""text"": ""El docente lo que hizo fue basarse en que el área de cualquier polígono regular será la suma de las áreas de los triángulos que lo conforman, por ese motivo dividió en 6 triángulos la figura principal.  Teniendo la medida de uno de los lados del polígono, al ser regular, sabemos que todas medirán lo mismo. Por ello sólo necesitábamos conocer el largo de un solo lado (1 mt). Por otra parte, como calcularemos el área a partir de los triángulos que se han formado, es necesario conocer la altura, que en este caso es de 87cm. \nCon esos datos, podemos calcular el área de uno de los 6 triángulos, utilizando la fórmula para obtener el área de un triángulo, es decir, base por altura, y ese resultado dividirlo en dos. En este caso el área de un triángulo es de (100cm x 87cm) : 2 = 4.350cm2 , si esa cantidad la multiplicamos por los 6 triángulos que componen la figura nos dará como resultado 4.350cm2 x 6 = 26.100cm2""}]}","Assessment #25476
+-- scored_at: 2020-11-11 23:10:16.483022+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25476
+-- Calificación: Correcta (12)
+",2020-11-11 23:10:16.531361+00:00,12,12,,
+0156ed24-3b87-4c2a-85b2-6306c6ad5532,25981,c0b8cba7edaa47d304323fdd4c4bb36e,2020-10-18 02:48:33.343140+00:00,"{""parts"": [{""text"": ""Con los datos entregados en el problema se puede calcular, ya que el hexágono está compuesto por 6 triángulos de mismas magnitudes, y tenemos la base y la altura. \nPodemos calcularlo, considerando el lado del hexágono por su altura dividido en dos, para el área de un triángulo. Luego, ese resultado se multiplica por seis, para abarcar el hexágono completo.""}]}","Assessment #25475
+-- scored_at: 2020-11-11 23:10:01.698013+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25475
+-- Calificación: Regular (4)
+",2020-11-11 23:10:01.750859+00:00,4,12,,
+5fe2e30a-4e5b-4ddf-939e-096f1ae206dd,25971,4474ea08fe23d827ee189007f62af009,2020-10-18 02:04:25.671454+00:00,"{""parts"": [{""text"": ""El procedimiento diseñado por los profesores contempla una situación de la vida cotidiana, con una propuesta de hexágono regular estimulando el nivel abstracto y considera los conocimientos previos como el cálculo del área en un triángulo. Para poder expresar el área global de la figura, se utiliza la propiedad geométrica de triangulación manteniendo concordancia entre las medidas interiores en el hexágono resolviendo de forma lógica con el cálculo de área del triángulo en la expresión \""base por altura, dividido por dos\"", para luego multiplicar el resultado en tantos triángulos contenga el hexágono de referencia.""}]}","Assessment #25474
+-- scored_at: 2020-11-11 23:09:52.125158+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25474
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:09:52.172180+00:00,8,12,,
+3e06291b-ec12-4306-8163-74fe1ff68778,25970,8470ce150fb5a4a1a2b92385d5cd2a70,2020-10-18 02:04:01.552731+00:00,"{""parts"": [{""text"": ""El procedimiento para saber cuántos metros cuadrado se deben reparar primero deben ocupar la fórmula del área de un triángulo (base por altura dividido por 2), luego el resultado multiplicarlo por la cantidad de triángulos totales o sumar reiteradas veces el resultado según la cantidad de triángulos totales, la propiedad geométrica a utilizar es la triángulación, ya que  subdivide en el interior de un hexágono en triángulos coincidiendo con los vértices del polígono.""}]}","Assessment #25473
+-- scored_at: 2020-11-11 23:09:39.514414+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25473
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:09:39.559569+00:00,8,12,,
+d56b000d-2532-4637-85ee-4b11b70293a4,25968,0e7caf08db4c581daa58db3d0debf702,2020-10-18 01:50:50.755465+00:00,"{""parts"": [{""text"": ""Los profesores utilizan la equidescomposición de de figuras geometricas para calcular el area, en este caso se utiliza en area de un triangulo, ancho y altura de este. La propiedad de conservación de puede utilizar para saber cuantos metros se deben reparar. Al saber el area de un triangulo , podemos iterar esta cantidad las veces que fue dividido el hexagono. (1 x 0,87) : 2 = 0,435  /// 0,435 x 6 (cantidad de triangulos que componen el hexagono) = 2,61""}]}","Assessment #25472
+-- scored_at: 2020-11-11 23:09:26.076572+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25472
+-- Calificación: Correcta (12)
+",2020-11-11 23:09:26.122871+00:00,12,12,,
+1918747f-6074-4386-a132-fbe36caf06b2,25965,7e64c4ef09bb89878bd420fe61513d3e,2020-10-18 01:25:09.959224+00:00,"{""parts"": [{""text"": ""Los profesores  pueden calcular los metros cuadrados necesarios aplicando la propiedad asociada a  los polígonos regulares. En este caso Un polígono regular como el hexágono , es una figura que se puede descomponer en seis triángulos equiláteros, que tienen igual medida. Por tanto , conociendo cuanto es el valor de la medida de una de sus lados y la de la altura de la base hasta el centro podemos calcular el área de un triangulo y luego multiplicar por seis hasta obtener el área total. Área T= 1m x 0,87m x 6= 5,22 cm2""}]}","Assessment #25471
+-- scored_at: 2020-11-11 23:09:15.283620+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25471
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:09:15.342182+00:00,8,12,,
+f6910cb5-7404-4a5c-af9d-42f8d26e8e77,25807,797e80bac3662a23d45b88168f820a1e,2020-10-17 02:25:24.382770+00:00,"{""parts"": [{""text"": ""Se esta utilizando la triangulación. Ahora para calcular la superficie total, debemos calcular la superficie del triángulo formado desde el centro del hexágono y los lados como base de este. Además, tenemos la información de la altura y base de cada uno de ellos. Luego debemos multiplicar por 6, o sumar 6 veces el área del triángulo.\nSi calculamos en metros, obtendríamos que: 0,87 x 1 x 6 = 5,22metros cuadrados.\nAhora podemos saber que necesitan cubrir 5,22 metros cuadrados, con pintura nueva.""}]}","Assessment #25470
+-- scored_at: 2020-11-11 23:09:02.981673+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25470
+-- Calificación: Parcialmente correcta (8)
+",2020-11-11 23:09:03.031857+00:00,8,12,,
+4b1bab4b-e550-42a4-b4b5-22a0c7e457b2,25557,a620e7d40c260b239b4e58d1df636e3a,2020-10-15 22:21:06.701612+00:00,"{""parts"": [{""text"": ""los profesores usaron la triangulación ya que dividieron la figura en 6 triángulos y como se sabe el valor de la base de ese triángulo (un metro, ya que el polígono tiene todos sus lados iguales) y además su altura (87 centímetros, ya que en los 6 triángulos se toma desde el punto medio de la base y el centro del hexágono que también es un vértice de los triángulos). Entonces queda calcular el área de un triángulo y eso multiplicarlo por 6, en este caso transformamos el metro a centímetro para trabajar con la misma unidad de medida:\n100 x 87 = 8700\n8700/2 = 4350\npor lo que cada triángulo tiene un área de 4350 centímetros cuadrados, eso lo multiplicamos por 6 quedándonos26100 centímetros cuadrados. pero como la pregunta viene en metros lo transformamos a dicha unidad de medida.\n26100/10000= 2,61metros cuadrados""}]}","Assessment #25467
+-- scored_at: 2020-11-11 23:08:41.381450+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25467
+-- Calificación: Correcta (12)
+",2020-11-11 23:08:41.429630+00:00,12,12,,
+5a8def50-d7c0-485b-b4ad-5afe24fc14ac,25556,58bf8950546aab90554b413f8db52d4b,2020-10-15 22:03:39.095055+00:00,"{""parts"": [{""text"": ""Al subdividir el hexágono en 6 triángulos iguale puede calcular el área de 1 triangulo y luego multiplicarlo por 6 por que son 6 triángulos. \nTambién puede dividir el hexágono en 2 trapecios calcular el área de 1 de ellos y multiplicarlo por dos.\n\nPropiedad de conservación de área""}]}","Assessment #25466
+-- scored_at: 2020-11-11 23:08:24.938547+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #25466
+-- Calificación: Correcta (12)
+",2020-11-11 23:08:25.003631+00:00,12,12,,
+ee91af18-565d-4c1f-a20c-6287aeaea6c2,25433,13bd49593cec9f11db5e668251915e49,2020-10-14 03:08:32.591916+00:00,"{""parts"": [{""text"": ""para calcular el área de la superficie que se debe reparar en la cancha de futbol tomaremos como referente la cantidad de líneas segmentadas que están en  cada uno de los lados de las figura y la contaremos  cada considerándolos como pasos donde cada paso equivale a 1 metro aproximadamente, para sacar una estimación de su área\npor ejemplo en la figura D que es un rectángulo tomaremos uno de sus lados que tiene 5 pasos  y 6 pasos en el otro ,multiplicaremos esos lados para sacar una estimación de su area dando como resultado 30 pasos al cuadrado ,entonces podríamos decir que su área es de 30 pasos al cuadrado y así siguiendo este procedimiento podríamos sacar el área de cada una de las partes dañadas de la cancha y al final las sumariamos para sacar el área total a reparar.\nLa propiedad que podríamos utilizar seria por conteo tomando como referencia elementos en común que se encuentran en todas las zonas a reparar en la cancha ,utilizando un referente para su estimación""}]}","Assessment #23423
+-- scored_at: 2020-10-18 01:41:12.312456+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23423
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:41:12.359799+00:00,8,12,,
+89d94f7a-11b1-4c3f-be62-dd6c24efc468,25003,c0b8cba7edaa47d304323fdd4c4bb36e,2020-10-10 19:22:34.663586+00:00,"{""parts"": [{""text"": ""El procedimiento utilizado por los profesores corresponde a medir los lados, calcular las áreas individuales y luego sumarlas; para de esta forma saber con exactitud el césped a reparar. \nPara lo anterior, se debe considerar las propiedades del área, especialmente el principio de conservación del área, donde al juntaríamos las áreas individuales para tener un total.""}]}","Assessment #23422
+-- scored_at: 2020-10-18 01:40:45.499235+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23422
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:40:45.552174+00:00,8,12,,
+50556070-cfbb-474c-bfe1-7429fa0e0cc0,24963,9cadd87e20bd864d6a0fab4fa551ae9a,2020-10-09 22:28:26.399936+00:00,"{""parts"": [{""text"": ""Los profesores piden medir la longitud de sus lados con el fin de obtener el área de estos rectángulos, una vez hecho esto, sumarán las áreas obtenidas, esto es posible, ya que según el principio de conservación del área, en este caso al juntar figuras para formar una nueva, el área total será igual a la suma de las partes.""}]}","Assessment #23421
+-- scored_at: 2020-10-18 01:40:35.569329+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23421
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:40:35.618270+00:00,8,12,,
+d0f4b160-dc5f-4282-bec2-d13bb9d699eb,24823,1768a833b83b3b12c4c3d9ef9a53b5b8,2020-10-08 22:56:05.193740+00:00,"{""parts"": [{""text"": ""Los profesores para reparar la cancha están considerando la superficie de los daños aproximando las medidas en rectángulos, me parece que es una muy buena forma de hacerlo. Para saber o aproximar la superficie de un lugar, en m2. ya que no se menciona ningún instrumento de medida.""}]}","Assessment #23420
+-- scored_at: 2020-10-18 01:40:23.658765+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23420
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:40:23.715812+00:00,8,12,,
+0a27a252-5163-4fd6-8aa4-082f762f8f55,24425,849c2f9e30d8b84d9a625b7206ceea60,2020-10-04 03:39:28.078713+00:00,"{""parts"": [{""text"": ""El procedimiento utilizado por los profesores para saber la cantidad de metros cuadrados que hay que reparar, se representa mediante cinco zonas de pasto que son las que se encuentran en mal estado, el planteamiento que realizan los profesores corresponde a componer una figura a partir de la utilización de otras, donde se aplica la propiedad de las figuras equidescomponibles, que consiste en descomponer una de las figuras en un número finito de partes, las que pueden reubicarse, pudiendo ser a través del traslado, rotando o reflejando la misma (transformaciones isométricas), para formar la otra figura sin que ninguna parte sea sobrepuesta; de este modo el planteamiento de los profesores es reubicar las figuras que representan las partes en mal estado aplicando alguna de las transformaciones isométricas antes mencionadas, manteniendo el tamaño y de ésta forma se mantiene el área de la cancha también.""}]}","Assessment #23419
+-- scored_at: 2020-10-18 01:40:12.272078+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23419
+-- Calificación: Correcta (12)
+",2020-10-18 01:40:12.320533+00:00,12,12,,
+5e8232a9-3658-4cd7-8149-fdbd0e8fc356,24423,4b745c0794713b4e61467952b17c5298,2020-10-04 03:37:22.651802+00:00,"{""parts"": [{""text"": ""Los profesores obtendrán el área de cada zona a reparar para luego aplicar el principio de conservación del área, que dice que el área total será la suma de las áreas de sus partes. Por lo tanto al sacarlas de forma individual y luego sumarlas sabrán el área total que deben reparar.""}]}","Assessment #23418
+-- scored_at: 2020-10-18 01:39:55.271911+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23418
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:39:55.321447+00:00,8,12,,
+e94f782b-aad0-4cf1-ab1a-59c133d7f5c5,24422,dcb0e43ecfbf51cdbbbe900431269529,2020-10-04 03:33:17.996428+00:00,"{""parts"": [{""text"": ""El procedimiento que ocuparon los docentes en este caso fue, en establecer el área de una superficie rectangular es particionar o descomponer dicho superficie en cuadrados de igual medida.  Ya que si estiman, deberán lograr la relación adecuada del referente y la magnitud, en este caso la superficie, y esto determinará la cantidad de veces que cabe , comparando a su vez la longitud de los lados, para poder usar el calculo de área (a x b), mediante la iteración.""}]}","Assessment #23417
+-- scored_at: 2020-10-18 01:39:45.425377+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23417
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:39:45.480165+00:00,8,12,,
+8a18fc93-1235-4b89-bca8-3c04364c2f79,24392,0e7caf08db4c581daa58db3d0debf702,2020-10-04 02:34:53.521049+00:00,"{""parts"": [{""text"": ""al sumar las áreas torales de cada sector se puede obtener un area total ,pero se deben sumar las áreas totales. Para esto se utiliza el principio de conservación del área, donde se pueden juntar rectángulos o cuadrados para formar una nueva figura.""}]}","Assessment #23416
+-- scored_at: 2020-10-18 01:39:31.391818+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23416
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:39:31.443970+00:00,8,12,,
+71bc3de4-069f-4b7d-b6e1-dd5e8563d654,24391,7e64c4ef09bb89878bd420fe61513d3e,2020-10-04 02:34:03.592574+00:00,"{""parts"": [{""text"": ""Al ser superficies irregulares las que se medirán, los profesores estiman la medida utilizando polígono regulares como el rectángulo que luego se puede descomponer en otras figuras regulares para cubrir la superficie deteriorada.  Lo hacen aplicando la propiedad que define el área de una figura como el producto de la longitud de sus lados y estimando por exceso. O sea preferentemente calculando mayor superficie a cubrir para que no le falte.  \nUsaran la unidad de medida estandarizada para comprar el césped que es el mt2.  Y aplicaran movimientos isométricos  rígidos de las unidades de medidas seleccionada para hacer coincidir las partes. \nLa suma total  a cubrir se obtendrá al sumar las porciones a+b+c+d+e.""}]}","Assessment #23414
+-- scored_at: 2020-10-18 01:39:20.854253+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23414
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:39:20.899113+00:00,8,12,,
+9d2de5d8-2c16-4a15-bc40-50ab6d5985d1,24365,797e80bac3662a23d45b88168f820a1e,2020-10-04 01:37:27.148169+00:00,"{""parts"": [{""text"": ""Lo que están planteando la profesora Gloria, es usar el principio de conservación. Ya que al sumar las áreas pequeñas que deben reparar, encontraran el área total de la cancha que deben arreglar.\n Además, usando este principio será mucho más fácil encontrar el área total dañada, porque ninguna de las zonas marcadas por el profesor Pedro queda sobrepuesta con otra.""}]}","Assessment #23413
+-- scored_at: 2020-10-18 01:38:41.344682+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23413
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:38:41.400995+00:00,8,12,,
+c1b69b7a-e1f6-458d-9b7d-076ee3cf023f,24341,8470ce150fb5a4a1a2b92385d5cd2a70,2020-10-04 00:22:15.907561+00:00,"{""parts"": [{""text"": ""deberán medir cada rectángulo para obtener su longitud o perímetro, a lo que nos dará para así obtener el área de cada uno y al sumarlos nos indique un total de cancha dañado, la propiedad geométrica que respalda lo antes mencionado es el principio de conservación del área, ya que nos indica que que al mover una figura no se desarma el área inicial.""}]}","Assessment #23412
+-- scored_at: 2020-10-18 01:38:05.821029+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23412
+-- Calificación: Correcta (12)
+",2020-10-18 01:38:05.954094+00:00,12,12,,
+064dc97b-1c8e-4c69-b23b-982ac77fa3e3,24340,4474ea08fe23d827ee189007f62af009,2020-10-04 00:22:11.638410+00:00,"{""parts"": [{""text"": ""Lo que realizan los profesores está en lo cierto para poder maximizar el recurso necesario para reparar la cancha. Su procedimiento corresponde  al Principio de Conservación del Área, dado que se agrupan las figuras para realizar un cálculo de nueva superficie sin cambiar o modificar la forma de las figuras iniciales.""}]}","Assessment #23411
+-- scored_at: 2020-10-18 01:37:46.710088+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23411
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:37:46.753923+00:00,8,12,,
+09f3a60f-db46-42db-8dbf-eef736909336,24257,5613b21d34598c11b598311dfcc0d95d,2020-10-03 19:20:15.355473+00:00,"{""parts"": [{""text"": ""- Los profesroes ancerraron las areas utilizando reclangulos de las partes que debían reparar. \n- Luego calcularon las areas de cada rectángulo para sumar y ver la superficie total de reparación. \n\nSe utilizó el Principio de conservación del área, ya que descompusieron una figura mayor en algunas menores. El área total es igual a la suma del área de todas las partes, siempre conservando el área inicial.""}]}","Assessment #23410
+-- scored_at: 2020-10-18 01:37:32.447592+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23410
+-- Calificación: Correcta (12)
+",2020-10-18 01:37:32.492930+00:00,12,12,,
+adb83f4a-4c9f-4875-9d39-b25137b548d3,24195,849c2f9e30d8b84d9a625b7206ceea60,2020-10-03 03:57:38.139267+00:00,"{""parts"": [{""text"": ""Al observar la imagen y determinar el elemento más adecuado para realizar una estimación, es preciso considerar que para estimar se requiere replicar una cantidad de veces que se pueda representar con un número natural, la medida de un objeto u elemento. Según lo anterior y la observación realizada puede desprenderse lo siguiente, sería factible considerar como elemento apropiado para realizar la estimación del edificio el árbol que se encuentra a la izquierda, el que posee una forma puntiaguda; si tomáramos en cuenta una línea recta que alinee para ubicar el árbol uno sobre otro, podemos decir que mide dos pisos del edificio, por lo que si se tuviera que dar un número relacionado a la estimación de la altura, se puede decir, que el edificio mide aproximadamente tres árboles de altura.\nSi se considera el árbol que se encuentra a la derecha, de forma más menos redonda en la parte superior, se puede estimar que mide aproximadamente un piso del edificio de alto, y al utilizar la misma técnica de superposición del ejemplo anterior, podemos afirmar que el edificio mide aproximadamente seis árboles de altura.\nOtro elemento pertinente puede ser la escalera, siendo considerada la altura que posee, desde la parte superior, que representa el punto más alto, y donde imaginariamente se traza una línea recta hacia el piso, siendo el alto de la aproximación de medida a considerar, siendo así se puede decir que la escalera mide aproximadamente un piso y medio, por lo que se desprende que la altura aproximada del edificio es de tres escaleras.\nEn cuanto a los elementos que considero menos pertinentes para realizar la estimación de la altura del edificio, se encuentra el niño ya que no se menciona un estatura posible del mismo, por lo cual se dificulta la estimación, al igual que los elementos del estuche, de los que tampoco se hace mención en cuanto a forma y/o tamaño posible, además, que se puede subentender que son medidas demasiado pequeñas como para poder estimar la altura del edificio de una forma en que sea comprensible para el estudiante.""}]}","Assessment #26564
+-- scored_at: 2020-11-20 13:42:25.849208+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26564
+-- Calificación: Correcta (12)
+",2020-11-20 13:42:25.908369+00:00,12,12,,
+87743a95-2a20-4510-8db9-df957e6e91a4,24013,58bf8950546aab90554b413f8db52d4b,2020-10-02 04:09:57.923021+00:00,"{""parts"": [{""text"": ""Los profesores calcularon por separado el área de cada rectángulo y luego sumaron dichas áreas para calcular la superficie total que se daño esta acción la realizaron aplicando la Propiedades del área específicamente el principio de conservación del área.\nTambién como cada trozo dañado poseía una superficie irregular estimaron el área comparándola con la de un rectángulo de similares dimensiones.""}]}","Assessment #23409
+-- scored_at: 2020-10-18 01:37:12.817897+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23409
+-- Calificación: Correcta (12)
+",2020-10-18 01:37:12.864959+00:00,12,12,,
+392ec479-1c84-46f0-aadf-2b76ef55ea4d,23973,a620e7d40c260b239b4e58d1df636e3a,2020-10-02 02:09:22.390380+00:00,"{""parts"": [{""text"": ""al encerrar las zonas a reparar en un rectángulo ayuda a obtener medidas certeras, ya que se miden las longitudes largo por ancho, luego se multiplican entre ellas y se obtiene el área de cada rectángulo y al tener todas las áreas por separado se pueden sumar para obtener el área total dañada, la propiedad dice que cuando una figura esta compuesta por dos o más piezas, el área de la figura inicial o completa es igual a la suma de las áreas de cada pieza, ocurre lo mismo si se descompone la figura inicial en varias piezas, su área será la suma de las áreas de cada pieza.""}]}","Assessment #23408
+-- scored_at: 2020-10-18 01:36:47.428551+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #23408
+-- Calificación: Parcialmente correcta (8)
+",2020-10-18 01:36:47.500528+00:00,8,12,,
+1010171a-4dc5-4a92-8808-19f516a456b3,23803,3d9b23105317df95cfe708754597beb2,2020-10-01 02:47:37.715346+00:00,"{""parts"": [{""text"": ""el valor de los árboles, ya que podemos decir que el árbol más grande mide 2 pisos del edificio y podemos estimar que el edificio medirá tres arboles grandes, desde esa perspectiva sabemos que el árbol más pequeños es dos veces el árbol grande así que el edificio mide 6 árboles pequeños.""}]}","Assessment #26563
+-- scored_at: 2020-11-20 13:42:08.193315+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #26563
+-- Calificación: Parcialmente correcta (8)
+",2020-11-20 13:42:08.380397+00:00,8,12,,
+1a75ed62-a899-43f6-998d-bdb7257ae5f6,23485,f225a17c7e77e962f4cafdf808113986,2020-09-29 01:58:51.559623+00:00,"{""parts"": [{""text"": ""Los elementos apropiados para estimar la altura del edificio son los dos arboles, ya que el el de copa redonda mide lo mismo que un piso aproximadamente y el de copa en forma de gota mide aproximadamente dos pisos. Los elementos no apropiados son los lápices y la regla porque son muy pequeños.\nEstimo que la altura del edifico son 3 arboles con la copa con forma de gota, ya que el árbol abarca dos pisos del edificio, y se puede iterar 3 veces.""}]}","Assessment #22319
+-- scored_at: 2020-10-01 01:27:09.750568+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22319
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 01:27:09.847176+00:00,8,12,,
+538bce7d-b195-460b-bbc6-348d6db46dce,23155,7e64c4ef09bb89878bd420fe61513d3e,2020-09-28 00:31:21.596166+00:00,"{""parts"": [{""text"": ""Creo que es apropiado usar como referente la altura de los arboles , utilizar como referente esta unidad de medida a través del desplazamiento (iteración).  Preguntándose cuantas veces cabe este objeto en el edificio de forma visual. \nSi en su estuche tiene lápices y regla puede dibujar el edificio con sus pisos respectivos.  \nY con respecto al estuche y sus lápices, puede dibujar en sus cuaderno el edificio asociando  cada piso con las cuadriculas del mismo, así tendría una unidad de medida más estandarizada si quisiese, ya que cada cuadrito equivale a 1cm.\nNo tiene sentido utilizar la regla para medir el árbol o los lápices para iterarlos,   no es pertinente debido al tamaño del edificio.\n Cualquiera sea el método esta midiendo de forma correcta ya que para la medición no es necesario siempre usar medidas estandarizadas, sino que se pueden ocupar referentes. siempre que no se salte espacios y mida desde la base  del edificio hasta el punto más alto.""}]}","Assessment #22318
+-- scored_at: 2020-10-01 01:26:53.965819+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22318
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 01:26:54.025519+00:00,8,12,,
+7b42db46-9cdc-4f77-b040-3ff28194cb0a,22692,93706a12a7e8ca05d01a229053e9a27e,2020-09-24 23:27:38.091390+00:00,"{""parts"": [{""text"": ""Si se maneja las medidas de los árboles se pueden utilizar como estimación porque se puede establecer una unidad de medidas. La regla no sirve, ya que que es un instrumento muy pequeño para medir un edificio,""}]}","Assessment #22317
+-- scored_at: 2020-10-01 01:26:01.446134+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22317
+-- Calificación: Regular (4)
+",2020-10-01 01:26:01.497858+00:00,4,12,,
+e4f4aade-2776-4107-9380-870849b19f1d,22623,dcb0e43ecfbf51cdbbbe900431269529,2020-09-24 03:27:50.066093+00:00,"{""parts"": [{""text"": ""Para estimar la altura del edificio presentado en el planteamiento de problema, los elementos que le sirven a Pepe,  son los árboles y la escalera. Y los elementos que también aparecen mencionados en el planteamiento de problema, lápices y reglas,no son apropiados para la estimación de este caso.  Pues al momento de ocupar la habilidad de \""estimar\""  es necesario llegar a un consenso entre el referente (edificio) y la magnitud (elementos), si analizamos lo recién expresados nos daremos cuenta que como deseamos medir la altura de un edificio, lo pertinente o adecuado en este caso, para medir y ocupar como magnitud, sería los árboles y la escalera. No es el caso de los lápices ni regla, pues son elementos que no van acorde, si utilizamos la habilidad de comparar, no posee relevancia con el atributo, que queremos medir. Pues al momento de determinar la cantidad de veces que se deberá ITERAR el elemento, serían demasiados y no poseerán pertinencia para este caso.\n\nSi estimamos la altura de este edificio podemos ocupar la escalera y los dos árboles. PERO SI SOMOS MÁS ESPECÍFICOS Y/O DETALLISTAS, SOLO OCUPAREMOS LOS DOS ÁRBOLES.  Pues en el caso de la escalera debemos incluir otros tipos de cálculo, para conseguir la medida de la altura, entonces ya no sería tan práctico para Pepe. A menos que se centre y trace una líne recta imaginaria, en el centro hasta la parte más alta de la escalera y plantee, que esa es la altura del elemento. Pero seguiría siendo poco práctico.\nEntonces nos enfocaremos en los dos árboles, el de formar circular y triangular.  Al momento de comparar, los árboles nos podemos dar cuenta, que si queremos asegurar una buena estimación, mediante el uso del atributo de la altura de los elementos al momento de comparar y usar la magnitud, NOS CONVIENE USAR SOLO EL ÁRBOL TRIANGULAR, PUES CLARAMENTE LA ALTURA EQUIVALE A DOS PISOS DEL EDIFICIO, por ende, es pertinente y adecuada la comparación para poder distinguir que si se itera tres veces la altura del árbol (más alto) de forma triangular, tenemos  la medida del edificio, de manera no estandarizada( pues la altura de este árbol está determinada, con dos pisos del edificio). Si se desea estandarizar la medida del edificio, Pepe podría medir la altura del árbol ( dividiéndolo en dos partes iguales, para poder medirlo de forma más rápida y luego medir una mitad, para multiplicarlo por dos) y luego la medida que logra estimar, aproximando el proceso, recién mencionado lo multiplica por 3, y tendrá un valor referencial del edificio (podemos mencionar que ésta vez puede ocupar la regla, para medir la mitad del árbol, pues las dimensiones de éste, si se considera la mitad, son muchos menores y pertinentes para el uso de este instrumento).""}]}","Assessment #22316
+-- scored_at: 2020-10-01 01:25:49.637458+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22316
+-- Calificación: Correcta (12)
+",2020-10-01 01:25:49.687859+00:00,12,12,,
+b29b1cc5-3ced-42b3-82f8-260722ef3651,22615,077f2b0c407c84c058a5c6d7185f5545,2020-09-24 02:50:12.597518+00:00,"{""parts"": [{""text"": ""Ambos árboles se podrían considerar para estimar la altura del edificio. \nEl árbol con mayor altura (A)  coincide con la medida de dos pisos del edificio, si observamos a simple vista se ve que los pisos tienen la mima medida. Por lo tanto podemos decir que la altura del edificio es aproximadamente  3 veces el árbol A.\nLuego en el caso del árbol más pequeño (B) coincide con la altura de un piso, por lo tanto podemos decir que el edificio tiene como altura aproximada 6 árboles B  (considerando el techo y las antenas, de lo contrario seria solo 6 arboles)\nLa escalera  no seria un elemento efectivo para llevar a cabo la medición ya que,  no nos podemos guiar con algún elemento del edificio, por o que complicaría la estimación.""}]}","Assessment #22315
+-- scored_at: 2020-10-01 01:25:25.744926+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22315
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 01:25:25.796441+00:00,8,12,,
+a749879f-ba5a-418a-8977-a50cc0c4b20d,22595,3d941a55eabcf60cd49b038629d4768f,2020-09-24 01:56:31.909071+00:00,"{""parts"": [{""text"": ""Considero que el árbol más largo es el más adecuado para estimar, ya que este mide lo mismo que dos pisos del edificio.\nEl árbol más pequeño no alcanza a medir un piso por lo cual la estimación tendría un margen de error mayor al dividir el edificio bajo ese parámetro.\nY la escalera alcanza un piso y medio y será difícil proyectar la división para compararlo.""}]}","Assessment #22314
+-- scored_at: 2020-10-01 01:25:04.969900+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22314
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 01:25:05.024432+00:00,8,12,,
+7697696c-100e-44a7-9611-8190e6bacdcf,22560,5613b21d34598c11b598311dfcc0d95d,2020-09-24 00:43:20.820856+00:00,"{""parts"": [{""text"": ""- Árbol pequeño y Árbol grande, son referentes adecuados para estimar la altura del edificio, podemos estimar su altura aproximada. \n*6 árboles pequeños hacen la altura del edficio. \n*3 árboles grandes hacen la altura del edificio. \n- La altura del niño se podría utilizar de igual manera como referente, ya que podríamos decir que dos niños hacen un árbol pequeño o dos niños hacen la altura de un piso del edificio. \n*La altura de 12 niños hace la altura del edificio. \n\n- Creo que la escalera igual podría sevir, pero sería un poco más compleja como referente, ya que se tendría que utilizar como \""la latura del edificio son 4 escaleras\"", tomando en cuanta que la escalera tiene la medida de 1 piso 1/2.""}]}","Assessment #22313
+-- scored_at: 2020-10-01 01:24:40.675350+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22313
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 01:24:40.729452+00:00,8,12,,
+ed3327db-dc0c-4b22-aef5-342cfc8c3f82,22559,c0b8cba7edaa47d304323fdd4c4bb36e,2020-09-24 00:39:44.092256+00:00,"{""parts"": [{""text"": ""Considero que la regla no es un elemento apropiado para estimar la altura del edificio, ya que estimar implica utilizar información mental y visual para medir o comparar, sin recurrir al uso de elementos de medición.\nEl uso de lapices no seria apropiado ya que para medir la altura del edificio necesitariamos muchos lapices y que todos ellos fueran del mismo tamaño entre si.\nUn referente apropiado son los arboles y la escalera, ya que son elementos que podemos iterar, hasta recubrir el edificio para para estimar su altura. Para ello podemos dividir mentalemente el atributo en mitades, tercios o cuartos, hasta que sea posible estimar una medida.\nPara estimar la altura del edificio se puede utilizar el árbol que está a la derecha del edificio (árbol que es más pequeño), el que usaremos como referente, y luego comenzar a iterar el árbol, para de esta forma estimar la altura del edificio. Que al utilizar este referente, el edificio tiene por altura estimada 6 árboles pequeños""}]}","Assessment #22312
+-- scored_at: 2020-10-01 01:24:09.648484+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22312
+-- Calificación: Correcta (12)
+",2020-10-01 01:24:09.699473+00:00,12,12,,
+12b6bbf1-72a8-454d-9fe3-8368394c67d6,22554,13bd49593cec9f11db5e668251915e49,2020-09-24 00:26:19.452790+00:00,"{""parts"": [{""text"": ""Los elementos que no serian apropiados para usar como referentes de estimación serian los lápices y la regla. \njustificación: la regla si bien tiene una unidad de medida estandarizada, no es la adecuada para medir la altura de un edificio ya que se necesitan unidades de medida de mayor longitud. Los lápices no se podrían utilizar como referente ya que es un objeto muy pequeño en comparación a la altura o medida del edificio.\nLos elementos que si se podrían utilizar serian los arboles y la escalera, ya que estos 3 elementos equivalen a la altura de un piso ,un piso y medio o 2 pisos del edificio .\nLa altura estimada del edificio es aproximada a la altura de 6 arboles pequeños; también puede ser 3 arboles altos o 4 escaleras.""}]}","Assessment #22311
+-- scored_at: 2020-10-01 01:23:26.375423+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22311
+-- Calificación: Correcta (12)
+",2020-10-01 01:23:26.422846+00:00,12,12,,
+ac9c8502-f133-4d7a-973c-bd0296f7715c,22530,0e7caf08db4c581daa58db3d0debf702,2020-09-23 22:13:13.837085+00:00,"{""parts"": [{""text"": ""todos los elementos le sirven  para realizar una estimación, pero no todos son apropiados, los arboles y la escalera son apropiados para realizar una estimación en medidas no estandarizadas, la regla puede ser útil para medir cuanto mide el árbol mas pequeño o incluso el primer piso del edificio , luego puede iterar esa medida según la cantidad de segmentos o pisos tenga el edificio. Los lápices no son los mas apropiados, ya que tendría ver ver cuantos lápices mide el edificio, el primer piso, la escalera o algún referente a utilizar, no todos sus lápices puede que sean del mismo tamaño lo que dificulta una estimación mas fidedigna con la real. el árbol mas pequeño debe medir aproximadamente 2.5 mt. si este llega al borde del primer piso, significa que aproximadamente el primer piso mide 2.5 mt,  si tiene 5 pisos y la azotea tiene una dimensión igual, serian 6 pisos . entonces se debe multiplicar 2.5 mt por 6, lo que da un total de 15 mt aproximadamente""}]}","Assessment #22310
+-- scored_at: 2020-10-01 01:22:29.826167+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22310
+-- Calificación: Correcta (12)
+",2020-10-01 01:22:29.933761+00:00,12,12,,
+39f5efaf-2d79-42bf-9577-e679815772fc,22524,4474ea08fe23d827ee189007f62af009,2020-09-23 21:45:07.057877+00:00,"{""parts"": [{""text"": ""Los elementos apropiados para la medición son los árboles y la escalera, porque cuentan con una medida apropiada para la estimación, por ejemplo el árbol más alto que está al lado izquierdo mide dos pisos aproximados del edificio. Los elementos no apropiados son lo que Pepe tiene en su estuche ya que son muy pequeños para realizar una estimación de la altura del edificio.""}]}","Assessment #22309
+-- scored_at: 2020-10-01 00:22:52.077911+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22309
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 00:22:52.121996+00:00,8,12,,
+ceaf188d-b323-47c0-abbd-9257e4dfe9a2,22468,8470ce150fb5a4a1a2b92385d5cd2a70,2020-09-23 17:52:09.763728+00:00,"{""parts"": [{""text"": ""Los elementos apropiados son los árboles y la escalera, porque cuentan con una medida apropiada para la estimación, por ejemplo el árbol  puntiagudo refleja que mide dos pisos del edificio. Los elementos no apropiados  son los que contiene Pepe en su estuche, ya que son muy pequeños para determinar una medida aproximada del edificio.""}]}","Assessment #22308
+-- scored_at: 2020-10-01 00:22:26.323242+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22308
+-- Calificación: Regular (4)
+",2020-10-01 00:22:26.371732+00:00,4,12,,
+fcbd1709-10bf-44cd-aff6-fba268a466aa,22452,4b745c0794713b4e61467952b17c5298,2020-09-23 15:44:20.203387+00:00,"{""parts"": [{""text"": ""Los elementos más apropiados para usar como referente son los árboles ya que son los que más se acercan a puntos de referencia como lo son las divisiones de los pisos, lo que hará que sea más fácil poder iterar visualmente el elemento. La escalera queda justo en mitad de dos pisos, por lo que podría confundirse al ubicarla mentalmente y por eso no la considero apropiada. \nEn el caso de los lápices y la regla no le servirían fácilmente para conocer la altura del edificio a no ser que trabajara a escala, pero en el planteamiento no aparece que trabajará a escala, por lo que queda descartado y al ser elementos tan pequeños no le servirían para realizar la iteración mental de esos objetos.\n\nEn resumen, los arboles son los más apropiados. La escalera, los lápices y la regla no.\n\nLa altura del edificio utilizando el árbol alargado como referente sería aproximadamente de 3 árboles alargados (desde la base del edificio al tejado incluido) ya que ese árbol es aproximadamente dos pisos de altura.\n \nSi utilizo como referente el árbol con forma redondeada, estimo que serían aproximadamente 6 de estos o un poco más, ya que ese árbol casi llega a la altura de un piso.\n\nEn ambos casos, consideré la altura del tejado azul como si fuese un piso aproximadamente.""}]}","Assessment #22307
+-- scored_at: 2020-10-01 00:22:05.809546+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22307
+-- Calificación: Correcta (12)
+",2020-10-01 00:22:05.857863+00:00,12,12,,
+8db7e674-e3cf-40cc-9357-1609715d31a8,22439,9cadd87e20bd864d6a0fab4fa551ae9a,2020-09-23 13:33:25.064705+00:00,"{""parts"": [{""text"": ""Pepe, podría usar como referentes ambos árboles, pienso que el mejor referente, sería el árbol más pequeño, ya que está a la altura de un piso, por tanto se podría inferir que el árbol mide 2,5 m aproximadamente, y luego iteramos esta estimación 6 veces, porque tiene 5 pisos y el techo se estima que tiene la misma medida del árbol. El árbol mayor también podría usarse, ya que cumple con la condición de iterar, en este caso estimar el árbol en 2 pisos.\nLa escalera, no es buen referente, ya que esta no permite estimar de manera más exacta que los árboles, al no delimitar con los pisos.""}]}","Assessment #22306
+-- scored_at: 2020-10-01 00:21:14.640861+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22306
+-- Calificación: Parcialmente correcta (8)
+",2020-10-01 00:21:14.702711+00:00,8,12,,
+ad8564d4-8aad-439b-8b4e-897e5317fba1,22411,1768a833b83b3b12c4c3d9ef9a53b5b8,2020-09-23 01:41:22.684287+00:00,"{""parts"": [{""text"": ""La forma más apropiada de estimar la altura de un edificio para Pepe podría ser usando la medida del árbol como referente, puede decir que el edificio mide 3 veces el árbol más alto. \nSi tiene una regla puede transformar esos cm del árbol a metros y llegar  a la estimación en unidades de medidas más exactas.""}]}","Assessment #22305
+-- scored_at: 2020-10-01 00:19:45.376681+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22305
+-- Calificación: Regular (4)
+",2020-10-01 00:19:45.426785+00:00,4,12,,
+bdcf5193-de76-40a8-9fd9-1bb696fd1430,22366,797e80bac3662a23d45b88168f820a1e,2020-09-22 22:19:06.345356+00:00,"{""parts"": [{""text"": ""Pepe podría estimar la altura del edificio, utilizando la altura de cualquiera de los dos arboles, ya que ambos se relacionan con la cantidad de pisos del edificio. Además, puedo observar que la altura de Pepe es el doble que la altura del árbol mas pequeño, por lo tanto igual sirve. La escalera igual sirve como elementos, ya que representa un piso y medio del edificio.\nLos elementos que no serian adecuados para utilizar, son los de su estuche, ya que son muy pequeños y no seria fácil para hacer una proporción directa con la altura del edificio.\nA continuación, utilizare como atributo al árbol pequeño y puedo decir que, el edificio mide 6 veces la altura del árbol.""}]}","Assessment #22304
+-- scored_at: 2020-10-01 00:17:27.702514+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22304
+-- Calificación: Correcta (12)
+",2020-10-01 00:17:27.748922+00:00,12,12,,
+e613f3be-6d72-438c-a660-4a0a93b3be27,22287,a620e7d40c260b239b4e58d1df636e3a,2020-09-22 11:58:51.112718+00:00,"{""parts"": [{""text"": ""Los árboles son buenos referentes para realizar la estimación del edificio, ya que sus alturas se aproximan bastante a los pisos que el edificio contiene.\nSi no estuvieran los árboles también se podría usar la escalera, aunque ésta no es la más conveniente ya que se aproxima a un piso y medio más.\nDefinitivamente los lápices y la regla no son buenos referentes para realizar su estimación ya que sus longitudes son muy pequeñas considerando el elemento a medir, en este caso el edificio.\nEstimaciones:\n1.- Considerando el árbol de la izquierda es más alto y aproximadamente abarca la longitud de dos pisos del edificio. Como el edificio tiene 5 pisos demarcados más la parte superior que también puede considerarse como un piso, se asimila que el edificio tiene seis pisos, de esta manera el árbol estaría contenido 3 veces en el edificio, un árbol para dos pisos, ya que 3 x 2 = 6.\n2.- Considerando el árbol de la derecha es más bajo que el otro y aproximadamente abarca la longitud de un piso del edificio. como el edificio tiene5 y pisos demarcados más la parte superior que también se considera uno, se realiza la misma asimilación anterior, que el edificio tiene 6 pisos. De esta manera el árbol estaría contenido 6 veces en el edificio, un árbol por piso 6 x 1=6.\n3.- Esta opción no es la más conveniente pero si Consideramos la escalera como referente, esta mide aproximadamente un piso y medio más, considerando la misma asimilación anterior el edificio mide 6 pisos, de esta manera la escalera estaría contenida 4 veces en el edificio ya que 1.5 x 4 = 6 o de otra forma explicado, puedo ir sumando los pisos hasta llegar a la altura deseada;\n   un piso y medio\n+ un piso y medio\n______________________\n dos pisos y un piso = 3 pisos\nsi se realiza la misma operación obtendré nuevamente 3 pisos y los agredo a los primeros 3 pisos dándome los 6 pisos del edificio, me pregunto ¿Cuántas veces sume el piso y medio? fueron 4 veces, por lo que la escalera esta contenida 4 veces en el edificio.""}]}","Assessment #22303
+-- scored_at: 2020-10-01 00:16:37.745006+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22303
+-- Calificación: Correcta (12)
+",2020-10-01 00:16:37.793507+00:00,12,12,,
+5fe02dd1-bce7-4dc2-8e56-6499e1f8257e,22259,bc666d8a55cf6b4ed770629ca234ef21,2020-09-22 02:15:06.267790+00:00,"{""parts"": [{""text"": ""Tanto los árboles como la escalera son apropiados para estimar la altura del edificio, puesto que el árbol de mayor altura mide 2 pisos y el otro un piso, en tanto la escalera mide 1, 5 pisos aproximadamente. En cambio los lapices, estuche y regla no son pertinentes para medir un objeto tan grande.\nEn cuanto a la altura del edificio es de 15 m aproximadamente, ya que cada piso debería tener una altura aproximada de 2,5 m.""}]}","Assessment #22302
+-- scored_at: 2020-10-01 00:15:40.304900+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22302
+-- Calificación: Correcta (12)
+",2020-10-01 00:15:40.352613+00:00,12,12,,
+3b16db40-fdcf-4a82-9023-dacbb255a57a,22209,58bf8950546aab90554b413f8db52d4b,2020-09-21 20:38:43.919096+00:00,"{""parts"": [{""text"": ""Los elementos apropiados de estimación serian los arboles pues uno de ello mide aproximadamente un piso y el otro 2 pisos, tomando esa lógica se podría decir que el edificio  mide aproximadamente 6 arboles chicos o 3 arboles grandes, la también la podría utilizar pero puede inducir al error pues ella mide aproximadamente 1 piso 1/2, los lápices y la regla no son apropiados para la medición pues   son muy pequeños para lo que se quiere medir o estimar.""}]}","Assessment #22301
+-- scored_at: 2020-10-01 00:15:16.974457+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #22301
+-- Calificación: Correcta (12)
+",2020-10-01 00:15:17.041962+00:00,12,12,,
+3b45bb47-83a6-4b1d-a59f-e7744b6303f1,21196,7e39c6e77aaeab1b44fc8c3f9a95dc33,2020-09-10 01:12:29.407310+00:00,"{""parts"": [{""text"": ""La medida puede ser 100 1/4 de baldosa. \n 42 baldosas y 1/4 de baldosa, ya que se tienes 36 baldosas enteras mas 12 medias baldosas y 1/4 de baldosa.""}]}","Assessment #21133
+-- scored_at: 2020-09-12 12:11:10.803305+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21133
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:11:10.853019+00:00,8,12,,
+3a9412ee-2322-4051-83a6-7ebabaea97d2,20838,dcb0e43ecfbf51cdbbbe900431269529,2020-09-08 00:52:23.354585+00:00,"{""parts"": [{""text"": ""Si consideramos dos unidades de medidas distintas para plantear la medida del patio, teniendo en cuenta la cantidad de baldosas. Sabiendo que hay 24 baldosas del mismo tamaño, 12 baldosas de la mitad del tamaño mencionado anteriormente y 1/4 de baldosa. \nSi tenemos en cuenta los datos anteriores podemos decir que si hay una baldosa que posee una medida de 40 centímetros por lado, nos daría  673 metros cuadrados de área.  Pues podríamos calcularlo en una primera etapa, donde sólo calculamos la medida del área de las baldosas enteras, que nos daría 57.600 centímetros cuadrados, luego para calcular el área de la mitad de las baldosas consideramos el valor de 9600 centímetros cuadrados y finalmente calculamos el área de 1/4 de baldosa, que nos daría 100 centímetros cuadrados. Sumamos los tres valores 57.600+ 9.600+100 = 67.300 centímetros cuadrados que sí lo transformamos a metros, el valor de la superficie del patio es 673 metros cuadrados.\n\nComo se pide dos unidades de medidas distintas, podríamos ocupar una unidad de medida no estandarizada, en este caso podría ocupar un palo de helado, una cuarta, una pulgada, un pie. Pero pensando en los y las alumnos/as, y que éste no sea arbitrario; no solo pensando en el atributo sino en la medida y que finalmente, se pueda comprobar y transformar a una medida estandarizada. Ocuparemos un palos de helados de la misma medida,fijándonos en el largo del palo de helado (si mide 10 centímetros).\nSería contando las baldosas enteras 3.600 centímetros cuadrados, las 1/2 baldosas sería 600 centímetros cuadrados y el 1/4  de baldosa sería 6, 25 centímetros, dando un total de 42, 0625 metros cuadrados.""}]}","Assessment #21132
+-- scored_at: 2020-09-12 12:09:42.150720+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21132
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:09:42.200950+00:00,8,12,,
+6fd3a295-8b94-4dd5-b49a-1f33ee7201b1,20822,18939f61b840200ed13bbe3026c6edc9,2020-09-07 22:19:03.723676+00:00,"{""parts"": [{""text"": ""medida 1: considerando el lado de una baldosa la medida del patio seria 6 baldosas y 1/2.\n\nmedida 2: si le damos una medida al lado de la baldosa y decimos que equivale a 4 cm la medida del patio seria 26 cm.""}]}","Assessment #21131
+-- scored_at: 2020-09-12 12:08:49.607062+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21131
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:08:49.653053+00:00,8,12,,
+553579b9-346e-4077-bed8-68303e9178be,20651,13bd49593cec9f11db5e668251915e49,2020-09-06 03:47:34.979350+00:00,"{""parts"": [{""text"": ""42 baldosas 1/4\n169""}]}","Assessment #21130
+-- scored_at: 2020-09-12 12:08:25.127041+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21130
+-- Calificación: Correcta (12)
+",2020-09-12 12:08:25.179808+00:00,12,12,,
+eaeee6fc-aec3-4836-9e8d-33ca5a61ca65,20622,f57f20925cbdcb6b115b37717b11ad18,2020-09-06 03:07:25.084207+00:00,"{""parts"": [{""text"": ""6,5 largo por 6,5 ancho = 42,25 baldosas cuadradas\nEl patio tiene un área formada por 43 balsosas cuadradas""}]}","Assessment #21129
+-- scored_at: 2020-09-12 12:08:17.024801+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21129
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:08:17.070536+00:00,8,12,,
+70c1babd-a5ef-4130-bee2-4638233379a9,20604,0e7caf08db4c581daa58db3d0debf702,2020-09-06 02:35:55.145911+00:00,"{""parts"": [{""text"": ""el patio mide 42 baldosas y un cuarto de ella, puesto que en la esquina inferior derecha solo hay un cuarto de baldosa, por esta razón es imposible considerar como medida total un numero entero, si como numero fraccionario o no entero.""}]}","Assessment #21128
+-- scored_at: 2020-09-12 12:08:02.377829+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21128
+-- Calificación: Regular (4)
+",2020-09-12 12:08:02.425625+00:00,4,12,,
+04eb39c7-dcbe-42d7-99ef-d83b9f0d81c2,20562,db8d55a74684e2a6fd468c4075dd5e3c,2020-09-06 01:15:22.675186+00:00,"{""parts"": [{""text"": ""6,5 baldosas x 6,5 baldosas= 42,25= 42  (unidad de medida: baldosa)\n\nConsiderando como unidad de medida el metro, y que cada baldosa mide 1 metro cuadrado \nsería:  6,5 mt2 x 6,5 mt2 = 42,25 mt2""}]}","Assessment #21127
+-- scored_at: 2020-09-12 12:07:48.670066+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21127
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:07:48.717371+00:00,8,12,,
+6b8742a2-9bb1-4543-89ea-c2ee242dbf1a,20558,5613b21d34598c11b598311dfcc0d95d,2020-09-06 01:11:09.861985+00:00,"{""parts"": [{""text"": ""36+3+3+1/4\n\n\n\n\n\n\n\n36+3+3+1/4= 42 1/4 baldosas\n\n50x50 cm cada baldosa\n= 2500 cm2  x  42,25 = 105.625cm2""}]}","Assessment #21126
+-- scored_at: 2020-09-12 12:07:39.149594+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21126
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:07:39.194548+00:00,8,12,,
+2734b74d-37d0-47ec-8b61-ada3a79fa01c,20553,c0b8cba7edaa47d304323fdd4c4bb36e,2020-09-06 01:04:22.130751+00:00,"{""parts"": [{""text"": ""medida 1: 42 baldosas y media. (se utiliza la unidad de medición de baldosa y se parte cuando es necesario para cubrir la región indicada)\nmedida 2: 85 medias baldosas. (se parte la unidad de medición de baldosa y se cubre toda la región usando un número entero de unidades de medias baldosas).""}]}","Assessment #21125
+-- scored_at: 2020-09-12 12:07:28.546054+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21125
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:07:28.593156+00:00,8,12,,
+f55bf4c3-5050-4858-b48b-3aae9c20fcf2,20505,7e64c4ef09bb89878bd420fe61513d3e,2020-09-05 23:36:25.022363+00:00,"{""parts"": [{""text"": ""Si utilizamos como unidad de medida una baldosa de largo 10 cm y de ancho 10 cm, obtenemos como superficie total del patio largo 6,5 cm x ancho 6,5 cm = 42,25 cm2 totales.\n\nTraté de encontrar otra opción de medida distinta que me diese entero, traté varias veces, pero los números no calzaban por lo que según lo que se aprecia en el curso, puedo utilizar una medida no  estandarizada utilizando el principio de conservación de  la medida de la superficie.  \n\nO pudiese utilizar m3 para determinar una cantidad entera.""}]}","Assessment #21124
+-- scored_at: 2020-09-12 12:07:15.736465+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21124
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:07:15.781938+00:00,8,12,,
+8b1c92ed-4a52-47c8-b704-e35b0c3e000d,20481,3d9b23105317df95cfe708754597beb2,2020-09-05 22:30:26.115915+00:00,"{""parts"": [{""text"": ""La medida del patio podemos calcularla con el área de la superficie que ocupan cada cuadrado, una forma puede ser contar cada baldosa que están enteras 6*6= 36  y le sumamos las 1/2 baldosas  son 6 baldosas completas mas 1/4 de baldosa serían en total 42 1/4 de baldosas \n\nOtra manera sería contar cada una  y obtener el resultado:\n1/2 baldosas hay 12 que equivalen a 6 baldosas \n1/4 de baldosa que es el pequeño \ny 36 baldosa\n\n36+6+1/4 = 42 1/4 de baldosas  que es igual a 42,25 baldosas cuadradas""}]}","Assessment #21123
+-- scored_at: 2020-09-12 12:06:56.572503+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21123
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:06:56.651273+00:00,8,12,,
+b20357b6-5e45-40d2-9a82-f267c7847525,20432,f225a17c7e77e962f4cafdf808113986,2020-09-05 20:22:33.727089+00:00,"{""parts"": [{""text"": ""La medida del patio es 42 1/4. baldosas. (cuarenta y dos baldosas y un cuarto)\n\nEl cuadrado de completo de baldosas enteras es de 6 x 6, es decir 36 baldosas. \nLas orillas tienen 6 mitades de baldosas en cada lado, es decir 12 mitades de baldosas. Lo que se traduce en 6 baldosas enteras.\nPor último queda una fracción de baldosa en el extremo inferior derecho, que mide 1/4 de baldosa. Se sabe ya que sus lados son iguales a dos de los lados de de las mitad de una baldosa.""}]}","Assessment #21122
+-- scored_at: 2020-09-12 12:05:48.672927+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21122
+-- Calificación: Correcta (12)
+",2020-09-12 12:05:48.740715+00:00,12,12,,
+0ae2ff42-42dc-4216-96db-72e4d4fd757f,20418,3d941a55eabcf60cd49b038629d4768f,2020-09-05 19:15:41.019701+00:00,"{""parts"": [{""text"": ""42 1/4 y\n98""}]}","Assessment #21121
+-- scored_at: 2020-09-12 12:05:15.775229+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21121
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:05:15.828170+00:00,8,12,,
+134b5e87-b5a8-42c7-b691-0d8fe1499f7d,20417,bc666d8a55cf6b4ed770629ca234ef21,2020-09-05 19:08:23.829961+00:00,"{""parts"": [{""text"": ""42 y 1/4 de baldosas""}]}","Assessment #21120
+-- scored_at: 2020-09-12 12:05:06.971530+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21120
+-- Calificación: Regular (4)
+",2020-09-12 12:05:07.016918+00:00,4,12,,
+e1d48012-129e-41cc-a560-e74a41d5631f,20412,58bf8950546aab90554b413f8db52d4b,2020-09-05 18:25:05.623580+00:00,"{""parts"": [{""text"": ""1º unidad de medida= metro\nSi cada baldosa  mide 1 metro, su largo seria 6,5m como es un cuadrado calculo el área correspondiente al cuadrado A= 6,5m x 6,5m  = 42,25 m2\n2º Unidad de medida= centímetro\nSi cada baldosa mide 20 cm, su largo seria 50 cm como es un cuadrado aplico el área correspondiente al cuadrado A= 50cm x 50cm= 2500 cm2""}]}","Assessment #21119
+-- scored_at: 2020-09-12 12:04:47.240613+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21119
+-- Calificación: Correcta (12)
+",2020-09-12 12:04:47.288012+00:00,12,12,,
+35718abc-c372-4b35-8917-0c55108b2610,20406,8470ce150fb5a4a1a2b92385d5cd2a70,2020-09-05 17:10:31.352943+00:00,"{""parts"": [{""text"": ""1° medida  42 1/4 baldosas\n2° medida 43 cm2""}]}","Assessment #21118
+-- scored_at: 2020-09-12 12:04:21.794443+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21118
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:04:21.840723+00:00,8,12,,
+7958644d-ff1c-4a77-8fec-b9d2ef587669,20405,4474ea08fe23d827ee189007f62af009,2020-09-05 17:10:26.379999+00:00,"{""parts"": [{""text"": ""El patio mide 42 unidades un cuarto de baldosa, necesitando 43 baldosas para cubrir el espacio.""}]}","Assessment #21117
+-- scored_at: 2020-09-12 12:04:13.418614+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21117
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:04:13.470635+00:00,8,12,,
+062ed12a-1144-44ca-9427-98f3ef85c7a6,20387,077f2b0c407c84c058a5c6d7185f5545,2020-09-05 16:10:00.933091+00:00,"{""parts"": [{""text"": ""El patio mide 42 baldosas y 1/4  de otra considerando la baldosa de la esquina inferior derecha. \n\npara calcularlo se puede considerar la cuadrícula de 6 x 6 baldosas enteras y luego contar cuántas medias baldosas hay . Considerando largo y ancho \nOtra forma de medir sería considerar que se necesitan 36 baldosas enteras y 12 medias baldosas más 1 cuarto de una baldosa.""}]}","Assessment #21116
+-- scored_at: 2020-09-12 12:04:01.838119+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21116
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:04:01.887648+00:00,8,12,,
+74ae035e-250b-4b0a-b402-56cf792a131a,20291,849c2f9e30d8b84d9a625b7206ceea60,2020-09-05 03:25:06.844603+00:00,"{""parts"": [{""text"": ""La medida del patio considerando ambas medidas de lados del baldosas utilizadas, sería de 42 baldosas más 1/4 de baldosa.\nPor otra parte, si se quisiera utilizar un número entero dentro de la medida de baldosas, se podría considerar de la siguiente forma:\nSe muestra que en una esquina se utiliza 1/4 de baldosa, por consiguiente cada baldosa puede dividirse exactamente en 1/4 por ende, todo el patio quedaría compuesto de 169 cuartos de baldosa, siendo esa la medida del patio.""}]}","Assessment #21114
+-- scored_at: 2020-09-12 12:03:20.409785+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21114
+-- Calificación: Correcta (12)
+",2020-09-12 12:03:20.461053+00:00,12,12,,
+a62efddd-1068-435b-a62d-1e79bb1ffb56,20282,9cadd87e20bd864d6a0fab4fa551ae9a,2020-09-05 02:34:57.502245+00:00,"{""parts"": [{""text"": ""42 baldosas y un cuarto de baldosa.\n169 baldositas (la mitad de la mitad).""}]}","Assessment #21113
+-- scored_at: 2020-09-12 12:02:47.340576+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21113
+-- Calificación: Correcta (12)
+",2020-09-12 12:02:47.391728+00:00,12,12,,
+0a98fde6-0d1c-4af2-bf44-8af0d7e13534,20275,797e80bac3662a23d45b88168f820a1e,2020-09-05 02:02:07.051090+00:00,"{""parts"": [{""text"": ""Podemos considerar las siguientes unidades para este tributo:\na) Al tomar como unidad  de medida una baldosa entera, obtendríamos 42,25.\nb) Al tomar como unidad  de medida un cuarto de baldosa, obtendríamos 169, el cuál es un número entero.""}]}","Assessment #21112
+-- scored_at: 2020-09-12 12:02:34.197866+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21112
+-- Calificación: Correcta (12)
+",2020-09-12 12:02:34.559941+00:00,12,12,,
+e3af7701-b69e-4396-9461-d8812bddd1a9,20205,a620e7d40c260b239b4e58d1df636e3a,2020-09-04 18:36:55.227241+00:00,"{""parts"": [{""text"": ""primera opción: contabilizar las baldosas\n baldosas completas: 36\nmedias baldosas: 12 (al juntar dos medias baldosas nos da una entera, por lo que serían 6 baldosas)\nun cuarto de baldosa: en la esquina inferior derecha se aprecia un cuarto de baldosa y como es la única no se puede agregar a las baldosas completa.\nquedando 36 + 6= 42, el patio mide 42 baldosas y un cuarto más.\nsegunda opción: dividir cada baldosa en 4 partes iguales.\nbaldosas completas: son 36 baldosas completas y al multiplicarla por 4 (la nueva unidad de medida) nos quedan 144 partes.\nmedias baldosas: son 12 medias baldosas y al multiplicarla por 2 (como son medias baldosas se considera la mitad de la nueva unidad de medida) nos quedan 24 partes.\nun cuarto de baldosa: ya que esta es nuestra nueva medida, nos quedaría 1 sola.\nquedando: 144 + 24 + 1 = 169 partes iguales, por lo tanto el patio mide 169 partes iguales de baldosas""}]}","Assessment #21111
+-- scored_at: 2020-09-12 12:02:23.047606+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21111
+-- Calificación: Regular (4)
+",2020-09-12 12:02:23.096696+00:00,4,12,,
+53afecca-d5f2-4c58-aad5-fc1ceff930f9,20203,4b745c0794713b4e61467952b17c5298,2020-09-04 18:19:49.289553+00:00,"{""parts"": [{""text"": ""Asumiendo que la magnitud solicitada es de la superficie, sería:\na) 42 1/4 de baldosas cuadradas, considerando una baldosa cuadrada como mi unidad de medida, ya que al ser todas del mismo tamaño se utiliza la iteración de ésta. \nb) 169 cuartos de baldosa cuadradas, utilizando como medida el cuarto de baldosa de la esquina inferior derecha.\nSi por otra parte, la magnitud solicitada es el largo, sería:\nEn una primera instancia utilizar como unidad de medida la baldosa (quedando 6 baldosas 1/2) y en una segunda instancia la media baldosa  (resultando 13 medios de baldosa).""}]}","Assessment #21110
+-- scored_at: 2020-09-12 12:02:06.184367+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21110
+-- Calificación: Correcta (12)
+",2020-09-12 12:02:06.236723+00:00,12,12,,
+e4af7898-2b24-43f8-9215-5c7e570f0797,20178,1768a833b83b3b12c4c3d9ef9a53b5b8,2020-09-04 13:55:18.785874+00:00,"{""parts"": [{""text"": ""42 1/2""}]}","Assessment #21109
+-- scored_at: 2020-09-12 12:01:55.200839+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21109
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:01:55.247374+00:00,8,12,,
+22ddc0ad-342b-41ea-9f5b-19de934af3f5,20086,93706a12a7e8ca05d01a229053e9a27e,2020-09-03 21:35:04.625332+00:00,"{""parts"": [{""text"": ""El patio tiene un área total de 42 baldosas 1/2 y un perímetro de 26 baldosas.""}]}","Assessment #21108
+-- scored_at: 2020-09-12 12:01:34.899064+00:00
+-- type: ST
+-- scorer_id: 0c6d46c60152a87d921a6afca7fc2de1
+","Assessment #21108
+-- Calificación: Parcialmente correcta (8)
+",2020-09-12 12:01:34.974260+00:00,8,12,,

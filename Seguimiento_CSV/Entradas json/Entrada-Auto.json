@@ -1,0 +1,25 @@
+{
+    "listausuarios": "C:/CMM-LabE/Seguimiento/Archivos lectura/TMM3_Revisarencuestas/cmm_SYSELEARTMMSLF03_2020_2_student_profile_info_2020-11-23-1604.csv",
+    "ora": "C:/CMM-LabE/Seguimiento/Archivos lectura/TMM3_Revisarencuestas/cmm_SYSELEARTMMSLF03_2020_2_ORA_data_2020-11-23-1604.csv",
+    "jsonuserprueba":"C:/CMM-LabE/Seguimiento/Archivos lectura/SND/UsuarioPrueba_SND.json",
+    "codigodrive_reporte":"1FCs6_lKnDWKNVuUxvZoVyMwNCKNOhycn",
+    "codigodrive_listausuarios":"1LYgBb2b-S0IBDVwVwkCldiMC78qbgvry",
+    "codigodrive_listanegra":"1zWHomYLfFHPr4usbFbuGb5eAZSVlPRih",
+    "codigodrive_encuesta":"1FCs6_lKnDWKNVuUxvZoVyMwNCKNOhycn",
+    "codigodrive_anomalias":"",
+    "encuestaclase3": true,
+    "subirdatos": true,
+    "datoslocales": true,
+    "talleres":[
+        "C:/CMM-LabE/Seguimiento/Archivos lectura/TMM3_Revisarencuestas/cmm_SYSELEARTMMSLF03_2020_2_student_state_from_block-v1_cmm+SYSELEARTMMSLF03+2020_2+type@course+block@course_2020-11-23-1539.csv"
+    ],
+    "automatico": true,
+    "curso":
+    {
+        "pefijo": "cmm",
+        "programa": "SYS",
+        "siglas": "TMM01",
+        "ano": 2020,
+        "semestre": 1
+    }
+ }

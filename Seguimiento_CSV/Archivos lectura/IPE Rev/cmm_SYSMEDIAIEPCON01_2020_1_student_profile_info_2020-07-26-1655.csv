@@ -1,0 +1,45 @@
+run,id,username,name,email,language,location,year_of_birth,gender,level_of_education,mailing_address,goals,enrollment_mode,verification_status,last_login,date_joined,city,country
+,17417,Alexis1209,Alexis Juvenal Pérez Roa,alexisperezroa@gmail.com,,,1992,m,b,,,audit,N/A,2020-07-14 01:35:10.344085+00:00,2020-05-19 03:36:12.354596+00:00,,
+,17436,Almadusan,Alicia Durán Sánchez,almadusan@gmail.com,,,None,,,,,audit,N/A,2020-05-31 05:24:04.668302+00:00,2020-05-21 00:57:50.451074+00:00,,
+,17198,Angela_GV,Angela Valesca Garrido Venegas,agarridovenegas@gmail.com,,,1990,f,b,,,audit,N/A,2020-07-22 04:40:42.704099+00:00,2020-05-08 22:51:46.547225+00:00,,
+,9188,BeckyRC,Becky Rodríguez,becky.drc@gmail.com,,,1989,,b,,,audit,N/A,2020-07-24 21:11:07.304092+00:00,2019-11-21 13:30:07.794227+00:00,,CL
+0177350109,9172,Camila_Brito,Camila Fernanda Brito Pizarro,camila.brito@uchile.cl,,,None,,,,,audit,N/A,2020-07-20 15:56:00.090031+00:00,2019-11-03 22:20:07.415485+00:00,,
+,17453,Camila_Reiman,Camila Andrea Reiman Seguel,camii.reiman@gmail.com,,,1991,f,b,,,audit,N/A,2020-07-21 19:46:28.560068+00:00,2020-05-25 01:34:24.805238+00:00,,
+,17329,Cecilia_Rojas,Cecilia Isabel Rojas Pérez,matematica.rojas13@gmail.com,,,None,,,,,audit,N/A,2020-07-13 02:31:44.656083+00:00,2020-05-12 23:14:45.381920+00:00,,
+,17259,ClaudioM,Claudio Armando Méndez Arriagada,claudiomendez@cadec.cl,,,None,,,,,audit,N/A,2020-07-19 14:58:44.963033+00:00,2020-05-11 05:35:21.742398+00:00,,
+,17265,Daniela-Zambrano,Daniela Camila Zambrano Rubilar,dacazaru@gmail.com,,,1993,f,b,,,audit,N/A,2020-07-15 21:51:17.549469+00:00,2020-05-11 14:07:37.191601+00:00,,
+,17295,DANIEL_LOPEZ,DANIEL ESTEBAN LOPEZ BIZAMA,daniel.lopez.bizama89@gmail.com,,,1989,m,b,,,audit,N/A,2020-07-18 22:21:34.622413+00:00,2020-05-11 23:15:19.571655+00:00,,
+,17419,ErickIsaac,Erick Isaac Veas Riquelme,profesorerick.ivr@gmail.com,,,1991,m,b,,,audit,N/A,2020-07-21 21:16:57.599048+00:00,2020-05-19 05:23:43.453727+00:00,,
+,17334,EscarlettSaeza21,Escarlett Sáez Hevia,escarlettsaez21@gmail.com,,,None,,,,,audit,N/A,2020-07-21 03:58:15.088825+00:00,2020-05-13 00:36:51.086763+00:00,,
+0187658322,331,felipe_espinoza,Felipe Alejandro Espinoza Rosales,felipe.espinoza.r@uchile.cl,,,1994,,,,,audit,N/A,2020-07-24 17:47:12.416872+00:00,2018-12-13 15:40:05+00:00,Santiago,CL
+,17332,fran_zambrano,francisca alejandra zambrano fuentes,francisca1994zambrano@gmail.com,,,1994,f,b,,,audit,N/A,2020-07-13 15:49:28.530815+00:00,2020-05-13 00:04:22.196163+00:00,,CL
+,17336,Germaine,germaine ninoska vasquez figueroa,germainevasquez@gmail.com,,,1990,f,b,,,audit,N/A,2020-05-20 22:25:06.264214+00:00,2020-05-13 03:10:30.229824+00:00,,
+,17322,hectomolina,Héctor Roberto Molina Mella,hectomolina86@gmail.com,,,None,,,,,audit,N/A,2020-07-20 15:00:24.798761+00:00,2020-05-12 20:06:21.175828+00:00,,
+,9180,JavieraOrtiz,Javiera Paz Ortiz Tapia,jpazortiz.ts@gmail.com,,,None,,,,,audit,N/A,2020-07-20 17:31:56.654437+00:00,2019-11-18 19:19:26.324551+00:00,,
+,17312,JGonzalez95,Juan Eduardo Gonzalez Canales,Juangonzalez.ed@gmail.com,,,None,,,,,audit,N/A,2020-07-23 23:39:23.885607+00:00,2020-05-12 14:40:11.698552+00:00,,
+,17190,Jocy,Jocelyn Makarena Astete Sepúlveda,jocelynastete@gmail.com,,,1987,f,b,,,audit,N/A,2020-07-21 15:46:16.870461+00:00,2020-05-08 19:50:03.743046+00:00,,CL
+,8776,jromo,Jorge Romo,jromo.dcc@gmail.com,,,1987,,,,,audit,N/A,2020-07-24 12:55:38.226813+00:00,2019-08-14 16:00:53.242947+00:00,,
+,17201,Karla-Silva,Karla Elizabeth Silva González,ksilva@ematematica.ucsc.cl,,,1991,f,b,,,audit,N/A,2020-07-05 03:34:28.126610+00:00,2020-05-08 23:31:42.451454+00:00,,
+,17245,kasandoval,karen alejandra sandoval elgueta,kasandoval10@gmail.com,,,1986,f,a,kasandoval10@gmail.com,,audit,N/A,2020-07-25 05:18:18.721771+00:00,2020-05-10 21:46:12.967722+00:00,,
+,17174,kathy_alarcon,katherine andrea alarcón bastidas,katherineala@gmail.com,,,1987,f,m,Calle Las Industrias 3755 Edificio Cañete departamento 314 Condominio Don Alonso San Pedro de la Paz,,audit,N/A,2020-07-21 14:21:10.605455+00:00,2020-05-08 18:09:17.915784+00:00,,CL
+,17291,Kreen,Karen Alejandra Ulloa Alarcón,karenulloa@gmail.com,,,1982,f,other,,,audit,N/A,2020-07-23 02:53:17.396840+00:00,2020-05-11 22:24:28.042838+00:00,,CL
+,17211,mariaruth,maria ruth venegas garcía,mruthvenegasg@gmail.com,,,None,,,,,audit,N/A,2020-07-25 19:44:20.773244+00:00,2020-05-09 01:36:05.016532+00:00,,
+,17184,Matias_95,Matías Exequiel Castillo Pradena,m.castillo.pradena@gmail.com,,,None,,,,,audit,N/A,2020-07-12 16:00:17.949367+00:00,2020-05-08 19:05:35.123402+00:00,,
+0187838398,8176,matsalinas,Matías Daniel Salinas Soto,matsalinas@uchile.cl,,,1994,m,m,Jardines de Vicuña Mackenna 2004 Torre C Depto 2002. Santiago,:),audit,N/A,2020-07-22 19:52:35.183608+00:00,2019-08-02 16:25:58+00:00,,
+,17217,MJPROVOSTE,María José Provoste Castro,mjprovoste@gmail.com,,,1983,f,b,,,audit,N/A,2020-07-24 16:52:19.041311+00:00,2020-05-09 02:24:11.419155+00:00,,CL
+,17526,Monica,Mónica Amanda Cid Cárdenas,monica.cid.c@gmail.com,,,None,,,,,audit,N/A,2020-07-22 19:06:43.647059+00:00,2020-05-26 00:47:41.721854+00:00,,
+,17194,natty_aravena,Natalia Catalina Aravena Paredes,natty_aravena@hotmail.com,,,None,,,,,audit,N/A,2020-07-21 23:20:44.348915+00:00,2020-05-08 21:38:49.945525+00:00,,
+,17548,Niki,Nicole Valentina Opazo Ulloa,nicole.opazo@lpta.cl,,,None,,,,,audit,N/A,2020-07-17 19:58:59.503097+00:00,2020-06-02 00:54:19.596447+00:00,,
+,14223,OGolcheidt,Omaira Golcheidt,omygol@gmail.com,,,None,,,,,audit,N/A,2020-05-12 23:03:40.414080+00:00,2020-03-23 19:29:46.482857+00:00,,
+,17527,Patricio_saavedra,Patricio del Tránsito Saavedra Navarro,patricio.saavedra.navarro@gmail.com,,,1989,m,b,,,audit,N/A,2020-07-14 03:44:30.985581+00:00,2020-05-26 04:45:36.572907+00:00,,CL
+,17288,ricardo_sebastian,Ricardo Sebastián González Mora,ricardogonzalezprofe@gmail.com,,,None,,,,,audit,N/A,2020-07-24 18:11:15.019922+00:00,2020-05-11 21:00:30.337859+00:00,,
+,17333,Romina_1993,Romina Alejandra Riquelme Martínez,rominariquelme60@gmail.com,,,None,,,,,audit,N/A,2020-07-21 22:52:48.480480+00:00,2020-05-13 00:15:49.805636+00:00,,
+,17356,Rosa,Rosa Natalí Valenzuela Díaz,rosvalenzuelad@udec.cl,,,None,f,,,,audit,N/A,2020-05-15 13:49:06.074593+00:00,2020-05-15 13:49:05.984329+00:00,,
+,17301,RUIZ,lilian marlene ruiz ruiz,lilianmruiz@gmail.com,,,None,,,,,audit,N/A,2020-07-23 23:33:30.170077+00:00,2020-05-12 02:59:35.750155+00:00,,
+0173258011,8111,ThomasPM,Thomas E. Peet Moraga,tomaspemora@ug.uchile.cl,,,1990,m,b,,,audit,N/A,2020-07-24 21:32:56.211897+00:00,2019-07-23 14:33:59+00:00,,CL
+,9193,Trinidad_Cortes,Trinidad de la Luz Cortés Sordo,tcortes.sordo@gmail.com,,,None,,,,,audit,N/A,2020-07-11 23:19:10.023691+00:00,2019-11-21 14:39:11.367925+00:00,,
+,17358,Vanessa_Silva_V,Vanessa Stefany Silva Vilches,vanesa.prof@gmail.com,,,None,,,,,audit,N/A,2020-07-09 01:53:20.616901+00:00,2020-05-15 17:18:06.307209+00:00,,
+,17181,Victor,Victor Manuel Vallejos Riquelme,vvallejos@ematematica.ucsc.cl,,,None,,,,,audit,N/A,2020-06-24 16:57:27.403249+00:00,2020-05-08 18:56:19.228309+00:00,,CL
+,17258,VictorMoncadaV,Víctor Exer Moncada Vergara,vicmoncada14@gmail.com,,,None,,,,,audit,N/A,2020-07-15 01:30:42.703434+00:00,2020-05-11 05:10:09.648115+00:00,,
+,17331,vquilodran,Valeria Andrea Quilodrán San Martín,vquilodransm@gmail.com,,,1993,f,,,,audit,N/A,2020-07-06 00:49:09.766672+00:00,2020-05-12 23:31:10.663154+00:00,,
+,17148,XimenaHerrera,Ximena Herrera,xime_h_r@yahoo.com.ar,,,None,,,,,audit,N/A,2020-07-13 20:27:41.815188+00:00,2020-05-07 13:31:09.331984+00:00,,

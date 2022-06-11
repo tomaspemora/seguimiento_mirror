@@ -1,0 +1,20 @@
+﻿Submission ID,Item ID,Anonymized Student ID,Date/Time Response Submitted,Response,Assessment Details,Assessment Scores,Date/Time Final Score Given,Final Score Points Earned,Final Score Points Possible,Feedback Statements Selected,Feedback on Peer Assessments
+5df3cc4d-7617-4e63-9680-6869f659595e,12577,dd69fa3d1b5591f89497e395f32b9729,2020-04-15 02:48:56.345884+00:00,{u'parts': [{u'text': u'asdasdasdasdasdasd'}]},,,,,,,
+177e3aa6-74fa-431f-9555-3d1eeb0546eb,12574,dd69fa3d1b5591f89497e395f32b9729,2020-04-14 23:56:23.665188+00:00,{u'parts': [{u'text': u'wqqewqeqweqweqwe'}]},,,,,,,
+817a3724-2c8e-4ae5-bad5-26c6db7ac531,12546,dd69fa3d1b5591f89497e395f32b9729,2020-04-14 01:21:17.382317+00:00,"{u'parts': [{u'text': u'DSFG M,-'}]}",,,,,,,
+bcbf6081-2024-4747-ae65-7168714afc64,12545,dd69fa3d1b5591f89497e395f32b9729,2020-04-14 00:41:03.730899+00:00,{u'parts': [{u'text': u'asdadasdasdasd'}]},"Assessment #17383
+-- scored_at: 2020-04-20 20:18:06.723949+00:00
+-- type: ST
+-- scorer_id: cfbc263003ef278e0a53afb7e22cee3c
+","Assessment #17383
+-- Calificación: Parcialmente correcta (6)
+",2020-04-20 20:18:06.772812+00:00,6,12,,
+b3e75a88-8168-4036-945f-ce14cdae740c,12434,dd69fa3d1b5591f89497e395f32b9729,2020-04-09 22:09:55.100577+00:00,{u'parts': [{u'text': u'asdasdasdasd'}]},,,,,,,
+dce5e4a4-8ad9-49bb-9d7a-7c99daa50fef,12433,dd69fa3d1b5591f89497e395f32b9729,2020-04-09 22:09:46.192531+00:00,{u'parts': [{u'text': u'asdsdasdasd'}]},,,,,,,
+f9a64f58-abe3-429b-8dbd-1a46b8848094,12070,dd69fa3d1b5591f89497e395f32b9729,2020-01-29 21:06:31.433189+00:00,{u'parts': [{u'text': u'Yo creo que Juan'}]},"Assessment #16450
+-- scored_at: 2020-01-29 21:11:09.065670+00:00
+-- type: ST
+-- scorer_id: cfbc263003ef278e0a53afb7e22cee3c
+","Assessment #16450
+-- Calificación: Correcta (12)
+",2020-01-29 21:11:09.102600+00:00,12,12,,

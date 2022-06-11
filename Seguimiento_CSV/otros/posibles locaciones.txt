@@ -1,0 +1,101 @@
+TMM:
+0 Trabajando con la medida y la medición >  
+1 Módulo Inicial >						loc1	
+2 Encuesta Inicial > 						loc2
+3 Encuesta #3 > 						loc3
+4 Multiple Choice
+
+0 Trabajando con la medida y la medición > 
+1 Discusión virtual  de prueba > 				loc1
+2 Encuesta de la discusión >					loc2
+3 Encuesta Discusión virtual de prueba >			loc3
+4 Blank Common Problem
+
+0 Trabajando con la medida y la medición > 
+1 Discusión virtual 1 > 					loc1
+2 Encuesta de la discusión > 					loc2
+3 Encuesta Discusión virtual 1 > 				loc3
+4 Blank Common Problem
+
+DPE:
+0 Desarrollando el pensamiento estadístico > 
+1 Módulo Inicial > 						loc1
+2 Encuesta Inicial > 						loc2
+3 Encuesta #2 > 						loc3
+4 Blank Common Problem
+
+0 Desarrollando el pensamiento estadístico
+1 Taller 1: Ciclo de Investigación > 				loc1
+2 Actividad 1: Encuesta sobre estadística y su enseñanza > 	loc2
+3 Encuesta sobre estadística y su enseñanza #1 >		loc3
+4 Multiple Choice
+
+0 Desarrollando el pensamiento estadístico > 
+1 Discusión virtual  de prueba > 				loc1
+2 Encuesta discusión virtual de prueba > 			loc2
+3 Encuesta página #1 >						loc3 
+4 Blank Common Problem
+
+0 Desarrollando el pensamiento estadístico > 
+1 Discusión virtual 1 > 					loc1
+2 Encuesta de la discusión > 					loc2
+3 Encuesta Discusión virtual 1 > 				loc3
+4 Blank Common Problem
+
+IEP:
+0 Innovando en la enseñanza de las probabilidades > 
+1 Bienvenida >							loc1
+2 Encuesta Inicial > 						loc2
+3 Encuesta Página #2 > 						loc3
+4 Text Input
+
+0 Innovando en la enseñanza de las probabilidades > 
+1 Taller 1: Nociones de probabilidad > 				loc1
+2 Taller online 1 > 						loc2
+3 Encuesta Taller Online 1 > 					loc3
+4 Blank Common Problem
+
+IPE:
+0 Iniciando el pensamiento estadístico >
+1 Modulo Inicial >						loc1
+2 Encuesta Inicial >						loc2
+3 Encuesta Página #1 >						loc3
+4 Blank Common Problem
+
+0 Iniciando el pensamiento estadístico >
+1 Discusión virtual de prueba >					loc1
+2 Encuesta discusión virtual de prueba >			loc2
+3 Encuesta Página #1 >						loc3
+4 Blank Common Problem 
+
+0 Iniciando el pensamiento estadístico >
+1 Discusión virtual 1 >						loc1
+2 Encuesta discusión virtual de prueba >			loc2
+3 Encuesta Página #1 >						loc3
+4 Blank Common Problem
+
+SND:
+0 Trabajando con el sistema de numeración decimal y situaciones aditivas > 
+1 Módulo inicial > 						loc1
+2 Encuesta Inicial > 						loc2
+3 Encuesta Página #2 > 						loc3
+4 Blank Common Problem
+
+0 Trabajando con el sistema de numeración decimal y situaciones aditivas > 
+1 Discusión virtual de prueba > 				loc1
+2 Encuesta discusión virtual de prueba > 			loc2
+3 Encuesta Página #1 > 						loc3
+4 Blank Common Problem
+
+0 Trabajando con el sistema de numeración decimal y situaciones aditivas > 
+1 Discusión virtual 1 > 					loc1
+2 Encuesta discusión virtual 1 > 				loc2
+3 Encuesta Página #1 > 						loc3
+4 Blank Common Problem
+
+DMF
+0 Desarrollando la habilidad de modelar con funciones > 
+1 TS - Taller sincrónico 1 > 					loc1
+2 Encuesta taller sincrónico > 					loc2
+3 Encuesta Taller Online 1 > 					loc3
+4 Blank Common Problem

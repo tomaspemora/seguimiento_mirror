@@ -1,0 +1,2 @@
+Si el % esta entre 0 y 60 : 0.05X + 1
+Si el % esta entre 60 y 100: 0.075X - 0.5

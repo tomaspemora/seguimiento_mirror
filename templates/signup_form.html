@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Registro de usuarios{% endblock %}
+
+{% block content %}
+    {% if error %}
+        <p style="color: red;"><strong>Error:</strong> {{ error }}
+    {% endif %}
+    <form action="" method="post" novalidate>
+          {{ render_form(form) }}
+    </form>
+{% endblock %}

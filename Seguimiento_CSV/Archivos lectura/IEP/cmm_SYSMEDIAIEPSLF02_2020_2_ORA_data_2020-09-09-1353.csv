@@ -1,0 +1,121 @@
+Submission ID,Item ID,Anonymized Student ID,Date/Time Response Submitted,Response,Assessment Details,Assessment Scores,Date/Time Final Score Given,Final Score Points Earned,Final Score Points Possible,Feedback Statements Selected,Feedback on Peer Assessments
+d6a7a2a2-83ad-48db-9c7e-e5145763924a,20744,957213e65a4de87377402e9557891ec4,2020-09-07 02:14:29.524199+00:00,"{""parts"": [{""text"": ""Las respuestas de los estudiantes que dejan en evidencia el sesgo de probabilidad, son las de Andrés y Catalina. \n1. Andrés, porque asocia la equiprobabilidad de los resultados al lanzar un dado con este evento, lo cual es incorrecto, primero porque el experimento que se quiere observar no es el lanzamiento de un dado (si no la suma de las caras de dos dados) y segundo porque al observar la suma de las caras de cada dado, no todas los resultados tendrán la misma probabilidad de ocurrir. La preguntas que puede orientar a Fernanda en     los dos aspectos mencionados son: \n      - ¿Cómo podemos saber qué todos tienen igual opción de ganar? (con esta pregunta Fernanda podrá darse cuenta que el estudiante está equivocado, pues quizás equivoca el evento de estudio o realiza asociaciones erróneas)\n    - Si hablamos de la suma de las caras al lanzar dos dados, ¿todas las sumas sólo puede repetirse una vez? ¿ O existen algunas sumas que puedan aparecer más de una vez? ... Con esta pregunta, Fernanda podrá hacer ver a Andrés que los resultados no son equiprobables, porque hay sumas que tienen más frecuencia que otras.\n\n2. Catalina también tiene un sesgo de probabilidad que hace que equivoque al responder a la profesora. Su error está que asume las probabilidades de ganar y perder son iguales, para cualquier caso. Pero esta equiprobabilidad no es correcta, porque según el número de caballo que se escoja, las probabilidades de ganar y perder irán variando caso a caso. Dos preguntas que pueden orientar a Fernanda a ayudar a Catalina son:\n     - Entonces, según tu pensamiento, ¿todos tus compañeros también tienen la misma probabilidad de ganar?¿Por qué?.... con esta pregunta, la profesora Fernanda podrá darse cuenta que la alumna no está enfocando su respuesta de forma correcta y que está asociando el evento  a que se obtenga su suma o no, sin darse importancia a que hay sumas más frecuentes que otras.\n     - Pongámonos en dos casos, ¿qué la suma sea 2 es igual de probable que la suma sea 8?...con esta pregunta la profesora podrá hacer que Catalina se dé cuenta que su pensamiento es erróneo, pues para que la suma sea 2, solo hay una opción (1+1), mientras para que la suma sea 8 hay muchas más opciones (2+6, 6+2, 3+5, 5+3, 4+4), por lo tanto, que se sume 8 es más probable de obtener comparado a que se sume 2. Así, Catalina podrá ver que la sumas de los números no son igual de probables.""}]}",,,,,,,
+9cd9f8a0-1aef-4267-8f34-fb3fe3202062,20336,8eb5d6ef42ec120410f82f26a87ed2a0,2020-09-05 14:25:53.058167+00:00,"{""parts"": [{""text"": ""Andres y victoria""}]}","Assessment #20930
+-- scored_at: 2020-09-07 17:21:20.499892+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Las preguntas que permiten profundizar en el pensamiento podrían ser: Andrés:
+1.	¿Por qué llegaste a esa respuesta?
+2.	¿Por qué crees eso?
+3.	¿Cómo llegaste a esto?
+4.	¿A qué te refieres con que tengan igual opción de ganar?
+Catalina:
+1.	¿Por qué llegaste a esa respuesta?
+2.	¿Por qué crees eso?
+3.	¿Cómo llegaste a esto?
+
+","Assessment #20930
+-- Calificación: Regular (4)
+",2020-09-07 17:21:20.587942+00:00,4,12,,
+0d019be4-f308-4942-952f-b7b3a9e0535c,20244,fee2c248d611dc828206d57fa9b1edfb,2020-09-04 22:46:35.386939+00:00,"{""parts"": [{""text"": ""Observo el sesgo de la equiprobabilidad en Catalina. \nFernanda debería preguntar a Catalina, ¿Por qué piensas que al lanzar los dados pueden sumar o no sumar el número que escogiste? ¿Lo podrías explicar con un esquema?\nTambién se observa en Andrés una respuesta que podríamos utilizar como error de acuerdo al experimento planteado por Fernanda. A Andrés le preguntaría, ¿por qué cree que todos tienen la misma probabilidad de ganar? y le pediría si puede demostrar por medio de un esquema lo que señala.""}]}",,,,,,,
+d045dd83-cd8b-4995-8d96-b9b49ecae4ff,19843,1c77dc9e3fc9958dbcf64f47f19bbf8a,2020-09-01 15:45:54.687279+00:00,"{""parts"": [{""text"": ""Andrés y Catalina:\nA Andrés se le puede preguntar respecto a elegir dos números, uno del medio y uno de los extremos, y probar si la cantidad de sumas posibles son iguales o no.\nA Catalina se le puede preguntar respecto a si la probabilidad de que salga su número es igual a la de que no salga.\nEn ambos casos se puede guiar a analizar si hay valores más convenientes que otros para elegir.""}]}","Assessment #20929
+-- scored_at: 2020-09-07 17:20:10.795903+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Reconoce estudiantes con sesgo de equiprobabilidad y menciona dos preguntas que permiten profundizar y reconocer el sesgo.
+","Assessment #20929
+-- Calificación: Correcta (12)
+",2020-09-07 17:20:10.865652+00:00,12,12,,
+c30d4e9b-a18a-478c-bff3-1e173406cabf,19796,9d55947802267c010897bc3eafbd56a1,2020-08-29 21:17:03.348325+00:00,"{""parts"": [{""text"": ""Andrés: A mí me da lo mismo, porque todos tienen igual opción de ganar.\n\nPuede indicar que tiene la misma probabilidad de ganar""}]}","Assessment #20928
+-- scored_at: 2020-09-07 17:15:04.860130+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Señala solo un estudiante con sesgo, el otro es Catalina , y no intenciona preguntas que permitan reconocer sesgos
+","Assessment #20928
+-- Calificación: Regular (4)
+",2020-09-07 17:15:04.928682+00:00,4,12,,
+519abaec-9795-41ae-9ce0-0615d88a9f88,19747,7e5acbfcebd55dd8db6d0add63669ffc,2020-08-28 23:26:26.678974+00:00,"{""parts"": [{""text"": ""En el caso vemos que Martín y Victoria  asumen que se puede volver a repetir un suceso anterior, como el número de la suerte puede ganar  o que el número 9 gano la vez anterior por lo tanto se vuelve a repetir, por datos anteriores ellos asumen la victoria. \nPreguntas:\n¿ Puedo comprobar de alguna manera que esos números pueden ganar nuevamente?\nQue sucedería si eliges ese número y no ganas, ¿lo volverías a escoger en una próxima oportunidad ?""}]}","Assessment #20927
+-- scored_at: 2020-09-07 17:09:07.546786+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: No señala los estudiantes con sesgos, Andrés y Victoria, más realiza dos preguntas que permiten reconocer sus sesgos.
+","Assessment #20927
+-- Calificación: Regular (4)
+",2020-09-07 17:09:07.639447+00:00,4,12,,
+86762543-51a0-48f7-959e-37e84462a363,19736,d53520b9cf46420088d75959b479dcca,2020-08-28 02:41:46.974455+00:00,"{""parts"": [{""text"": ""tiene sesgo Andrés y Catalina\nAndrés ¿La probabilidad que la suma de las caras de dos dados sea 2 es igual  a que la suma sea 7?\nCatalina, Al lanzar dos dados y sumar sus caras, ¿la probabilidad que la suma sea 12 es igual a que sea 6?""}]}","Assessment #20926
+-- scored_at: 2020-09-07 17:07:19.049774+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Reconoce estudiantes con sesgo de equiprobabilidad y menciona dos preguntas que permiten profundizar y reconocer el sesgo.
+","Assessment #20926
+-- Calificación: Correcta (12)
+",2020-09-07 17:07:19.099550+00:00,12,12,,
+e32a009e-8a22-4adc-b6c6-ab4c1c4da44d,19601,cfddfc87c2745eeca58f3bad3518053c,2020-08-26 04:00:35.866122+00:00,"{""parts"": [{""text"": ""Según el pensamiento de equiprobabilidad, se identificaría a Andrés, Victoria y Catalina. \nPregunta 1: ¿Cuán probable es obtener 2 al sumar ambos números?\nPregunta 2: ¿Qué sumas son más probables de obtener?""}]}","Assessment #20925
+-- scored_at: 2020-09-07 17:06:39.304865+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Reconoce estudiantes con sesgo de equiprobabilidad y menciona dos preguntas que permiten profundizar y reconocer el sesgo.
+","Assessment #20925
+-- Calificación: Correcta (12)
+",2020-09-07 17:06:39.355486+00:00,12,12,,
+a4872205-8e67-451b-8d3a-f921709b1c4b,19589,318bc9638911352e2e436601090329eb,2020-08-26 02:05:31.343411+00:00,"{""parts"": [{""text"": ""Andrés y Catalina tienen sesgo de equiprobabilidad a pesar que sus pensamientos son erroneos, por otro lado Martín y Victoria tienen la misma probabilidad de ganar (1/9).\n\npregunta 1: para Andrés y Catalina.\n¿Por qué creen ustedes que da igual el número que elijan para ganar el juego del caballo?\n\nPregunta 2: ¿Discutan utilizando probabilidades cual de los dos tiene mayor probabilidad de ganar el juego del caballo y ¿por qué? para Martín y Victoria.""}]}","Assessment #20924
+-- scored_at: 2020-09-07 17:05:02.243021+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+","Assessment #20924
+-- Calificación: Correcta (12)
+",2020-09-07 17:05:02.322457+00:00,12,12,,
+7cc5888f-3e09-44f5-997f-c9949a1af9d3,19560,aec0222cf68df4b7760f5d7c48981976,2020-08-25 18:15:35.933787+00:00,"{""parts"": [{""text"": ""Lamento decir que no sé cómo responder :(""}]}","Assessment #20923
+-- scored_at: 2020-09-07 17:04:06.734240+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Respuesta aceptada: En catalina y Andrés, en ambos se puede distinguir la equiprobabilidad de ganar.
+¿Por qué consideras que da lo mismo elegir cualquier caballo?
+¿Sucedería algo si es que existiera una tendencia a una caballo ganador?, es decir, que tuviera más ventaja.
+
+","Assessment #20923
+-- Calificación: Incorrecta (0)
+",2020-09-07 17:04:07.186026+00:00,0,12,,
+377c92e8-e275-4af4-bdfc-cd16c3019854,19509,99a830238f9e8b43b6648df0c1ea637b,2020-08-25 00:06:45.319964+00:00,"{""parts"": [{""text"": ""¿que probalidad tiene Catalina de ganar?\n¿que porcentaje tiene de ganar o perder todos los participantes?""}]}","Assessment #20922
+-- scored_at: 2020-09-07 17:02:49.369500+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Señala solo un estudiante con sesgo de equiprobabilidad, eran Andrés y Catalina. Además proporciona una permite el reconocimiento de sesgo.
+","Assessment #20922
+-- Calificación: Regular (4)
+",2020-09-07 17:02:49.555049+00:00,4,12,,
+008808c3-931e-4767-aa97-352eabe6937a,19507,b4f98ac4cf8d9c11c60c389720c8029c,2020-08-24 23:29:47.144107+00:00,"{""parts"": [{""text"": ""se identifica el sesgo de equiprobabilidad con Andrés y Catalina""}]}","Assessment #20921
+-- scored_at: 2020-09-07 16:57:04.615413+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Señala los dos estudiantes (Andrés y Catalina) en los que se identifica sesgo de probabilidad, pero no propone ninguna pregunta.
+","Assessment #20921
+-- Calificación: Regular (4)
+",2020-09-07 16:57:04.665663+00:00,4,12,,
+27c20d28-d00e-4331-b713-866e4eafc54e,19500,dec92a9c4d5e276e398b65044d19a1c7,2020-08-24 21:15:35.205010+00:00,"{""parts"": [{""text"": ""Andrés y Catalina tienen sesgo de equiprobabilidad. \n\nEscoge un número al azar ¿En cuáles de los casos posibles de salir el dado se obtiene tu número? ¿Si escoges otro será la misma?\n¿En cuántos casos crees que sale etu número y en cuántos no?""}]}","Assessment #20920
+-- scored_at: 2020-09-07 16:55:28.464784+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Señala los dos estudiantes en los que se identifica sesgo de equiprobabilidad. Además realiza 1 pregunta sobre profundizar el pensamiento y dos que permiten reconocer sus sesgos.
+ 
+
+","Assessment #20920
+-- Calificación: Correcta (12)
+",2020-09-07 16:55:28.535642+00:00,12,12,,
+11cd325d-e131-42d3-a5d3-04e22c523f31,19490,eea70636c4d5dff0f2808e3988f99bbf,2020-08-24 19:24:22.647175+00:00,"{""parts"": [{""text"": ""Andrés tiene sesgo de equiprobabilidad con respecto a su idea, ahora le pediría escribir las sumas de cada una de las posibilidades para que viera que este experimento no es equiprobable ya que hay menos casos que sumen 2 o 12 que los que suman 5 por ejemplo, Catalina es la segunda participante con la misma idea le preguntaría en 6 lanzamientos ¿Cuanto han sumado los dados? Anota cada suma y le pediría que volviera a escoger su caballo.""}]}","Assessment #20919
+-- scored_at: 2020-09-07 16:48:57.686439+00:00
+-- type: ST
+-- scorer_id: c918316b74521471527004f9b7cb15b9
+-- overall_feedback: Las preguntas que permiten profundizar en el pensamiento podrían ser: Andrés:
+1.	¿Por qué llegaste a esa respuesta?
+2.	¿Por qué crees eso?
+3.	¿Cómo llegaste a esto?
+4.	¿A qué te refieres con que tengan igual opción de ganar?
+Catalina:
+1.	¿Por qué llegaste a esa respuesta?
+2.	¿Por qué crees eso?
+3.	¿Cómo llegaste a esto?
+
+","Assessment #20919
+-- Calificación: Parcialmente correcta (8)
+",2020-09-07 16:48:57.800538+00:00,8,12,,

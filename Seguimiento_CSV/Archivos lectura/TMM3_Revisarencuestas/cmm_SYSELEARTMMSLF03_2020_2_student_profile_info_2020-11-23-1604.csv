@@ -1,0 +1,40 @@
+run,id,username,name,email,language,location,year_of_birth,gender,level_of_education,mailing_address,goals,enrollment_mode,verification_status,last_login,date_joined,city,country
+0164985431,19975,andrea_duran,andrea duran saez,profesora.belen.duran@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-21 23:39:16.748240+00:00,2020-08-17 14:14:33.590276+00:00,None,
+0170501411,20096,Beatriz_Lubbert,Beatriz Lübbert  Garrido,biyi_17@hotmail.com,,,None,None,None,None,None,honor,N/A,2020-08-17 22:42:19.266774+00:00,2020-08-17 22:42:18.947990+00:00,None,
+,9188,BeckyRC,Becky Rodríguez,becky.drc@gmail.com,,,1989,,b,,,audit,N/A,2020-11-10 15:56:31.958420+00:00,2019-11-21 13:30:07+00:00,,CL
+0132378436,19413,Carolina_Perez_G,Carolina Andrea Pérez Gutiérrez,carolina.perez40@inacapmail.cl,,,1977,f,b,None,None,audit,N/A,2020-11-22 15:37:02.411245+00:00,2020-08-01 01:30:04.303556+00:00,None,CL
+0164457419,20128,Carolina_Vergara,Carolina Vergara  Jara,carovergara.profe@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-22 14:05:17.239017+00:00,2020-08-19 00:53:51.647815+00:00,None,
+,9177,Caro_Ticona,Carolina Alejandra Ticona Cortez,caticona@uc.cl,,,None,,,,,audit,N/A,2020-11-10 11:17:13.125765+00:00,2019-11-07 18:35:31.066155+00:00,,
+0166838657,20079,Claudia_Cardenas,Claudia Aguilar Cárdenas,caguilarc@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-13 17:54:46.435150+00:00,2020-08-17 21:16:51+00:00,None,
+0169492123,19974,Daniela_Cheuquian,Daniela Alejandra         Cheuquian                      Lincoqueo,daniela.cheuquian.l@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-20 20:21:14.616866+00:00,2020-08-17 14:14:33.079712+00:00,None,
+0163184400,19977,Daniela_Mendoza,Daniela Mendoza Gallegos,danielamendozagallegos@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-21 22:56:46.209320+00:00,2020-08-17 14:14:35.025229+00:00,None,
+0175853391,19793,Danitza_Skoljarev,Danitza Skoljarev Cook,Danitza.skoljarev@educacionpublica.cl,,,None,None,None,None,None,honor,N/A,2020-11-23 00:54:05.987605+00:00,2020-08-12 18:05:34.758631+00:00,None,
+,9192,Diego_HF,Diego Leonardo Higuera Fernández,dhiguerafernandez@gmail.com,,,1992,m,a,,,audit,N/A,2020-11-18 14:23:02.868014+00:00,2019-11-21 14:32:55.398903+00:00,,CL
+0167150705,17588,Dominique_Zaio,Dominique Zaio,dominique.zaio@gmail.com,,,None,None,None,None,None,audit,N/A,2020-11-22 15:31:09.788288+00:00,2020-06-10 15:53:17.119695+00:00,None,
+0165291301,19971,Estivalis_Benitez,Estivalis Alejandra Benitez Escobar,valibenitez@gmail.com,,,None,None,None,None,None,honor,N/A,2020-10-07 15:54:37.407187+00:00,2020-08-17 14:14:31.762151+00:00,None,
+0187658322,331,felipe_espinoza,Felipe Alejandro Espinoza Rosales,felipe.espinoza.r@uchile.cl,,,1994,,,,,audit,N/A,2020-11-23 13:25:59.629926+00:00,2018-12-13 15:40:05+00:00,Santiago,CL
+0171465044,19836,Fernanda_Belmar,Fernanda Belmar Belmar,fabbsud.1989@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-19 20:03:05.562993+00:00,2020-08-14 02:14:29.033656+00:00,None,
+0176517247,19799,Fernanda_Fuenzalida,Fernanda Fuenzalida Carreño,fernanda.fuen.car@gmail.com,,,1991,f,b,None,None,honor,N/A,2020-11-22 17:47:13.759553+00:00,2020-08-12 19:40:51.054097+00:00,None,
+0167284795,19969,Francisca_Aravena,Francisca Aravena Mendez,fran.aravena.mendez@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-19 21:05:40.311036+00:00,2020-08-17 14:14:30.525863+00:00,None,
+0171179696,20132,Francisca_Guajardo,Francisca  Guajardo López,fransebastiana@gmail.com,,,1985,f,b,None,None,honor,N/A,2020-11-20 00:46:30.980744+00:00,2020-08-19 06:13:01+00:00,None,CL
+0175839976,19979,Francisca_Sayago,Francisca Sayago Sayago,fsayago93@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-09 19:49:27.434559+00:00,2020-08-17 14:14:36.141905+00:00,None,
+0174935572,19715,Gonzalo_Henriquez,Gonzalo Henriquez Otarola,gonzalohenriquezotarola@gmail.com,,,None,None,None,None,None,audit,N/A,2020-11-12 00:23:49.283234+00:00,2020-08-07 21:38:57.925477+00:00,None,
+,9180,JavieraOrtiz,Javiera Paz Ortiz Tapia,jpazortiz.ts@gmail.com,,,None,,,,,audit,N/A,2020-11-10 19:05:40.759072+00:00,2019-11-18 19:19:26.324551+00:00,,
+0174905185,19981,Javiera_Villegas,Javiera Alejandra Villegas  Muñoz,javalejandra@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-17 16:15:41.698653+00:00,2020-08-17 14:14:37.169281+00:00,None,
+,8776,jromo,Jorge Romo,jromo.dcc@gmail.com,,,1987,,,,,audit,N/A,2020-11-16 21:05:53.560035+00:00,2019-08-14 16:00:53.242947+00:00,,
+0167363814,19972,Juan_carrasco,Juan Antonio  carrasco llanos,jcarrascollanos@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-23 00:57:37.709317+00:00,2020-08-17 14:14:32+00:00,None,
+0167910726,19804,katherine_loncon,katherine loncón jara,klonconj@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-20 14:34:02.876599+00:00,2020-08-12 20:52:06.862393+00:00,None,
+0172558062,19976,Lohopssy_Espana,Lohopssy Tabañenka España Bobadilla,lopsy1521@gmail.com,,,None,None,None,None,None,honor,N/A,None,2020-08-17 14:14:33+00:00,None,
+0172350208,19973,marcela_cerda,marcela cerda cortés,marce.ale.1219@gmail.com,,,None,None,None,None,None,honor,N/A,None,2020-08-17 14:14:32.568947+00:00,None,
+016684147K,19978,MariaJose_Ramirez,MaríaJosé  Ramírez Ramírez,ma.joseramirezr@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-13 17:26:53.166973+00:00,2020-08-17 14:14:35.528423+00:00,None,
+0172113613,17890,marisela_rojas_a,marisela rojas allendes,mariselarojasa+eol@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-13 14:05:09.803738+00:00,2020-06-25 15:13:15+00:00,None,
+0170763300,19970,Marisol_Avello,Marisol Avello Acuña,m.avello.a@hotmail.com,,,None,None,None,None,None,honor,N/A,2020-08-24 16:02:07.088729+00:00,2020-08-17 14:14:31.244873+00:00,None,
+0170039858,19980,Monica_Valle,Monica Valle Cisternas,monica.vallec@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-18 23:34:33.028080+00:00,2020-08-17 14:14:36.656880+00:00,None,
+0171367735,20124,Natalia_Arrue,Natalia Arrué  Carmona,naty.arrue@gmail.com,,,None,None,None,None,None,honor,N/A,2020-09-11 11:20:55.295062+00:00,2020-08-19 00:26:25.293235+00:00,None,
+0163739240,20129,Patricio_Hormazabal,Patricio Hormazábal Díaz,patriciojhd@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-18 13:57:33.002297+00:00,2020-08-19 02:11:53+00:00,None,
+0163198991,19816,Sofia_Igor,Sofia Lilian Igor  Villena,sofia_igor@hotmail.com,,,1986,f,b,None,None,honor,N/A,2020-11-21 01:08:19.303081+00:00,2020-08-13 03:14:58.013115+00:00,None,CL
+0170604156,19831,TEODORO_CERNA,TEODORO PABLO IGNACIO CERNA MORALES,pablo6.t@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-20 23:51:25.637305+00:00,2020-08-13 21:41:06.435333+00:00,None,
+0173258011,8111,ThomasPM,Thomas E. Peet Moraga,tomaspemora@ug.uchile.cl,,,1990,m,b,,,audit,N/A,2020-11-20 20:13:26.331182+00:00,2019-07-23 14:33:59+00:00,,CL
+,9193,Trinidad_Cortes,Trinidad de la Luz Cortés Sordo,tcortes.sordo@gmail.com,,,1987,f,b,,,audit,N/A,2020-11-23 13:51:15.292441+00:00,2019-11-21 14:39:11+00:00,,
+0167611036,20125,viviana_Lemu,viviana Lemu Arce,vivianalemuarce@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-23 00:52:45.544378+00:00,2020-08-19 00:26:26.313070+00:00,None,
+0170207025,19788,Yiccia_Roco,Yiccia  Roco Muñoz,yiccia.roco.m@gmail.com,,,None,None,None,None,None,honor,N/A,2020-11-09 01:07:20.539272+00:00,2020-08-12 17:53:24.026951+00:00,None,

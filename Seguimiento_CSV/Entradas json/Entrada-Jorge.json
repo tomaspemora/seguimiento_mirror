@@ -1,0 +1,12 @@
+{
+    "listausuarios": "./DPAPIL/cmm_SYSELEARDPAPIL01_2020_1_student_profile_info_2020-04-20-2229.csv",
+    "ora": "./DPAPIL/cmm_SYSELEARDPAPIL01_2020_1_ORA_data_2020-04-27-1647.csv",
+    "jsonuserprueba":"./fusionados/UsuarioPrueba_CODE.json",
+    "codigodrive_reporte":"1rUQsgAtbrSRW_C35MtPDJrJ1QCbhgVxp",
+    "codigodrive_listausuarios":"1LYgBb2b-S0IBDVwVwkCldiMC78qbgvry",
+    "codigodrive_listanegra":"1zWHomYLfFHPr4usbFbuGb5eAZSVlPRih",
+    "codigodrive_encuesta":"1KZyeZFSQLizUdbwBcAG1Nk7OJ-qSGJ7a",
+    "talleres":[
+        "./DPAPIL/cmm_SYSELEARDPAPIL01_2020_1_student_state_from_block-v1_cmm+SYSELEARDPAPIL01+2020_1+type@course+block@course_2020-04-27-1635.csv"
+    ]
+ }

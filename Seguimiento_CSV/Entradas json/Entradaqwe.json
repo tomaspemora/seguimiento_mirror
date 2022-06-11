@@ -1,0 +1,20 @@
+{
+    "listausuarios": "./uploads/cmm_SYSELEARIPGSLF02_2022_1_student_profile_info_2022-04-29-1520.csv",
+    "ora": "./uploads/cmm_SYSELEARIPGSLF02_2022_1_ORA_data_2022-04-29-1520.csv",
+    "talleres":
+    [
+        "./uploads/cmm_SYSELEARIPGSLF02_2022_1_student_state_from_block-v1_cmm+SYSELEARIPGSLF02+2022_1+type@course+block@course_2022-04-29-1520.csv"
+    ],
+    "jsonuserprueba": "./json/UsuarioPrueba_IPG.json",
+
+    "curso":
+    {
+        "pefijo": "cmm",
+        "programa": "SYS",
+        "subprograma": "ELEAR",
+        "siglas": "IPGSLF",
+        "ano": "2022",
+        "semestre": "1",
+        "seccion": "02"
+    },
+}

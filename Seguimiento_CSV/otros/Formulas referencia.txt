@@ -1,0 +1,9 @@
+Formula para %correctas, donde varía el 5 de F5:OH5, F1 fijo
+=ROUND(( (COUNTIF('Datos Avance'!F5:OH5;1)+COUNTIF('Datos Avance'!F5:OH5;2))/'Reporte Avance'!F1 ) ,2)
+
+
+Formula para %contestadas, donde varía el 3 de I3, F1 fijo
+=ROUND(('Reporte Avance'!I3/'Reporte Avance'!F1),2)
+
+Formula para nota, donde varía el 3 de G3
+=ROUND(IF(G3<0,6;(5*G3+1);(7,5*G3-0,5)),1)

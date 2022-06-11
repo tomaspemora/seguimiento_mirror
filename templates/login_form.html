@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Login{% endblock %}
+
+{% block content %}
+    <div>
+        <form action="" method="post" novalidate>
+            {{ render_form(form) }}
+            
+        </form>
+        {% if error is not none %}
+        <p style="color:red">{{error}}</p>
+        {% endif %}
+    </div>
+    <div>¿No tienes cuenta? <a href="{{ url_for('show_signup_form') }}">Regístrate</a></div>
+{% endblock %}

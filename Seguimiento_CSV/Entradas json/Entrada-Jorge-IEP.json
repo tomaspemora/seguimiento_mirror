@@ -1,0 +1,12 @@
+{
+    "listausuarios": "./IEP/cmm_SYSMEDIAIEPRMP01_2020_1_student_profile_info_2020-05-14-1701.csv",
+    "ora": "./IEP/cmm_SYSMEDIAIEPRMP01_2020_1_ORA_data_2020-05-14-1702.csv",
+    "jsonuserprueba":"./fusionados/UsuarioPrueba_IEP.json",
+    "codigodrive_reporte":"1rUQsgAtbrSRW_C35MtPDJrJ1QCbhgVxp",
+    "codigodrive_listausuarios":"1LYgBb2b-S0IBDVwVwkCldiMC78qbgvry",
+    "codigodrive_listanegra":"1zWHomYLfFHPr4usbFbuGb5eAZSVlPRih",
+    "codigodrive_encuesta":"1KZyeZFSQLizUdbwBcAG1Nk7OJ-qSGJ7a",
+    "talleres":[
+        "./IEP/cmm_SYSMEDIAIEPRMP01_2020_1_student_state_from_block-v1_cmm+SYSMEDIAIEPRMP01+2020_1+type@course+block@course_2020-05-14-1703.csv"
+    ]
+ }

@@ -1,0 +1,736 @@
+Submission ID,Item ID,Anonymized Student ID,Date/Time Response Submitted,Response,Assessment Details,Assessment Scores,Date/Time Final Score Given,Final Score Points Earned,Final Score Points Possible,Feedback Statements Selected,Feedback on Peer Assessments
+be836abd-e2e0-4f91-85b4-49de85636b82,18150,821692108c70a86ba33bfc101cbf3033,2020-07-23 03:53:35.237449+00:00,"{""parts"": [{""text"": ""¿Cuál es la probabilidad de que el detector acuse que el circuito es defectuoso?\n\nEn esta  situación hay dos ramas que toman importancia,  que no sea defectuoso y lo detecte mal y la rama en donde el circuito es efectivamente defectuoso y lo detecta como tal. Con un diagrama de árbol se obtiene el resultado rápidamente.  6,4%\n\n¿Sabiendo que la maquina detecta defecto, cuál es la probabilidad de que el circuito esté en buen estado?\nEsta pregunta invierte el pensamiento de la pregunta anterior. Si a esta altura se sabe que la probabilidad era de un 6.4% ahora este evento se da como condición y nos lleva a replantear los esquemas. Además el alumno deberá descubrir como asociar dicha probabilidad a la fórmula de probabilidad condicionada.""}]}","Assessment #19638
+-- scored_at: 2020-07-26 16:51:54.593370+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19638
+-- Calificación: Correcta (12)
+",2020-07-26 16:51:54.635193+00:00,12,12,,
+9b2ce72c-6102-4b96-988b-a30998cfc7b2,18145,b686d042aeae0dcb88fd516a1ac3fc65,2020-07-23 03:36:03.693115+00:00,"{""parts"": [{""text"": ""1) Si se han fabricado 10000 circuitos ¿Cuál es la probabilidad de que el dispositivo utilizado diga que éstos están defectuosas estando buenos?   (comprensión de la información)\n\n2) Determina la probabilidad de que el dispositivo acierte y que los circuitos están en buen estado. (desarrollo de tablas o diagramas con cálculo de probabilidad)""}]}","Assessment #19637
+-- scored_at: 2020-07-26 16:51:14.640916+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19637
+-- Calificación: Correcta (12)
+",2020-07-26 16:51:14.684377+00:00,12,12,,
+b6750838-23c3-439a-bb1c-53dc79327631,18144,64ad22395227639aa3546ed808d5397f,2020-07-23 03:27:23.778743+00:00,"{""parts"": [{""text"": ""1ra pregunta: si se escoge un circuito al azar, ¿cual es la probabilidad de que al someterlo al dispositivo este acuse una falla? \n\n2da pregunta: si para realizar un estudio de calidad, se analizaron los circuitos y al escoger uno ya testeado por el dispositivo, cuyo resultado fue un acuse de falla.¿cual es la probabilidad que este circuito realmente esté con una falla?\n\n\nla secuencia se sustenta en que la primera pregunta simplemente completando los datos, y operando con la regla del producto de probabilidades se puede obtener, y la segunda es una pregunta mas elaborada ya que posee un mayor análisis de la situación e interpretación. se debe manejar también el teorema de bayes para lograr completarla.""}]}","Assessment #19636
+-- scored_at: 2020-07-26 16:50:30.200114+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Completa justificación
+","Assessment #19636
+-- Calificación: Correcta (12)
+",2020-07-26 16:50:30.252681+00:00,12,12,,
+565735cd-8dd5-4a37-8c3d-cd4cbde32b5e,18141,d52332b8f78783041cd25ef3201f63be,2020-07-23 02:59:40.243503+00:00,"{""parts"": [{""text"": ""1) Si al seleccionar uno de los circuitos, éste es defectuoso. ¿Cuál es la probabilidad de que el dispositivo acuse la falla del circuito?\n2) ¿Cuál es la probabilidad de que el dispositivo cometa un error, sabiendo que el circuito no era defectuoso?\n\nPara la primera pregunta, están todos los datos necesarios en el enunciado, es sólo ordenar la información y determinar la probabilidad, en cambio la segunda está planteada de forma más compleja y además, se debe inferir que el porcentaje de circuitos no defectuosos corresponde al 95% del total para determinar la probabilidad solicitada.""}]}","Assessment #19635
+-- scored_at: 2020-07-26 16:49:43.445689+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien
+","Assessment #19635
+-- Calificación: Correcta (12)
+",2020-07-26 16:49:43.500625+00:00,12,12,,
+684789f9-23cf-4456-96dc-251317d0997f,18137,e7c0197796fe9d485b743d6d4c06ad43,2020-07-23 02:43:43.304388+00:00,"{""parts"": [{""text"": ""1) En la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces. \n ¿Cuál es la probabilidad  de que el dispositivo no acuse falla del circuito  y sea defectuoso?\n\n2) En la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces.  ¿Cuál es la probabilidad de que el dispositivo no acuse falla?\n\nDesarrollé el siguiente esquema de representación,  en el cuál encontrar la probabilidad de que no acuse falla cuando esta defectuoso el circuito es un nivel mas sencillo. En cambio la segunda pregunta es de un nivel mas elevado ya que debe calcular mas probabilidades y sumar estas probabilidades.\n\n                                                 acusa falla      90%\n    5%  defectuoso         \n                                                 No acusa falla\n\n\n                                                  acusa falla        2%\n         no defectuoso            \n                                                  No acusa falla""}]}","Assessment #19634
+-- scored_at: 2020-07-26 16:48:59.477663+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19634
+-- Calificación: Correcta (12)
+",2020-07-26 16:48:59.521285+00:00,12,12,,
+91072361-2728-4327-aa0f-e368e5a90a3c,18134,a32e4cf104da2d1eb6fc7e1b6836e51e,2020-07-23 02:35:02.849052+00:00,"{""parts"": [{""text"": ""1. Al seleccionar un circuito al azar, ¿Cuál es la probabilidad de que al ser probados con el dispositivo este acuse falla?\n\n2. ¿Cuál es la probabilidad de que un circuito sea defectuoso, dado que al ser probado en el dispositivo acusa falla?\n\nLa primera pregunta está planteada para utilizar en ella probabilidad total, mientras que en la segunda pregunta se aplica el Teorema de Bayes.""}]}","Assessment #19633
+-- scored_at: 2020-07-26 16:48:00.053449+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19633
+-- Calificación: Correcta (12)
+",2020-07-26 16:48:00.098818+00:00,12,12,,
+246f3f13-ba50-4150-aac1-a6af8bb8a89c,18121,0014bc274d595e425cd0efb82d2539ff,2020-07-23 00:18:43.304281+00:00,"{""parts"": [{""text"": ""¿que probabilidad hay de que el circuito examinado sea declarado defectuoso por el dispositivo?\n\nsi un circuito no esta defectuoso y el dispositivo acusa falla, ¿pensarías que el circuito esta defectuoso?""}]}","Assessment #19632
+-- scored_at: 2020-07-26 16:46:18.834201+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y la justificación???
+
+","Assessment #19632
+-- Calificación: Correcta (12)
+",2020-07-26 16:46:18.878479+00:00,12,12,,
+8a5a1db6-cf59-4d05-b719-a424477f9db7,18120,1bdc36629c6d36074d47b72a8e26c397,2020-07-23 00:18:38.880731+00:00,"{""parts"": [{""text"": ""¿Cuál sería la probabilidad de que efectivamente el circuito esté defectuoso siendo que el dispositivo no detecta falla?\nSi el circuito se encuentra bueno y el dispositivo detecta una falla, ¿Pensarías que el circuito se encuentra defectuoso?""}]}","Assessment #19631
+-- scored_at: 2020-07-26 16:45:20.468501+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y la justificación???
+","Assessment #19631
+-- Calificación: Correcta (12)
+",2020-07-26 16:45:20.587345+00:00,12,12,,
+d27ae30d-01cd-4eaa-8df5-fe0ea240c191,18117,8dddb91df7233138cf428a08c9e1022b,2020-07-22 23:51:02.879321+00:00,"{""parts"": [{""text"": ""1. ¿Qué porcentaje de máquinas no son defectuosas?\n2. ¿Qué porcentaje no acusa falla si se sabe que la maquina no estaba defectuosa?\n\nSe utiliza este orden, ya que la primera pregunta es de bajo nivel de dificultad pues se deduce del complemento de circuitos defectuosos, la segunda seria de mayor orden pues requiere que el estudiante ordene la información para resolver el ejercicio no de manera directa.""}]}","Assessment #19630
+-- scored_at: 2020-07-26 16:44:28.136013+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien
+","Assessment #19630
+-- Calificación: Correcta (12)
+",2020-07-26 16:44:28.200974+00:00,12,12,,
+227fe1c5-2b2d-47c1-932a-8a4067b227f7,18092,65cd9e416a19d952bcf90e68a0e3e94b,2020-07-22 22:11:11.895826+00:00,"{""parts"": [{""text"": ""¿Cual es la probabilidad de que el dispositivo entregue como resultado que es defectuoso sabiendo que el circuito es defectuoso?\n\n¿Cual es la probabilidad de que el dispositivo entregue como resultado que el circuito no es defectuoso?\n\nLa primera pregunta es más simple por que se puede resolver de manera directa con los datos entregados, la segunda pregunta es un poco más compleja ya que hay que calcular con el teorema de la probabilidad total.""}]}","Assessment #19627
+-- scored_at: 2020-07-26 16:30:12.699004+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy completa su respuesta
+","Assessment #19627
+-- Calificación: Correcta (12)
+",2020-07-26 16:30:12.745618+00:00,12,12,,
+65b2b8f5-ea54-46f2-9030-9f37ef4b5d4c,18091,f81cb860c4ac58259a5abad446971eb8,2020-07-22 22:06:00.545505+00:00,"{""parts"": [{""text"": ""1) ¿Cuál es la probabilidad de que el dispositivo declare que la máquina falla cuando el circuito es defectuoso?\n2) ¿Cuál es la probabilidad de que el dispositivo declare que la máquina no falla cuando el dispositivo no sea defectuoso?""}]}","Assessment #19626
+-- scored_at: 2020-07-26 16:29:31.034648+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y la justificación???
+","Assessment #19626
+-- Calificación: Correcta (12)
+",2020-07-26 16:29:31.079679+00:00,12,12,,
+b5f8e4fa-23e7-4929-84c3-77d21d1edc6b,18073,5d305077bba4ce34c1ce1ff47a5ad060,2020-07-22 18:32:57.378385+00:00,"{""parts"": [{""text"": ""Complejidad 1: ¿cuál es la probabilidad de que el dispositivo no acuse falla, dado que el circuito es defectuoso?\nEsta pregunta es de complejidad 1, ya que basta con realizar un diagrama de árbol y con el dato de que el 90% de las veces el dispositivo acusa falla cuando el circuito es defectuoso es posible hallar la probabilidad pedida en la pregunta.\nComplejidad 2: ¿Cuál es la probabilidad de que el dispositivo no acuse falla?\nEsta pregunta es de complejidad 2, ya que además de completar el diagrama de árbol, requiere un cálculo mayor.""}]}","Assessment #19625
+-- scored_at: 2020-07-26 16:28:49.759072+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19625
+-- Calificación: Correcta (12)
+",2020-07-26 16:28:49.828826+00:00,12,12,,
+60fb89d3-1d38-4d5a-8216-4a2ca272d8f3,18072,0cefbe4185692d0f3943c86e7588899d,2020-07-22 18:29:02.803151+00:00,"{""parts"": [{""text"": ""Preguntas:\n1. ¿Cuál es la probabilidad de que el dispositivo acuse falla, dado que el circuito es defectuoso? \n2.- ¿Cual es la probabilidad  de que el dispositivo \""no\"" acuse falla, dado que el circuito \""este bueno\""?\n\nJustificar secuencia: La pregunta 1 tiene menor dificultad, ya que utiliza los datos explícitos dados en el problema, a diferencia de la pregunta 2 que utiliza datos que se deben calcular (a pesar de ser cálculos simples) y ademas se utiliza una frase que no esta directamente en el problema, haciendo a los alumnos relacionar el que \""este bueno\"", con el complemento de que el dispositivo no acuse falla.""}]}","Assessment #19619
+-- scored_at: 2020-07-26 16:13:14.583818+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19619
+-- Calificación: Correcta (12)
+",2020-07-26 16:13:14.631445+00:00,12,12,,
+a4695dfa-f555-40dd-955f-280b076d9e2a,18056,33b25ae9e3618900eacf0b798f524a2c,2020-07-22 14:52:54.199888+00:00,"{""parts"": [{""text"": ""1) ¿Cuál es la probabilidad de qué el dispositivo acuse falla y los circuitos estén defectuosos?\n-2) ¿Cuál es la probabilidad de que el dispositivo acuse falla?\nJustificación: El orden de las preguntas fue secuenciado de está manera ya que en la primera pregunta lo estudiantes la pueden resolver de manera directa, sin tener que hacer ningún cálculo porque un diagrama de árbol bastaría para responder, pero ya en la segunda pregunta aumenta un poco la dificultad teniendo que hacer un diagrama más algún cálculo  para poder responder a la pregunta.""}]}","Assessment #19618
+-- scored_at: 2020-07-26 16:12:31.854852+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien argumentado
+","Assessment #19618
+-- Calificación: Correcta (12)
+",2020-07-26 16:12:31.895595+00:00,12,12,,
+af308be5-3cba-4e24-896a-dc29c378c871,18055,931c2d70019c798c8f7b054572ba61f7,2020-07-22 14:52:38.298496+00:00,"{""parts"": [{""text"": ""Si se sabe que el dispositivo acusa falla ¿cual es la probabilidad que no sea defectuoso?\n\nAl querer dar de baja los productos defectuoso, ¿cual es el porcentaje del total de estos?""}]}","Assessment #19617
+-- scored_at: 2020-07-26 16:12:00.250126+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Y la justificación??
+","Assessment #19617
+-- Calificación: Correcta (12)
+",2020-07-26 16:12:00.293090+00:00,12,12,,
+a2670475-523e-45aa-ae70-76fe85a676ea,18047,b3330248d6956e4a46ad6f315787bff6,2020-07-22 06:32:28.950224+00:00,"{""parts"": [{""text"": ""Nivel1: ¿cuál es la probabilidad de que el dispositivo acuse falla y este realmente sea defectuoso?\n\nNivel2: ¿Cuál es la probabilidad que el dispositivo acuse falla?\n\nEsta secuencia comienza de lo más básico en que el estudiante, ya sea haciendo un diagrama de árbol o una tabla de contingencia, el pueda calcular la pregunta del nivel 1 multiplicando solamente y luego la pregunta del nivel 2 más compleja debido a que tendrá que utilizar más información, ya sea teorema de bayes con otros cálculos o teorema de probabilidad total""}]}","Assessment #19616
+-- scored_at: 2020-07-26 16:11:07.030112+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy completa su respuesta
+","Assessment #19616
+-- Calificación: Correcta (12)
+",2020-07-26 16:11:07.083671+00:00,12,12,,
+5e96a03b-4c00-4d25-8f8f-7b9ccc735eb5,18035,6a54e6fcebe68bd26cf6aa555ad9acbc,2020-07-22 02:04:04.472363+00:00,"{""parts"": [{""text"": ""De la información que se entregó en el problema, realice la representación gráfica del problema en un diagrama de árbol o bien en una tabla de doble entrada y responda las siguientes preguntas:\nObservación: deje sus cálculos en la hoja.\n1.- Considerando que la ampolleta es defectuosa ¿Cuál es la probabilidad de que el dispositivo no acuse su falla?\n2- ¿Cuál es la probabilidad de que el dispositivo no indique la falla del dispositivo, si este no está defectuoso?\n\nMi justificación para el planteamiento anterior es que primero, se debe \""guiar\"" al estudiante para poder responder a las preguntas planteadas, esto se puede dar mediante la solicitud de que haga el diagrama de árbol o tabla de doble entrada que permitirá que puedan trabajar de mejor manera con los datos, y a la vez que se evidencia la comprensión del problema. Luego la primera pregunta es dándole de manera explícita la condición del cálculo de la probabilidad, para que él pueda de inmediato saber que su respuesta estará condicionada a ese grupo del circuito. Sin embargo, la segunda pregunta es presentada de manera más ambigua, para que él determine la condición del problema y poder así evidenciar la comprensión y logro a cabalidad del objetivo.""}]}","Assessment #19615
+-- scored_at: 2020-07-26 16:10:40.163395+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien
+","Assessment #19615
+-- Calificación: Correcta (12)
+",2020-07-26 16:10:40.210912+00:00,12,12,,
+f3481944-070f-4ab5-8457-8470585f670b,17994,940e7ecbdc0331678f91b23ae5c7db51,2020-07-21 03:14:54.606828+00:00,"{""parts"": [{""text"": ""1) Para la primera pregunta se considerará que el estudiante sea capaz de interpretar la información y representarla en un diagrama de árbol. De esta forma pueda reconocer la probabilidad que acuse falla cuando el circuito sea defectuoso. Por lo tanto el enunciado quedaría de la siguiente forma:\nEn la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces. ¿ Cuál es la probabilidad de que el dispositivo indique una falla cuando el circuito está defectuoso?\n\n2) Para la segunda pregunta, además de lo anterior, se espera que el estudiante calcule los porcentajes implícitos y además sepa identificar las probabilidades favorables a considerar, de esta forma el enunciado quedará:\nEn la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces. ¿Cuál es la probabilidad de que el dispositivo no acuse falla?""}]}","Assessment #19614
+-- scored_at: 2020-07-26 16:09:51.913455+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien argumentado
+","Assessment #19614
+-- Calificación: Correcta (12)
+",2020-07-26 16:09:51.979223+00:00,12,12,,
+ef682027-85a3-433c-9a79-83ef7f3714c1,17969,24392bdc4cbaebc4a439132b1753f8a9,2020-07-20 23:57:24.184946+00:00,"{""parts"": [{""text"": ""Pregunta 1.\nEn la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces. ¿Cuál es la probabilidad de que el dispositivo arroje falla y sean defectuosos? (Se puede utilizar diagrama de árbol y los datos están directos)\n\nPregunta 2.\nEn la fabricación de un cierto tipo de circuitos se sabe que un 5% de ellos son defectuosos. Un dispositivo utilizado para comprobar sus defectos acusa falla el 90% de las veces en que los circuitos son defectuosos. Pero también acusa falla cuando los circuitos no son defectuosos un 2% de las veces. ¿Cuál es la probabilidad de que el dispositivo no arroje falla? (Se debe completar el diagrama de árbol con los datos requeridos para el cálculo de esta probabilidad).""}]}","Assessment #19613
+-- scored_at: 2020-07-26 16:09:11.005189+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19613
+-- Calificación: Correcta (12)
+",2020-07-26 16:09:11.050081+00:00,12,12,,
+97ce2947-0d20-456d-a0c0-f1091d582c02,17931,8ec3fd115ca4d06a83b1756c87977b11,2020-07-20 21:46:15.877880+00:00,"{""parts"": [{""text"": ""pregunta de bajo nivel:\n¿cual es la probabilidad que los circuitos no sean defectuoso?\n\npregunta de mayor nivel:\nsi no se acusa falla, ¿cual es la probabilidad de que el circuito no este defectuoso?""}]}","Assessment #19612
+-- scored_at: 2020-07-26 16:07:04.698733+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Faltó justificar
+","Assessment #19612
+-- Calificación: Correcta (12)
+",2020-07-26 16:07:04.741194+00:00,12,12,,
+89924e12-e2af-4430-992a-ebf758e3b254,17531,c458f4a3e4219af4290846073b9d2e0e,2020-07-20 19:14:30.419468+00:00,"{""parts"": [{""text"": ""1-. ¿Es mayor la probabilidad de acusar falla o de no acusar falla?\n2-. De un total de 30 circuitos defectuosos, ¿Cuántas veces acusará falla cuando en realidad no son defectuosos?""}]}","Assessment #19611
+-- scored_at: 2020-07-26 16:06:31.123483+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Faltó justificar
+","Assessment #19611
+-- Calificación: Correcta (12)
+",2020-07-26 16:06:31.168427+00:00,12,12,,
+c783f1bc-93dd-4ba4-a784-4ec2a080c5b3,17888,9c186919a0d8f484071e0e18f1758ccf,2020-07-20 16:34:13.719350+00:00,"{""parts"": [{""text"": ""1° problema\n¿cuál es la probabilidad de que el dispositivo no acuse fallo siendo que el circuito viene defectuoso?\n\n2° problema\n¿cuál es la probabilidad de obtener un circuito defectuoso, sabiendo que el dispositivo no acusó fallo?""}]}","Assessment #19610
+-- scored_at: 2020-07-26 16:05:46.776778+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Faltó justificar....
+","Assessment #19610
+-- Calificación: Correcta (12)
+",2020-07-26 16:05:46.824757+00:00,12,12,,
+b4288f80-3c9f-411d-816f-91e4fc049beb,17885,e0ae04ed6806d1c8dcb2d311d9010554,2020-07-20 16:32:05.800090+00:00,"{""parts"": [{""text"": ""Pregunta 1: Nivel medio de complejidad\n¿Cuál es la probabilidad de el circuito no indique falla dado que no es defectuoso?\nPregunta 2: Nivel alto de dificultad\n¿Cuál es la probabilidad de que el circuito sea defectuoso dado que indicó falla?\n\nEn el primer caso es un repsuesta de facil obtención al analizar y ordenar los datos, en cambio en el segundo caso se debe reordenar los datos y aplicar teroremas""}]}","Assessment #19609
+-- scored_at: 2020-07-26 16:04:18.060456+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien
+","Assessment #19609
+-- Calificación: Correcta (12)
+",2020-07-26 16:04:18.126580+00:00,12,12,,
+b47e1bd2-daf4-4df2-9bb5-39996e3b8bc2,17439,dfd9ee3831039ff2cd9ce0c583880a6b,2020-07-20 02:29:23.314912+00:00,"{""parts"": [{""text"": ""1) completar diagrama de árbol y luego completar tabla de contingencia \n2) calcular probabilidad de obtener un objeto defectuoso y el aparato lo indico como bueno""}]}","Assessment #19606
+-- scored_at: 2020-07-26 15:57:41.154153+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: son de complejidad menor ambas y la Justificación ???
+
+","Assessment #19606
+-- Calificación: Parcialmente correcta (6)
+",2020-07-26 15:57:41.218158+00:00,6,12,,
+46413a19-6d02-4cbd-9ac8-d7af9e9da8a7,17660,092b625bea7ba42880113e2f9d6875d7,2020-07-20 01:25:40.116014+00:00,"{""parts"": [{""text"": ""1) ¿Cuál es la probabilidad de que el producto venga defectuoso y la máquina lo detecte sin fallas?\nEs un calculo rutinario, en donde la lectura es fácil de seguir, dado que los estudiantes están acostumbrados a poner énfasis en la palabra \""y\"", asociado a una intersección de eventos.\n\n\n2)¿Cuál es la probabilidad de que al elegir un circuito, este sea catalogado con fallas?\n\nEs un poco más difícil dado que deben entender que lo que se busca es que el circuito sea catalogado con fallas.\n3)Qué será más grave para la empresa, que el dispositivo señale un circuito con fallas sin tener defectos, o que señale un dispositivo sin fallas cuando realmente viene defectuoso.\nEsta última la puse, dado que, además de los cálculos requiere contrastar la subjetividad con la matemática encontrada en los resultados.\n(La puede omitir)""}]}","Assessment #19605
+-- scored_at: 2020-07-26 15:55:40.448979+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19605
+-- Calificación: Correcta (12)
+",2020-07-26 15:55:40.498921+00:00,12,12,,
+200c228d-838d-4c07-ae82-0d8f61fa944e,17659,241721b45a480622ca2acd4f1b4e0057,2020-07-20 01:25:17.569765+00:00,"{""parts"": [{""text"": ""Primera pregunta: ¿Cual es la probabilidad de que al escoger un circuito al azar el dispositivo acuse falla, si el producto es defectuoso?\n\n- Justificación: Los datos para responder esta pregunta pueden extraerse directamente del diagrama de árbol asociado.\n\nSegunda pregunta: La probabilidad de que el dispositivo acuse falla, si el producto es defectuoso, es menor que la probabilidad de que el dispositivo no acuse falla si el producto no es defectuoso. Justifica.\n\n- Justificación: El estudiante debe comparar dos resultados, y para calcularlos hay datos que no están explícitos en el diagrama de árbol sino que él debe completarlos y luego realizar los cálculos.\n\nJustificación: Para responder a ésta pregunta""}]}","Assessment #19603
+-- scored_at: 2020-07-26 15:54:41.611476+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19603
+-- Calificación: Correcta (12)
+",2020-07-26 15:54:41.671274+00:00,12,12,,
+5ac78a07-6f01-411f-8079-5b5c8f18eaf4,17653,24b7b2ebbddc0e899330636f6074154f,2020-07-20 00:18:43.714219+00:00,"{""parts"": [{""text"": ""¿cual es la probabilidad de que se acuse una falla si el circuito es defectuoso?\n¿cual es la probabilidad de que el detector no acuse una falla cuando el circuito si la presenta?""}]}","Assessment #19601
+-- scored_at: 2020-07-26 15:52:35.756448+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Justifica tu secuencia.???? 
+","Assessment #19601
+-- Calificación: Parcialmente correcta (6)
+",2020-07-26 15:52:35.804829+00:00,6,12,,
+b7b307d0-0d0e-45d7-80c5-fce223b1e3d9,17652,68f43a92ed2c35c1f85c61b89a5677f3,2020-07-20 00:06:18.002136+00:00,"{""parts"": [{""text"": ""La primera pregunta es: ¿Cuál es la probabilidad de que el dispositivo no acuse falla dado que el circuito es defectuoso?\nEs de complejidad fácil porque el estudiante tendría que calcular el complemento de la probabilidad de indicar una falla dado que el circuito es defectuoso.\n\nLa segunda pregunta es: ¿Cuál es la probabilidad de que el dispositivo no acuse falla?\nEsta pregunta es de dificultad media porque se debe aplicar el teorema de probabilidad total.""}]}","Assessment #19600
+-- scored_at: 2020-07-26 15:51:34.458844+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien, correctas las preguntas...
+","Assessment #19600
+-- Calificación: Correcta (12)
+",2020-07-26 15:51:34.535482+00:00,12,12,,
+d9238fb7-e704-4a87-b051-3d8bc0d56148,17633,75d4e936400562aba226f3bb4bcc54b2,2020-07-19 14:57:13.706086+00:00,"{""parts"": [{""text"": ""1) Dada la información anterior, ¿cuál es la probabilidad de que un circuito que sea detectado defectuoso realmente lo sea?\n(La justificación está dada porque los datos están explícitos para el cálculo 0,05x0,9)\n2) Dada la información anterior, ¿Cuál es la probabilidad de que un circuito  resulte defectuoso, no siéndolo? y qué complicaciones puede traer ésto?\n(La justificación, datos no explícitos y pregunta para reflexionar y aplicar)""}]}","Assessment #19597
+-- scored_at: 2020-07-26 15:48:50.771672+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19597
+-- Calificación: Correcta (12)
+",2020-07-26 15:48:50.819342+00:00,12,12,,
+6708832a-5a57-41d4-b8b4-e6b18988bc26,17622,fa6b552fe78d5c8670ecbd77840142e4,2020-07-19 02:24:51.939724+00:00,"{""parts"": [{""text"": ""Pregunta 1: ¿Cuál es la probabilidad de que un circuito sea detectado con falla y sea defectuoso? \nPregunta 2: ¿Cuál es la probabilidad de que un artículo sea detectado con falla?\nLa secuencia elegida va orientada a la complejidad de las preguntas, ya que se deben obtener más valores de los dados para obtener la respuesta a la pregunta 2""}]}","Assessment #19596
+-- scored_at: 2020-07-26 15:46:29.592550+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien
+","Assessment #19596
+-- Calificación: Correcta (12)
+",2020-07-26 15:46:29.673673+00:00,12,12,,
+bc95b393-9744-497f-8140-f28cf60ca2f8,17320,e7c0197796fe9d485b743d6d4c06ad43,2020-07-11 16:46:48.693465+00:00,"{""parts"": [{""text"": ""El error del estudiante fue considerar en su procedimiento el restar estos cuatro días al total de casos. no calculo los casos posibles de repetirse\n\nlos casos posibles con repetición son 30.\nentonces son 30 días mas que pueden seguir sin repetir distribuciones""}]}","Assessment #19261
+-- scored_at: 2020-07-13 23:37:35.368766+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: El error es que los 2 reponedores y los 2 vendedores deberían
+considerarse como indistinguibles.
+","Assessment #19261
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:37:35.443345+00:00,6,12,,
+67b1b163-669c-4e48-9f44-8a314d6646e4,17150,d52332b8f78783041cd25ef3201f63be,2020-07-08 23:55:17.335701+00:00,"{""parts"": [{""text"": ""Error de orden, ya que supone que los cargos son seleccionados en un orden en particular (primero cajero, luego reponedores y luego vendedores).\nLo que debería haber hecho es, 5 sobre 1 (de los 5, se selecciona uno para el cargo de cajero), cuatro sobre dos (de los 4 que quedan, se seleccionan 2 para reponedores), y dos sobre dos ( de los 2 que quedan, se seleccionan 2 para vendedor, multiplicando los resultados y obteniendo 30 posibilidades. Si hubiese hecho 5 sobre 2, 3 sobre 2 y 1 sobre 1 se obtiene el mismo resultado, lo mismo con un desarollo similar, lo que importa es que se entiendan las elecciones.\nFinalmente, le restamos las 4 posibilidades que ya realizaron, por lo que podrían seguir 26 días más sin repetir las distribuciones.""}]}","Assessment #19260
+-- scored_at: 2020-07-13 23:32:41.811685+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Correcta su respuesta
+","Assessment #19260
+-- Calificación: Correcta (12)
+",2020-07-13 23:32:41.858659+00:00,12,12,,
+58bb9ad2-a018-46ab-8710-06a48f652148,17126,33b25ae9e3618900eacf0b798f524a2c,2020-07-08 02:12:37.610550+00:00,"{""parts"": [{""text"": ""El error que cometió el estudiante es que resolvió el ejercicio como una permutación, considerando que importa el orden en cada uno de los puesto cuando en realidad el ejercicio especifica que todos están capacitados para ocupar cualquier puesto.\nY cómo cada uno de los trabajadores está capacitado para ocupar cualquiera de los puestos lo resolvemos como una combinación, en total hay 10 días en los que los trabajadores pueden trabajar sin repetirse los puestos, pero como ya han calendarizado 4 días, sólo quedan 6 días más en que no se repitan la misma labor.""}]}","Assessment #19259
+-- scored_at: 2020-07-13 23:31:57.726954+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Está mal el cálculo, no corresponde. Respecto del error es: los 2 reponedores y los 2 vendedores deberían considerarse como indistinguibles.
+","Assessment #19259
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:31:57.775606+00:00,6,12,,
+5e5e4bf6-2e87-4f4d-8c41-7ac9686287c2,17117,64ad22395227639aa3546ed808d5397f,2020-07-08 00:54:41.965106+00:00,"{""parts"": [{""text"": ""el error que cometió el estudiantes es que consideró el problema como una variación, pero no consideró que el ordenamiento era por grupos, como ejemplo si considero:\n{Andrés, camilo barbara, daniela  esteban}\ny {Andrés, barbara camilo , daniela  esteban} el lo considera como dos ordenamientos distintos, aunque en teoría son iguales ya que barbara y camilo siguen cumpliendo la misma función, y los demás también, esto sucedería con todas las 5-tuplas. ahora si consideramos que cad 5-tupla se repite 4 veces, según los criterios mencionados, dividiríamos 120/4=30 \n\naunque también se puede obtener con la técnica multinomial (5!)/(1!*2!*2!) =30 \no también por la regla del producto, que debería ser (5c1)*(4c2)*(2c2)=30\npor lo tanto hay 30 combinaciones posibles y quedarían 26 días más sin repetir las distribuciones""}]}","Assessment #19258
+-- scored_at: 2020-07-13 23:30:22.050124+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: La respuesta es correcta , pero su error está poco clara la idea.
+Los 2 reponedores y los 2 vendedores deberían considerarse como
+indistinguibles. 
+
+","Assessment #19258
+-- Calificación: Correcta (12)
+",2020-07-13 23:30:22.097841+00:00,12,12,,
+d5f2c646-5f66-4df3-adde-2f021d650fe0,16887,75d4e936400562aba226f3bb4bcc54b2,2020-07-06 21:18:00.304648+00:00,"{""parts"": [{""text"": ""El error es haber hecho permutación, pensando en que sí importa quienes sean elegidos para tal o cual puesto y la verdad es que esto no interesa, pues todos están capacitados para desempeñar una u otra función.\n\nSe trata en este caso de una combinación sin repetición y su resolución se haría calculando 5(empleados) sobre tres (labores), lo que nos resulta 10 distribuciones distintas y como ya se habían contemplado 4 días y la pregunta es cuántos días pueden seguir sin repetir distribuciones, se debe restar al total de 10 días los cuatro, lo que nos da como respuesta que quedan 6 días sin repetir distribuciones.""}]}","Assessment #19257
+-- scored_at: 2020-07-13 23:28:30.972914+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: El error efectivamente es el que describe; pero está mal calculado
+","Assessment #19257
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:28:31.050479+00:00,6,12,,
+1ec184fc-eea8-40c0-9dce-aed0ae50fa8c,16989,5d305077bba4ce34c1ce1ff47a5ad060,2020-07-06 02:36:34.526806+00:00,"{""parts"": [{""text"": ""El error que comete el estudiante es que no considera que debe haber mas de un reponedor y mas de un vendedor (2 en cada puesto para ser exacta), los cuales deben formar grupos. Al utilizar subgrupos, ya no podemos usar n! sino que (n sobre 1,2,2)""}]}","Assessment #19256
+-- scored_at: 2020-07-13 23:26:14.176591+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y cuál sería la respuesta correcta??
+","Assessment #19256
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:26:14.233161+00:00,6,12,,
+728dd05a-1397-4be0-b938-2bf9ef8da1f0,16985,0cefbe4185692d0f3943c86e7588899d,2020-07-06 02:14:26.091446+00:00,"{""parts"": [{""text"": ""El primer error es que no considera que se deben formar subgrupos en los reponedores y los vendedores. \nAl utilizar subgrupos, ya no podemos usar n! o permutaciones, sino que (n sobre 1,2,2).""}]}","Assessment #19255
+-- scored_at: 2020-07-13 23:25:34.740974+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Es poco clara la redacción del error que se distingue y no calculó la forma correcta
+","Assessment #19255
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:25:34.795602+00:00,6,12,,
+9dde4d66-1f5c-4e27-905b-514ffd80fa58,16969,241721b45a480622ca2acd4f1b4e0057,2020-07-06 01:16:49.483074+00:00,"{""parts"": [{""text"": ""El estudiante distingue entre reponedores (que son dos) y entre vendedores (que también son 2). Sin embargo no toma en cuenta que al realizarlo de esta forma habrán 5-tuplas que se repetirán. Por ejemplo: (A,B,C,D,E) será igual que (A,C,B,E,D) si la segunda y tercera posición son reponedores y la cuarta y quinta posición son vendedores.\n\nLa manera correcta de resolverlo será: (4 sobre 1,2,2), lo que resulta 30, y al descontar los 4 días que ya tenían asignados, nos indica que podrán continuar 26 días más sin repetir distribuciones.""}]}","Assessment #19254
+-- scored_at: 2020-07-13 23:24:32.580356+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Los 2 reponedores y los 2 vendedores deberían considerarse como
+indistinguibles.
+","Assessment #19254
+-- Calificación: Correcta (12)
+",2020-07-13 23:24:32.624718+00:00,12,12,,
+855270f9-6af1-4979-880c-4ccce8dc78e6,16957,821692108c70a86ba33bfc101cbf3033,2020-07-06 00:31:49.288455+00:00,"{""parts"": [{""text"": ""El planteamiento muestra todos los posibles ordenes , pero no considera los casos repetidos , es decir si ambas personas se repiten en los reponedores o vendedores se considera que se eligió la misma función.\ncomo cada orden de 5 personas tiene 4 repeticiones de funciones, entonces el total de listas según funciones sera 120/4 = 30 , como ya van 4 quedan 26 días.""}]}","Assessment #19253
+-- scored_at: 2020-07-13 23:23:49.132181+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien...
+","Assessment #19253
+-- Calificación: Correcta (12)
+",2020-07-13 23:23:49.180336+00:00,12,12,,
+ec3bb358-938d-4a06-807e-a6b3cdf31370,16947,0014bc274d595e425cd0efb82d2539ff,2020-07-06 00:02:57.864928+00:00,"{""parts"": [{""text"": ""El error que presenta el estudiante es un error de orden pues no considero el orden en el ejemplo se puede observar que esteban le toca 3 días seguidos ser vendedor y cada uno de ellos puede representar cualquiera de las 3 funciones (cajero, reponedor y vendedor). la respuesta correcta seria 30 días y si le restamos los 4 días quedarían 26 días mas de distribución.""}]}","Assessment #19252
+-- scored_at: 2020-07-13 23:23:21.921775+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Faltó describir más el error. Los 2 reponedores y los vendedores deberían
+considerarse como indistinguibles.
+","Assessment #19252
+-- Calificación: Correcta (12)
+",2020-07-13 23:23:22.054150+00:00,12,12,,
+dc803cba-6d59-4d50-942e-834709a6585e,16946,1bdc36629c6d36074d47b72a8e26c397,2020-07-06 00:02:52.324644+00:00,"{""parts"": [{""text"": ""El problema fue trabajado como si no importara el orden, y en este caso si importa, ya que los trabajadores fueron asignados a labores distintas. Por lo que se ve en el problema, hay algunas personas que tienen que desempeñar la misma labor en días consecutivos. Por lo tanto el error cometido tiene que ver con el orden de los elementos.\nEl resultado correcto sería al armar k-tuplas de tal manera que solo sean 30 días sin repetir las distribuciones, pero menos los 4 días que ya se calendarizaron, serían 26 días más sin repetir las distribuciones.""}]}","Assessment #19251
+-- scored_at: 2020-07-13 23:22:27.783749+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy completa la respuesta
+","Assessment #19251
+-- Calificación: Correcta (12)
+",2020-07-13 23:22:27.843002+00:00,12,12,,
+06b2400c-c455-485e-adf1-0db538d64650,16943,dfd9ee3831039ff2cd9ce0c583880a6b,2020-07-05 23:56:57.711449+00:00,"{""parts"": [{""text"": ""en la producción del estudiantes considera el concepto de permutación ya que considera 5! y esto sería como determinar la cantidad de números distintos que se forman con 5 dígitos.  y en este caso no está considerando los grupos o puestos de la tienda. \nYo lo resolvería utilizando concepto multifactorial, ya que en este concepto se identifica el n=5 trabajadores y los coeficientes 1,2,2 representan los puestos disponibles que hay en cada sector de la tienda. esto quedaría de la siguiente manera.\n(5sobre1,2,2)=(5sobre1)*(4sobre2)*(2sobre2)\nlo que obtiene 30 combinaciones, es decir disponen de 30 días para trabajar sin repetir 2 días seguidos en la misma posición y como ya hay 4 días escritos le restan 26 días para trabajar sin repetir distribuciones""}]}","Assessment #19250
+-- scored_at: 2020-07-13 23:21:50.252179+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy completa su respuesta
+","Assessment #19250
+-- Calificación: Correcta (12)
+",2020-07-13 23:21:50.308245+00:00,12,12,,
+0daf8921-3f24-4a33-ad2e-9df68a047222,16741,24b7b2ebbddc0e899330636f6074154f,2020-07-05 23:28:41.426345+00:00,"{""parts"": [{""text"": ""El estudiante no consideró que existen dos puestos que en el fondo corresponden al mismo. Es decir, consideró que el puesto de reponedor 1 era distinto al de reponedor 2.""}]}","Assessment #19249
+-- scored_at: 2020-07-13 23:20:39.828908+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y la respuesta correcta??
+","Assessment #19249
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:20:39.880287+00:00,6,12,,
+4e961c7d-845d-4994-9461-69e24df563b0,16939,6a54e6fcebe68bd26cf6aa555ad9acbc,2020-07-05 23:05:32.402997+00:00,"{""parts"": [{""text"": ""El eror que cometió el estudiante es considerar la importancia en el \""orden\"" de los puestos, ya que consideró una 5-tupla de acuerdo a los puestos de labores, desde la \""más importante\"" cajero, al rol de vendedor, pero el problema más que el orden debe considerar la importancia en las funciones porque están todos capacitados, asi que se debe aplicar combinaciones con respecto a la cantidad de puestos, luego la cantidad de días descontando los 4 días , son 26 días que no se repiten funciones. (en total son 30 días con las funciones diferentes).""}]}","Assessment #19248
+-- scored_at: 2020-07-13 23:20:15.077451+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Los 2 reponedores y los 2 vendedores deberían considerarse como
+indistinguibles.
+","Assessment #19248
+-- Calificación: Correcta (12)
+",2020-07-13 23:20:15.133321+00:00,12,12,,
+a5cac361-a197-4834-a26f-d7c9a1cd4115,16937,65cd9e416a19d952bcf90e68a0e3e94b,2020-07-05 22:59:02.748324+00:00,"{""parts"": [{""text"": ""El error del estudiante es de orden, él consideró que el orden es importante pero no lo es. Además no está considerando que es solo un puesto para cajero, 2 para reponedor y 2 para vendedor.\nLa respuesta correcta: Se puede seguir 26 días más sin repetir distribuciones.""}]}","Assessment #19247
+-- scored_at: 2020-07-13 23:19:18.438089+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19247
+-- Calificación: Correcta (12)
+",2020-07-13 23:19:18.483790+00:00,12,12,,
+858f3b8b-a3b5-4410-ac1d-2d5226d4bf95,16936,f81cb860c4ac58259a5abad446971eb8,2020-07-05 22:56:48.547695+00:00,"{""parts"": [{""text"": ""El alumno no consideró el orden, calculando factorial.\nTenemos 5 trabajadores de los cuales 1 corresponde a cajero (5 sobre 1), 2 corresponden a reponedor (4 sobre 2) y 2 corresponden a vendedores (2 sobre 2). Al hacer el cálculo se obtiene 30 días en que se puede hacer este tipo de distribución sin repetir. Si le restamos los 4 días que ya habían calculado, sólo les quedan 26 días sin repetir distribuciones.""}]}","Assessment #19246
+-- scored_at: 2020-07-13 23:18:45.334197+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19246
+-- Calificación: Correcta (12)
+",2020-07-13 23:18:45.378092+00:00,12,12,,
+f0b4eba1-1920-45a0-9e48-c8c3340ffa87,16916,a32e4cf104da2d1eb6fc7e1b6836e51e,2020-07-05 20:51:02.172619+00:00,"{""parts"": [{""text"": ""El estudiante comete un error de orden, ya que considera combinaciones en lugar de 5-tuplas.""}]}","Assessment #19245
+-- scored_at: 2020-07-13 23:16:49.407967+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y cuál sería la respuesta correcta??
+","Assessment #19245
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:16:49.486385+00:00,6,12,,
+c06e6fce-b720-404b-afec-7783f50012ca,16915,931c2d70019c798c8f7b054572ba61f7,2020-07-05 20:40:50.524252+00:00,"{""parts"": [{""text"": ""En considerar que se cumple para los demás días, esto queda evidenciado cuando multiplica por 4.""}]}","Assessment #19244
+-- scored_at: 2020-07-13 23:16:05.334596+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+","Assessment #19244
+-- Calificación: Incorrecta (0)
+",2020-07-13 23:16:05.416731+00:00,0,12,,
+aba39335-62d6-40b7-9ab7-872c69767e7a,16912,8ec3fd115ca4d06a83b1756c87977b11,2020-07-05 20:26:12.850418+00:00,"{""parts"": [{""text"": ""EL ALUMNOS RESPONDE CUANTAS COMBINACIONES DISTINTAS DE PUESTO DE TRABAJOS SE PUEDEN HACER CON LOS TRABAJADORES, PERO NO CONSIDERA QUE EN DOS DÍAS NO SE PUEDE REPETIR DE TRABAJO UN TRABAJADOR.\n54""}]}","Assessment #19243
+-- scored_at: 2020-07-13 23:12:01.517275+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: El error está muy poco claro en su redacción y el cálculo es incorrecto
+","Assessment #19243
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:12:01.565819+00:00,6,12,,
+67f71c20-9849-41f7-b298-bb1a8f2fb0b3,16901,b686d042aeae0dcb88fd516a1ac3fc65,2020-07-05 18:46:45.498983+00:00,"{""parts"": [{""text"": ""El error es que dice que no cumplen la misma labor, pero la verdad si, porque desempeñan la misma función más de un día de esos 4 días de trabajo mostrados en la tabla:\n\n- Cajero: siempre distinto\n- Reponedor: Camilo hace el trabajo 3 veces en esos cuatro días y Andrés 2 veces.\n- Vendedor: Daniela hace el trabajo 2 veces en los cuatro días al igual que Benito y Esteban 3 veces en esos 4 días.\n\nEl error es que ven 5 cargos, cuando en realidad son 3 si no se quiere repetir  y se debe calcular ahí el análisis. \n\nR: 10""}]}","Assessment #19242
+-- scored_at: 2020-07-13 23:10:57.842914+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Y el resultado correcto sería??
+","Assessment #19242
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:10:57.886626+00:00,6,12,,
+1c3a1019-f397-4e89-9222-9fc634061a1d,16900,8dddb91df7233138cf428a08c9e1022b,2020-07-05 18:45:01.522107+00:00,"{""parts"": [{""text"": ""El error está asociado a expresar reponedor 1, reponedor 2 y vendedor 1, vendedor 2, pues en ambos casos realizan la misma práctica y estaría repitiendo valores, como ejemplo, en el caso propuesto por el estudiante consideraría a Camilo - Daniela o Daniela - Camilo como una opción validad para reponer y se estarían repitiendo.\n\nEn total existen 30 casos que no si repetir, pues para el puesto de cajero se escoge 1 de 5, para el puesto de reponedor 2 de 4 y para el puesto de vendedor seria 2 de los 2 que quedan.""}]}","Assessment #19241
+-- scored_at: 2020-07-13 23:09:19.042570+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Los 2 reponedores y los 2 vendedores deberían considerarse como indistinguibles.
+","Assessment #19241
+-- Calificación: Correcta (12)
+",2020-07-13 23:09:19.117670+00:00,12,12,,
+39548f4d-e2d8-47e6-8fc1-a787681d4f9e,16880,68f43a92ed2c35c1f85c61b89a5677f3,2020-07-05 04:46:07.361836+00:00,"{""parts"": [{""text"": ""El error parte cuando la persona considera la permutación de tal manera que está obteniendo de cuántas maneras distintas se ordenan las 5 personas, sin considerar que se deben tomar 3 grupos de elementos porque son tres cargos distintos. La respuesta correcta es 30 formas diferentes así que pueden continuar 30 - 4 = 26 días más sin repetir distribuciones.""}]}","Assessment #19240
+-- scored_at: 2020-07-13 23:05:26.618998+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Los 2 reponedores y los 2vendedores deberían considerarse como indistinguibles.
+","Assessment #19240
+-- Calificación: Correcta (12)
+",2020-07-13 23:05:26.669536+00:00,12,12,,
+738278c9-f69f-47c0-bc82-165ed79cb3b0,16877,940e7ecbdc0331678f91b23ae5c7db51,2020-07-05 04:10:59.929200+00:00,"{""parts"": [{""text"": ""Identificando a cada trabajador por su inicial, podemos considerar que las 5-tuplas (A,B,C,D,E) representa al día 1 de los turnos en la tienda. \nEn este caso, el estudiante considera que para cajero, pueden ser 5 de los trabajadores, para el primer reponedor 4 de los trabajadores, para el segundo reponedor 3 de los trabajadores, para el primer vendedor 2 de los trabajadores y finalmente para el segundo vendedor el último trabajador, de esta forma por principio multiplicativo, obtiene 5*4*3*2*1 obteniendo 120 opciones y resta los primeros 4 días ya cursados.\nEn este proceso, por ejemplo, para el estudiante las 5-tuplas (A,B,C,D,E) es distinta a la 5-tupla (A,C,B,D,E) y no observa que Barbara y Camilo están desempeñando la misma labor, lo cual sería un error de conteo en los casos favorables tanto para los reponedores y vendedores.\nLa respuesta correcta debería no considerar estos casos \""repetidos\"", por lo cual hay que dividir por las combinaciones que generan dichas repeticiones.\nPor lo tanto los días que los trabajadores pueden seguir  sin repetir sus funciones es: \n                          (120/(1! * 2! * 2!)) - 4 = (120/4) - 4 = 30 - 4 = 26.""}]}","Assessment #19239
+-- scored_at: 2020-07-13 23:03:44.204717+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy completa su respuesta. 
+","Assessment #19239
+-- Calificación: Correcta (12)
+",2020-07-13 23:03:44.268901+00:00,12,12,,
+9915190c-20be-4c5b-84dc-9de3bb5394bf,16859,092b625bea7ba42880113e2f9d6875d7,2020-07-04 23:42:50.670003+00:00,"{""parts"": [{""text"": ""En lo que se ve y se lee, hay varios que tuvieron que tener el mismo cargo dos días, por ejemplo Camilo el día 1 fue reponedor  y el día 3 también, al igual que Esteban en el día 1 y 2.\nAhora, suponiendo que el ejercicio está bien, el error que cometió fue de repetición, dado que no consideró que al cambiar a 1 en una posición enrealidad cambiaba a 2.""}]}","Assessment #19238
+-- scored_at: 2020-07-13 23:02:13.122974+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Ese es el error, pero no me indicó la respuesta correcta
+","Assessment #19238
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:02:13.195482+00:00,6,12,,
+54d980cb-f261-4439-a041-91cdb309cbee,16855,24392bdc4cbaebc4a439132b1753f8a9,2020-07-04 22:41:12.736142+00:00,"{""parts"": [{""text"": ""Eran 30.\nYa que tenías 5 personas disponibles de los cuales 1 debía ser cajero. \nDe los 4 restantes 2 debían ser reponedores.\nDe los 2 restantes 2 debían ser vendedores.""}]}","Assessment #19237
+-- scored_at: 2020-07-13 23:01:11.516948+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Me dió la respuesta correcta, pero no me menciona el error cometido
+","Assessment #19237
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 23:01:11.573256+00:00,6,12,,
+13ade837-26cd-428a-8843-461e11bca4c5,16833,fa6b552fe78d5c8670ecbd77840142e4,2020-07-04 07:24:03.563080+00:00,"{""parts"": [{""text"": ""El error que logro identificar es que el estudiante no consideró que en una función deben estar dos personas (reponedores y vendedores) por lo tanto cumplirían la misma función y en ese caso el orden no es importante. Este error sería de orden y se podría resolver con el principio multiplicativo de las combinaciones entre los tres grupos que se pueden formar.""}]}","Assessment #19236
+-- scored_at: 2020-07-13 22:57:35.686046+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: deben considerarse como indistinguibles y no me respondió lo correcto
+","Assessment #19236
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 22:57:35.756693+00:00,6,12,,
+3ed96e88-ccbc-45b4-9444-06da5f592fa2,16832,9c186919a0d8f484071e0e18f1758ccf,2020-07-04 06:11:28.434453+00:00,"{""parts"": [{""text"": ""El error esta que no consideró las repeticiones \nA BC DE = A CB ED\n\nla respuesta sería 5!/1!2!2! =120/4 = 30 - 4 días que ya pasaron la respuesta sería 26 días para seguir las repeticiones""}]}","Assessment #19235
+-- scored_at: 2020-07-13 22:52:14.874196+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: No los consideró como indistinguibles
+","Assessment #19235
+-- Calificación: Correcta (12)
+",2020-07-13 22:52:14.920111+00:00,12,12,,
+07b5a8e3-4f31-4066-8c38-d2d29b7bb9f7,16831,e0ae04ed6806d1c8dcb2d311d9010554,2020-07-04 06:06:39.850580+00:00,"{""parts"": [{""text"": ""El estudiante comete el error de considerar elementos que se repiten cuando no es posible hacerlo, por ejemplo el considera casos distintos ABCDE y ACBDE siguiendo el orden de cajero, reponedor, reponedor, vendedor, vendedor, siendo q son el mismo caso ya que ByC cumplen la labor de reponedor en el mismo turno.\nEl resultado correcto debería ser 5! /1!x2!x3! = 5x4x3x2x1 / 2x2 = 5x3x2 = 30 días y descontando los cuatro días ya mencionados, nos quedarían 26 días.""}]}","Assessment #19234
+-- scored_at: 2020-07-13 22:50:18.488705+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Deberían considerarse como indistinguibles
+","Assessment #19234
+-- Calificación: Correcta (12)
+",2020-07-13 22:50:18.561818+00:00,12,12,,
+b3c5c07a-799a-433a-a6a1-92b97b289ba1,16623,c458f4a3e4219af4290846073b9d2e0e,2020-06-30 23:34:01.728041+00:00,"{""parts"": [{""text"": ""Al contabilizar de esa manera no está considerando que hay dos reponedores y dos vendedores por lo que al cambiar de orden un par de números está considerando la misma labor.. Ej: A-B-C-D-E  y A-B-C-E-D\nen ambos casos E y D son vendedores pese a estar en otro orden.""}]}","Assessment #19233
+-- scored_at: 2020-07-13 22:42:31.805306+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Deben considerarse con indistinguibles. y no me indicó la respuesta correcta
+","Assessment #19233
+-- Calificación: Parcialmente correcta (6)
+",2020-07-13 22:42:31.894294+00:00,6,12,,
+0be8727a-0b22-4798-b19d-ed4ff6f96c8b,15434,6a54e6fcebe68bd26cf6aa555ad9acbc,2020-06-04 03:44:45.746502+00:00,"{""parts"": [{""text"": ""En la respuestas de Andrés y Catalina se logra evidenciar un sesgo de equiprobabilidad. \nLas preguntas que le haría a Andrés serían: \""Andrés ¿me podrías formar en pares ordenados las posibilidades de resultados si sabes que en uno de los dados da el número 6?, luego de que me responda, le preguntaría ¿Si eliges el caballo número 12, ¿qué números te deberían salir en los dados para ganar? digame todas las opciones posibles. Al realizar esas dos preguntas consecutivas el estudiante se daría cuenta que no todos los caballos tienen la misma probabilidad de ganar.\n\nLas preguntas que le haría a Catalina sería pedirle que me construya todos los resultados posibles del experimento, luego, preguntarle ¿Cuántas veces la suma de los dados puede dar 2? y ¿Cuántas veces la suma de los dados puede dar 5? ¿Es lo mismo que elijas el caballo 2 al caballo número 5? ¿Qué deberías hacer entonces? (instandola a que construya su respuesta sabiendo que al lanzar los dados hay sumas que tienen menor probabilidad de salir que otras que tienen mayor probabilidad de salir), todo esto mirando la construcción de su espacio muestral con todas los resultados posibles (los 36).""}]}","Assessment #17676
+-- scored_at: 2020-06-06 06:30:16.721966+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Las preguntas son más bien para reconocer....
+","Assessment #17676
+-- Calificación: Correcta (12)
+",2020-06-06 06:30:16.764576+00:00,12,12,,
+ca9278e3-a994-4bdd-8389-57a4ca07b5a0,15240,931c2d70019c798c8f7b054572ba61f7,2020-06-01 17:29:11.012833+00:00,"{""parts"": [{""text"": ""El que tiene el sesgo de equiprobabilidad es el argumento de victoria, ya que haya ganado el amigo no significa que vaya ganar ella.\n\n¿porqué no intentas lanzando 10 veces el dado y anotas las veces que te salió 9 al sumar las caras de los dados?\n\n¿cual fue el numero que mas veces obtuviste?""}]}","Assessment #17675
+-- scored_at: 2020-06-06 06:25:56.365738+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Los estudiantes son Andrés y Catalina.
+","Assessment #17675
+-- Calificación: Incorrecta (0)
+",2020-06-06 06:25:56.398743+00:00,0,12,,
+e417c7eb-64dd-4afb-8609-aefa259c2f42,15220,0cefbe4185692d0f3943c86e7588899d,2020-06-01 03:13:32.605944+00:00,"{""parts"": [{""text"": ""Se puede identificar en las respuestas de Andrés y Catalina.\nPreguntas:\nPara Andrés: ¿por qué dices que todos tienen igual opción de ganar? ¿Cuántas combinaciones hay para obtener el número 7 y cuántas combinaciones hay para obtener el número 8? \nPara Catalina: ¿Esos resultados son los unicos posibles al hacer el experimento? ¿Veamos el espacio muestral de obtener todas las sumas de los dados?""}]}","Assessment #17674
+-- scored_at: 2020-06-06 06:23:27.185809+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien. Buenas preguntas.
+","Assessment #17674
+-- Calificación: Correcta (12)
+",2020-06-06 06:23:27.219599+00:00,12,12,,
+5f935b8c-8246-4c3a-874c-6078e6628a62,15206,a32e4cf104da2d1eb6fc7e1b6836e51e,2020-06-01 01:11:23.899976+00:00,"{""parts"": [{""text"": ""Andrés en su respuesta \""A mí me da lo mismo, porque todos tienen igual opción de ganar\"" muestra el sesgo de equiprobabilidad, yo le preguntaría ¿Podrías hacer un esquema o dibujo que nos muestre lo que estás diciendo?, ¿Qué espacio muestral estas usando para analizar este juego?\n\nTambién la respuesta de Catalina \""Yo juego con cualquiera, porque cada vez que lanzo los dados, estos pueden sumar mi número o no sumar mi número\"" muestra el sesgo de equiprobabilidad. Yo le preguntaría ¿podrías explicarle a tus compañeros por qué todos tienen la misma opción de ganar?,  ¿Cuáles son los casos que suman tu número y cuáles no?""}]}","Assessment #17673
+-- scored_at: 2020-06-06 06:21:33.733330+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien. Felicitaciones. Muy buenas preguntas.
+","Assessment #17673
+-- Calificación: Correcta (12)
+",2020-06-06 06:21:33.779432+00:00,12,12,,
+b5459c8c-25ef-4e74-896b-ec66e7b1a684,15202,d52332b8f78783041cd25ef3201f63be,2020-06-01 00:28:52.335736+00:00,"{""parts"": [{""text"": ""Respuestas en que se evidencia el sesgo de equiprobabilidad: Andrés, porque expresa que todas las opciones son equiprobables y Catalina porque está asignando dos probabilidades iguales a dos resultados finales: ganar o no ganar.\nPreguntas para Andrés:\n1) ¿Cómo sabes que todos tienen igual opción de ganar?\n2) ¿Podrías escribir las combinaciones posibles para obtener 3 resultados distintos?\nPreguntas para Catalina:\n1) Perfecto, pero ¿Podrías darme un par de ejemplos?\n2) Supongamos que yo juego con el 2 y tu con el 5, ¿Cuántas combinaciones hay para obtener esos resultados?""}]}","Assessment #17672
+-- scored_at: 2020-06-06 06:16:30.054113+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien. Felicitaciones!!!
+","Assessment #17672
+-- Calificación: Correcta (12)
+",2020-06-06 06:16:30.097529+00:00,12,12,,
+1ce80215-364f-434b-b9a2-36f91f4b1ff9,15190,dd515f417112eb486a868c2c01bd227d,2020-05-31 22:34:57.987571+00:00,"{""parts"": [{""text"": ""Se puede observar el sesgo de probabilidad en las respuestas de Andrés y Catalina, ya que ambos asocian el concepto de equiprobabilidad a un suceso aleatorio.\nA Andrés le propondría las siguientes preguntas\n- ¿ ¿Por qué dices que todos tienen igual opción de ganar?  \n-¿podrías explicarle a tus compañeros cuales son esos resultados posibles?\nA Catalina le propondría las siguientes preguntas:\n-¿podrías explicar a tus compañeros el razonamiento que utilizaste?\n-¿nos podrías señalar el espacio muestral que estas considerando?""}]}","Assessment #17671
+-- scored_at: 2020-06-06 06:13:06.134806+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien, pero sus preguntas son más bien para profundizar...
+","Assessment #17671
+-- Calificación: Correcta (12)
+",2020-06-06 06:13:06.168229+00:00,12,12,,
+f96dbd50-f951-4aae-aa50-6196f5565bc3,15188,64ad22395227639aa3546ed808d5397f,2020-05-31 22:29:30.906450+00:00,"{""parts"": [{""text"": ""En los casos de andrés y catalina tienen el sesgo de la equiproabilidad.\n\npara andrés:\n¿cuales serian las opciones que estas considerando?\n¿todas las opciones son asociadas a igual numero de combinaciones?\n\npara Catalina:\n¿cuales serian esos valores que suman tu numero?\n¿con que otras combinaciones se puede llegar a un valor que no sume tu numero?""}]}","Assessment #17670
+-- scored_at: 2020-06-06 06:09:42.287755+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien , buenas preguntas
+","Assessment #17670
+-- Calificación: Correcta (12)
+",2020-06-06 06:09:42.330408+00:00,12,12,,
+9bca9238-1d7a-4b7e-aa4a-f408836e0cd2,15185,8dddb91df7233138cf428a08c9e1022b,2020-05-31 22:12:26.503658+00:00,"{""parts"": [{""text"": ""¿Podrían proponer un esquema que muestre el espacio muestral?\n\n¿Podrían explicarle a sus compañeros  cuales serian los resultados posibles en el experimento que hacen que tengan esa probabilidad?""}]}","Assessment #17669
+-- scored_at: 2020-06-06 06:05:34.514956+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Y cuáles serían  los estudiantes
+","Assessment #17669
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 06:05:34.548966+00:00,6,12,,
+03abe0f1-c41e-4b49-bbf2-ab410633f3e7,15183,0014bc274d595e425cd0efb82d2539ff,2020-05-31 22:00:27.291968+00:00,"{""parts"": [{""text"": ""los estudiantes que presentan sesgo de equiprobabilidad son Andrés y Catalina. \npara Andrés las preguntas serian: \n1 ¿Por que dices que todos tienen la misma opción de ganar?\n2 ¿nos podrías señalar cual es el espacio muestral que estas considerando? o ¿podrías hacer un esquema o dibujo que muestre lo que estas mencionando?\npara Catalina las preguntas serian:\n1¿Porque dices eso Catalina?\n2 ¿Podrías explicarles a tus compañeros cuales son esos resultados posibles ?""}]}","Assessment #17668
+-- scored_at: 2020-06-06 06:01:17.361944+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien. Buenas preguntas
+","Assessment #17668
+-- Calificación: Correcta (12)
+",2020-06-06 06:01:17.409641+00:00,12,12,,
+2691eabd-1a6e-4e9c-8b1e-0983a5072e89,15182,1bdc36629c6d36074d47b72a8e26c397,2020-05-31 22:00:26.073358+00:00,"{""parts"": [{""text"": ""Creo que en las respuestas de Andrés y Catalina se pueden identificar el sesgo de equiprobabilidad, puesto que están suponiendo que todos los eventos tienen la misma probabilidad de ocurrir.\nA Andrés se le podría preguntar si es capaz de demostrar que todos tienen la misma opción de ocurrir, además se le puede pedir que calcule la probabilidad de que la sumatoria de 2 o que la sumatoria de como resultado 8, quizás ahí el podría verificar que no todos los eventos tienen la misma probabilidad de ocurrir.\nA Catalina se le podría solicitar que construya el espacio muestral para cada uno de los eventos, ahí podría identificar si lo que dice ella es cierto, que está suponiendo que todos lo eventos tienen la misma probabilidad de ocurrir.""}]}","Assessment #17667
+-- scored_at: 2020-06-06 05:55:14.057131+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Debe hacer la distinción entre preguntas que son para profundizar y las que son para reconocer...
+","Assessment #17667
+-- Calificación: Correcta (12)
+",2020-06-06 05:55:14.099382+00:00,12,12,,
+4902b95d-1776-4ef0-8d79-d9ebfbe74d4c,15176,b686d042aeae0dcb88fd516a1ac3fc65,2020-05-31 21:17:24.497385+00:00,"{""parts"": [{""text"": ""La respuesta de:\n\nMartín: porque elige el número por gusto quizás asume que da lo mismo el número si se trata de azar.\n¿Por qué eliges el número que te gusta por sobre otro?\n¿podrías darnos un ejemplo?\n\nAndrés, porque asume que todos tienen igual opción de ganar (equiprobabilidad)\n¿Puedes explicar tu decisión?\n¿Y si lo intentas con dos números diferentes?\n\nCatalina: asume el azar como algo que puede o no pasar\n¿quisieras probar jugando a los dados?\n¿por qué consideras que da lo mismo?""}]}","Assessment #17666
+-- scored_at: 2020-06-06 05:51:44.006164+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Solo Andrés y Catalina!!!!
+","Assessment #17666
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:51:44.037129+00:00,6,12,,
+21dc8ea1-6f95-4427-8edc-2b8ca6953023,15168,65cd9e416a19d952bcf90e68a0e3e94b,2020-05-31 19:59:00.329382+00:00,"{""parts"": [{""text"": ""Martín tiene el sesgo de equiprobabilidad porque piensa que el azar es quien decide y es cosa de suerte que salga su número.\nAndrés tiene el sesgo de equiprobabilidad porque cree que todos los caballos tienen la misma probabilidad de ganar.\nCatalina tiene el sesgo de equiprobabilidad porque cree que tiene 2 opciones: que salga su número o que no salga y ambas son equiprobables.\nPreguntas a Martín: ¿Por qué el número 5 es más probable que salga? ¿Puedes explicar a tus compañeros un poco más?\nPreguntas a Andrés: ¿Cuál es el espacio muestral que estás considerando? ¿los elementos de ese espacio muestral tienen la misma probabilidad?\nPreguntas a Catalina: ¿puedes hacer un esquema que muestre las opciones que tu planteas? ¿algún compañero propone otro esquema?""}]}","Assessment #17665
+-- scored_at: 2020-06-06 05:49:50.542856+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Solo Andrés y Catalina!!!
+","Assessment #17665
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:49:50.579096+00:00,6,12,,
+1c716749-b754-4b8b-a51b-d261640b46b4,15144,33b25ae9e3618900eacf0b798f524a2c,2020-05-31 15:21:18.415279+00:00,"{""parts"": [{""text"": ""Martín: - ¿Realmente crees que es cuestión de suerte?\n              - ¿Tienes algún otro número de la suerte?\nAndrés:- ¿Podrías explicarle a tus compañeros cómo llegaste a esa conclusión?\n              - ¿Tú piensas que todos los caballos tienen la misma probabilidad?\nCatalina: - ¿Podrías dar algunos ejemplos de sumas?\n                 - ¿Alguien podría dar otros ejemplos de sumas?""}]}","Assessment #17664
+-- scored_at: 2020-06-06 05:48:39.058335+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Sólo Andrés y Catalina!!!
+","Assessment #17664
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:48:39.100014+00:00,6,12,,
+881bf088-e2b3-41d7-b23d-59e7cd348ab5,15143,821692108c70a86ba33bfc101cbf3033,2020-05-31 14:15:54.432330+00:00,"{""parts"": [{""text"": ""Andrés y catalina presentan el sesgo , Matín y victoria se dejan llevar por otras experiencias, pero no corresponde al sesgo.\n\nPara andrés:  \n- ¿Por qué dices que todos tienen igual opción de ganar?\n-¿ De cuántas formas puedes sumar 2 , y de cuantas formas podrás sumar 6?\n\nPara catalina:\n- ¿Consideras que ganar o perder tienen la misma probabilidad?\n-¿De cuentas formas puede ganar una persona que eligió el 6, y de cuantas formas puede ganar una persona que eligió el 12?""}]}","Assessment #17663
+-- scored_at: 2020-06-06 05:44:37.926797+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Muy bien . Felicitaciones
+","Assessment #17663
+-- Calificación: Correcta (12)
+",2020-06-06 05:44:37.965379+00:00,12,12,,
+7eeac384-78c4-45a0-82df-6a97153bc2bd,15140,75d4e936400562aba226f3bb4bcc54b2,2020-05-31 13:17:25.108514+00:00,"{""parts"": [{""text"": ""Andrés y Catalina, pues ambos piensan que da lo mismo cuál elegir porque creen que tienen la misma probabilidad de ocurrir, es decir, son equiprobables.\n\n1) ¿Podrías decir un ejemplo de espacio muestral?\n2) ¿Crees tú que en este espacio muestral están todos los resultados posibles? o podrías formar otro.\n3) Da lo mismo realmente elegir cualquier resultado.\n2)""}]}","Assessment #17662
+-- scored_at: 2020-06-06 05:42:05.683759+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Le faltó distinguir si sus preguntas son para profundizar o para reconocer....
+","Assessment #17662
+-- Calificación: Correcta (12)
+",2020-06-06 05:42:05.728217+00:00,12,12,,
+07570e9a-d0ac-4e4c-a733-9732dd8bb020,15136,34ee1e9390256c26d40a55f8ca8f1ac6,2020-05-31 07:01:29.754485+00:00,"{""parts"": [{""text"": ""Catalina al indicar que puede jugar con cualquier dado, hace referencia a este sesgo dado que enfatiza que al lanzar los dados pueden sumar o no sumar su número.""}]}","Assessment #17661
+-- scored_at: 2020-06-06 05:39:30.800358+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Y qué opina de Andrés?? y las preguntas ???
+","Assessment #17661
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:39:30.832940+00:00,6,12,,
+c62884b7-9625-4a5f-92b3-a5d7309a74fe,15134,e0ae04ed6806d1c8dcb2d311d9010554,2020-05-31 04:58:06.920775+00:00,"{""parts"": [{""text"": ""Se identifica sesgo de equiprobabilidad en las respuestas de Andrés y Catalina.\nPreguntas para profundizar el pensamiento del estudiante:\n  - Andrés: ¿Cuáles son todas las combinaciones posibles de lanzar dos dados y sumar sus resultados?\n  - Catalina: ¿Todas las combinaciones de los dados tienen la misma probabilidad de salir?\nPreguntas para hacer que el alumno reconozca su sesgo:\n  - Andrés: ¿Cuáles son los casos que puede salir 2 al lanzar los dados y en cuáles casos puede salir 7?\n  - Catalina: Al lanzar dos dados, ¿cuántas combinaciones posibles pueden salir?""}]}","Assessment #17660
+-- scored_at: 2020-06-06 05:37:02.070733+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Sus preguntas son más bien las 4 de reconocer el sesgo...
+","Assessment #17660
+-- Calificación: Correcta (12)
+",2020-06-06 05:37:02.102482+00:00,12,12,,
+2854d4be-e44f-447e-9937-d4714ca4c3dc,15130,fa6b552fe78d5c8670ecbd77840142e4,2020-05-31 03:16:01.889353+00:00,"{""parts"": [{""text"": ""Andrés y Catalina presentan el sesgo de equiprobabilidad, en Andrés en su respuesta evidencia que su justificación es que todos tienen igual opción de ganar y Catalina ya que asocia el suceso de ganar o no como espacio muestral del experimento.  \nPreguntas para Andrés: ¿Por qué dice que que todos tienen igual opción de ganar? ¿Cómo llegaste a esa afirmación? \nPreguntas para Catalina: ¿Tu piensa que la probabilidad es 50% para cada uno? ¿Cuántos casos está considerando para afirmar eso?""}]}","Assessment #17659
+-- scored_at: 2020-06-06 05:35:15.484012+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Efectivamente son Andrés y Catalina, pero las preguntas no están identificadas, cuáles son para profundizar y para reconocer respectivamente...
+","Assessment #17659
+-- Calificación: Correcta (12)
+",2020-06-06 05:35:15.535333+00:00,12,12,,
+380cda3e-42bc-4bb9-98c2-832fb0c03d71,15129,68f43a92ed2c35c1f85c61b89a5677f3,2020-05-31 03:14:00.467827+00:00,"{""parts"": [{""text"": ""los sesgos identificados son: \nMartín y victoria , cuando menciona la suerte como factor de resultado.\npregunta 1:¿por qué dices eso?\npregunta 2: ¿ puedes identificar, cual es el espacio muestral?\nAndrés y catalina, cuando dice que le da lo mismo.\npregunta 1:¿por qué dices que tienen la misma probabilidad?\npregunta 2: ¿ Cuales son los resultados posibles?""}]}","Assessment #17658
+-- scored_at: 2020-06-06 05:32:05.827406+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Sólo Andrés y Catalina  presentan el sesgo de la equiprobabilidad.
+","Assessment #17658
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:32:05.861907+00:00,6,12,,
+6309cfcd-12eb-4ddf-a4fe-1b6ad0a5addd,15118,e7c0197796fe9d485b743d6d4c06ad43,2020-05-31 01:29:34.956875+00:00,"{""parts"": [{""text"": ""Considero que Catalina esta mas cerca""}]}","Assessment #17657
+-- scored_at: 2020-06-06 05:30:15.123270+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: más cerca???  no obtiene puntaje en este item...
+","Assessment #17657
+-- Calificación: Incorrecta (0)
+",2020-06-06 05:30:15.170381+00:00,0,12,,
+8d7b00e0-66e0-4cce-9046-cdc85dd78d33,15115,241721b45a480622ca2acd4f1b4e0057,2020-05-31 00:37:32.699477+00:00,"{""parts"": [{""text"": ""Andrés: Cree que todos los caballos tienen la misma probabilidad de avanzar.\n\nPregunta 1: ¿Por qué crees que todos los caballos tienen la misma probabilidad de avanzar? ¿Cómo calcularías la probabilidad?\nPregunta 2: Si escribes tu espacio muestral en una tabla, ¿El 2 tiene la misma probabilidad de salir que el 7? ¿Por qué?\n\nCatalina: al pensar que todos los números pueden salir o no, piensa que cada caballo tiene la misma probabilidad de avanzar que el otro.\n\nPregunta 1: ¿Crees que exista un número que tenga mayor probabilidad de salir que otro? ¿Por qué?\nPregunta 2: ¿Cuántas combinaciones de números puede sumar 8 y cuántas 12?""}]}","Assessment #17656
+-- scored_at: 2020-06-06 05:24:03.560305+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Le sugiero trabajar en la diferencia en preguntas que son para profundizar y las que son para responder....
+","Assessment #17656
+-- Calificación: Correcta (12)
+",2020-06-06 05:24:03.613510+00:00,12,12,,
+8647a212-6ac2-4be6-8679-8b1fb8ef6488,15114,092b625bea7ba42880113e2f9d6875d7,2020-05-31 00:36:24.067274+00:00,"{""parts"": [{""text"": ""Andrés: cree que todos los caballos tienen la misma probabilidad de ganar\nCatalina: cree que sumar o no su número puede ocurrir de la misma manera.\n\nPreguntas\nAndrés: 1)¿por qué crees que tienen la misma probabilidad de ganar?\n2) ¿Cuál es el espacio muestral formado por los pares de dados y sus sumas?\nCatalina: 1) Pero, ¿Cómo llegaste a esa conclusión? ¿por qué crees que eso puede ser así?\n2)¿Usando la regla de laplace cuál es más probable?""}]}","Assessment #17655
+-- scored_at: 2020-06-06 05:16:59.617512+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Buenas preguntas.... felicitaciones!!!
+","Assessment #17655
+-- Calificación: Correcta (12)
+",2020-06-06 05:16:59.661096+00:00,12,12,,
+a0b11c23-6c0f-43f6-a66b-e8738ad3d865,15106,5d305077bba4ce34c1ce1ff47a5ad060,2020-05-30 22:38:53.128680+00:00,"{""parts"": [{""text"": ""Puedo identificar sesgo de equiprobabilidad en la afirmación de Andrés.\nPreguntas para Andrés: (para profundizar en el pensamiento del estudiante) al realizar el espacio muestral, ¿las sumas de los números se repiten la misma cantidad de veces?, ¿la probabilidad no depende de eso?\n(para reconocer su sesgo)  ¿tu dices que da lo mismo que hayan números (suma de números) que se repitan mas que otros?, ¿tendrán todos igual opción de ganar si hay números que se repiten mas que otros?.""}]}","Assessment #17654
+-- scored_at: 2020-06-06 05:15:19.059117+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: y Catalina???
+","Assessment #17654
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:15:19.090242+00:00,6,12,,
+6e40b6ed-7e3f-4c30-a8d1-a3183565ce3a,15103,b3330248d6956e4a46ad6f315787bff6,2020-05-30 22:26:29.982150+00:00,"{""parts"": [{""text"": ""-Andrés \n1. ¿Puedes explicar a tus compañeros, porque todos tienen la misma opción de ganar?\n2. ¿Qué sucesos obtengo si lanzo los dados?\n-Catalina\n1. Por supuesto que puede salir o no tu número, pero ¿todos tienen las mismas posibilidades de salir, al sumar los dados?\n2. ¿Si yo lanzo los dados y sumo sus cantidades, el número 4 tiene las mismas posibilidades que el número 10?""}]}","Assessment #17653
+-- scored_at: 2020-06-06 05:14:08.537947+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien.
+","Assessment #17653
+-- Calificación: Correcta (12)
+",2020-06-06 05:14:08.592215+00:00,12,12,,
+379edaf5-153f-41b4-bdab-ae8beb04cdc7,15078,f81cb860c4ac58259a5abad446971eb8,2020-05-30 02:38:51.061291+00:00,"{""parts"": [{""text"": ""Se puede identificar un sesgo de equiprobabilidad en Andrés y Catalina.\n\nPara Andrés: ¿Por qué dices eso? ¿Puedes explicar un poco más?\n\nPara Catalina: ¿Podrías explicarles a tus compañeros cuáles son estos dos caso? ¿Tú piensas que estos dos casos tienen la misma probabilidad?""}]}","Assessment #17652
+-- scored_at: 2020-06-06 05:13:01.115136+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Debe trabajar en diferenciar las preguntas que son para profundizar  y las que son para reconocer....
+","Assessment #17652
+-- Calificación: Correcta (12)
+",2020-06-06 05:13:01.152691+00:00,12,12,,
+decc1210-854d-4bc8-b0fa-22d768eac1a1,15060,c458f4a3e4219af4290846073b9d2e0e,2020-05-29 22:21:19.694761+00:00,"{""parts"": [{""text"": ""Andrés\n1-. ¿Como te diste cuenta que todos tienen igual opción de ganar?\n2-. ¿Cúal es el espacio muestral de nuestro juego?\n\nCatalina\n1-.Si escoges el 5 ¿Con la suma de cuales números podrías obtener ese resultado?\n2-. ¿Coincide la cantidad de pares si el número elegido es el 9?""}]}","Assessment #17651
+-- scored_at: 2020-06-06 05:10:34.294532+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Efectivamente son Andrés y Catalina. 
+","Assessment #17651
+-- Calificación: Correcta (12)
+",2020-06-06 05:10:34.337606+00:00,12,12,,
+d21625e2-58c7-49aa-9ff6-a613b922a73d,15059,9c186919a0d8f484071e0e18f1758ccf,2020-05-29 22:21:07.348158+00:00,"{""parts"": [{""text"": ""Se puede identificar en Andrés y Catalina. \nPreguntas a Andrés:\n¿Por qué piensas eso? \n¿Qué crees que es más probable ,que salga al sumar un 2 o 5?\n\nPreguntas a Catalina:\n¿por qué piensas eso?\nsi hiciéramos dos intentos, ¿Crees que en al menos uno de los dos saldría el número que escogiste?""}]}","Assessment #17650
+-- scored_at: 2020-06-06 05:07:03.113578+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Bien sus preguntas, corresponden  claramente a profundizar y reconocer cada una
+","Assessment #17650
+-- Calificación: Correcta (12)
+",2020-06-06 05:07:03.169289+00:00,12,12,,
+eca85f35-5072-4a3e-85f1-c1aac9cf6119,15040,24392bdc4cbaebc4a439132b1753f8a9,2020-05-29 17:59:12.451468+00:00,"{""parts"": [{""text"": ""- Martín presenta un sesgo porque asocia el resultado de lanzar el dado a la suerte sin importarle que hay números que pueden salir más veces que otros. PREGUNTA: ¿Siempre es el 5 tu número de la suerte? ¿Y si yo también tengo un número de la suerte, podría ganar yo entonces? \n\n- Andrés ya que aunque la suma 7 puede aparecer más veces él asume que todos tienen la misma opción de salir sin importar que en este experimento los resultados no son equiprobables. PREGUNTA: ¿Anotaste todas las posibilidades que puede ocurrir al lanzar dos dados? ¿Cuántas veces puedes obtener una suma 3 y una suma 9 en los dados?\n\n- Victoria indica una respuesta dada por otra persona, asume lo que ocurrirá sin haber realizado el experimento. PREGUNTA: ¿Y si tu hicieras el experimento, que caballo elegirías? ¿todos los caballos tienen la misma opción de avanzar?\n\n- Catalina también ya que considera aparentemente el hecho de que el experimento dependerá del azar y en consecuencia los posibles resultados para ella son equiprobables.  PREGUNTA: ¿Entonces todos los números pueden salir la misma cantidad de veces? ¿Puedes registrar las opciones disponibles en este experimento?""}]}","Assessment #17649
+-- scored_at: 2020-06-06 05:02:50.642165+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Sólo Andrés y Catalina presentan sesgo de equiprobabilidad.
+","Assessment #17649
+-- Calificación: Parcialmente correcta (6)
+",2020-06-06 05:02:50.691771+00:00,6,12,,
+0bea8ce4-cfca-49fc-822d-4d31991e39f2,15025,940e7ecbdc0331678f91b23ae5c7db51,2020-05-29 03:46:33.766728+00:00,"{""parts"": [{""text"": ""Podemos identificar el sesgo de equiprobabilidad en las respuestas de Andrés y Catalina, ya que ambos consideran que todos los caballos tienen la misma probabilidad de ganar.\nPara la respuesta de Andrés podemos plantear las siguientes preguntas:\na) Profundización: ¿Por qué piensas que todos los caballos tienen la misma posibilidad de ganar?\nb) Reconocer sesgo: Si lanzamos los dados, ¿Que opciones nos permiten que el caballo 2 o el 7 se muevan?\n\nPara la respuesta de Catalina podemos plantear las siguientes preguntas:\na) Profundización: ¿En todos los juegos los participantes siempre tienen la misma probabilidad de ganar? o ¿Solo en el juego de los caballos?.\nb) Reconocer sesgo: Si solamente tenemos dos caballos, uno se mueve cuando la suma sea dos y el otro se mueve cuando la suma sea distinta de dos, ¿Seguirías jugando con cualquiera de los dos caballos?.""}]}","Assessment #17648
+-- scored_at: 2020-06-06 04:56:44.715836+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Hay buenas preguntas para interactuar con sus estudiantes.
+","Assessment #17648
+-- Calificación: Correcta (12)
+",2020-06-06 04:56:44.775141+00:00,12,12,,
+7eb9da0c-0942-4bed-b199-32929477ad9f,14983,8ec3fd115ca4d06a83b1756c87977b11,2020-05-27 23:20:29.030776+00:00,"{""parts"": [{""text"": ""- La respuesta de Andres. Pregunta ¿a que te refieres con la misma opción de ganar?\n\n- L respuesta de Catalina. Pregunta ¿ que significa que la suma puede dar o no tu numero?""}]}","Assessment #17581
+-- scored_at: 2020-06-03 05:03:05.536109+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Eran 2 preguntas por cada uno, una para profundizar y otra para reconocer.
+","Assessment #17581
+-- Calificación: Parcialmente correcta (6)
+",2020-06-03 05:03:05.570157+00:00,6,12,,
+c9734e18-8b83-4f3d-a135-b75bee793b97,14889,24b7b2ebbddc0e899330636f6074154f,2020-05-26 03:48:07.932589+00:00,"{""parts"": [{""text"": ""Las respuestas de los estudiantes que evidencian el sesgo de equiprobabilidad son las de Andrés y Catalina. \nPreguntas para Martín:\n1. ¿cómo podrías explicar la atribución de la suerte para ganar?\n2. ¿existirá alguna combinación que sea más probable de obtener? \nPreguntas para Andrés:\n1. ¿por qué piensas que tienen la misma probabilidad?\n2. ¿cómo calcularías las probabilidades del caballo 2 y el caballo 5?\nPreguntas para Victoria:\n1. ¿por qué crees que ganó con el caballo 9?\n2. ¿habrá otro caballo que tenga más probabilidades de ganar?\nPreguntas para Catalina:\n1. ¿eso quiere decir que los números tienen las mismas probabilidades de ganar?\n2. ¿Crees que pueda existir algún número cuya combinación sea más probable de obtener?""}]}","Assessment #17580
+-- scored_at: 2020-06-03 04:59:54.541502+00:00
+-- type: ST
+-- scorer_id: a7e53c5600524dfba01055956b80dfe9
+-- overall_feedback: Felicitaciones, muy buenas sus preguntas, para profundizar y reconocer
+","Assessment #17580
+-- Calificación: Correcta (12)
+",2020-06-03 04:59:54.591842+00:00,12,12,,
+7c182f50-f8c1-4114-b668-cbeb16254b00,14797,e7c0197796fe9d485b743d6d4c06ad43,2020-05-22 14:48:51.219030+00:00,"{""parts"": [{""text"": ""Considero que las respuestas de Catalina y Andrés identifican un sesgo de equiprobabilidad.\nCatalina: Yo juego con cualquiera, porque cada vez que lanzo los dados, estos pueden sumar mi número o no sumar mi número.\n\n Andrés: A mí me da lo mismo, porque todos tienen igual opción de ganar.""}]}",,,,,,,
+64907aa4-ad46-4f1b-8856-4416a421853b,14294,8dddb91df7233138cf428a08c9e1022b,2020-05-17 01:16:17.051926+00:00,"{""parts"": [{""text"": ""catalina, evidentemente piensa que el juego consiste en ganar o perder por esto señala que le da lo mismo al jugar lo que da indicio del sesgo de equiprobabilidad al igual que lo que expresa Andrés, al señalar que todos poseen la misma probabilidad de ganar""}]}",,,,,,,
+d865dfef-e7cf-4729-80d9-4063f92ce0e5,14279,e027b6647ad9b49e6eae2966e5ca10da,2020-05-16 03:45:15.969299+00:00,"{""parts"": [{""text"": ""En las respuestas de Andrés y catalina se puede observar el sesgo de equiprobabilidad.\n\nAndres:\nPregunta a) porque piensas que todos tienen la misma opción de ganar?\nPregunta b) Si al lanzar los dados tengo la misma opcion de obtener un 2 a obtener un 12?\n\nCatalina:\nPregunta a) ¿existirá un caballo que tenga mas posibilidades de salir que otros?\n\nPregunta b) ¿Mientra mas alto sea el numero, tendrá más posibilidad ?""}]}",,,,,,,
+7749ebbd-34f3-4e9b-a721-824f0a524285,13909,d52332b8f78783041cd25ef3201f63be,2020-05-15 21:34:56.134788+00:00,"{""parts"": [{""text"": ""En Andrés y Catalina, ya que creen que independiente del número que escojan , todos tendrán igual posibilidad de ganar.\nAndrés: 1) ¿Cómo sabes que todos tienen igual opción de ganar?\n2) Hagamos una prueba, ¿Porqué no lanzas los dados 11 veces? Si tienes razón, se deberían obtener todos los números que están en los caballos.\nCatalina: 1) ¿Cómo llegaste a esa conclusión?\n2) ¿Puedes lanzar los dados una cantidad de veces par y anotar los resultados?""}]}",,,,,,,
+0ec501d2-bf8c-4fa3-b05e-611a37b1dbb0,13797,821692108c70a86ba33bfc101cbf3033,2020-05-15 18:57:00.309819+00:00,"{""parts"": [{""text"": ""Andrés y Catalina presentan sesgo,  \n\nLa primera sería, ¿por qué consideras tu número tiene la misma oportunidad de ganar?\n\nLa segunda: ¿de cuántas formas tus dados suman 12, y de cuántas suman 7?""}]}",,,,,,,
+0c5d7034-56ee-437a-afac-659bd77c2648,13786,0014bc274d595e425cd0efb82d2539ff,2020-05-15 15:36:56.486366+00:00,"{""parts"": [{""text"": ""¿para que se produzca un sesgo de equiprobabilidad los dados utilizados deben estar cargados?\n¿Cómo debemos calcular la probabilidad para que tenga sesgo de equiprobabilidad?""}]}",,,,,,,
+39b6ae79-be83-4d6d-aa48-af62d5def8b7,13785,092b625bea7ba42880113e2f9d6875d7,2020-05-15 15:10:03.700139+00:00,"{""parts"": [{""text"": ""Andrés, Catalina.\nFernanda:¿cuál está más lejos? (para el estudiante)\nPara la profe: preguntarle cuál podria sacar segundo lugar ahh mke quede sin tiempooo""}]}",,,,,,,
+97762ee7-fd27-441e-b634-f329cd03972d,13782,e0ae04ed6806d1c8dcb2d311d9010554,2020-05-15 14:15:51.462954+00:00,"{""parts"": [{""text"": ""Andrés:\n¿Si juegas al Monopolio siempre tienes las mismas probabilidades de avanzar mucho o avanzar poco?\n¿Si lanzas dos dados y necesitas que te salga 12, será igual de probable a que salga 7?""}]}",,,,,,,
+9a2e0605-7092-4122-8f25-6aba23a16712,13777,241721b45a480622ca2acd4f1b4e0057,2020-05-15 04:42:58.826825+00:00,"{""parts"": [{""text"": ""Andrés piensa que todos tienen la misma opción de ganar \n- ¿Cuál es la probabilidad de que al lanzar los dos dados, la suma de 12?\n-¿Cual es la probabilidad de que al lanzar los dos dados, la suma de 7?\n\nCatalina:\n- ¿Todos los números tienen la misma probabilidad de salir? ¿Por qué?\n- ¿Crees que si escoges el 12, es igual de probable que ganes que si escoges el 7?""}]}",,,,,,,
+62e1d46d-4c93-4721-b24e-66f777a8d968,13771,33b25ae9e3618900eacf0b798f524a2c,2020-05-15 02:34:44.248675+00:00,"{""parts"": [{""text"": ""Al finalizar el juego, Solicitar a los estudiantes que analicen las oportunidades que tuvieron Martín y Victoria.\nRealizar el juego con cada uno de los caballos para visualizar las probabilidades que tienen de ganar cada uno según la suma de sus puntos.""}]}",,,,,,,
+e927623e-9dd3-44ba-ad8f-7cd986f64c94,13764,24b7b2ebbddc0e899330636f6074154f,2020-05-14 23:45:54.899503+00:00,"{""parts"": [{""text"": ""Los estudiantes que evidencian el sesgo de equiprobabilidad son Andrés y Catalina. \npreguntas para Andrés:\n1: ¿cuantas parejas de números del dado suman 2?\n2: ¿cuantas parejas de números suman 5?\npreguntas para Catalina:\n1: ¿es decir que tu probabilidad de ganar es un medio?\n2: si hay meno o mas jugadores ¿siempre tendrás la misma probabilidad de ganar?""}]}",,,,,,,
+047baeb6-4036-478b-be4e-642afef6912e,13749,9c186919a0d8f484071e0e18f1758ccf,2020-05-14 18:00:20.712928+00:00,"{""parts"": [{""text"": ""Se identifica el sesgo de equiprobabilidad en Andrés y Catalina.\nPreguntas para Andrés:\n1. ¿Por qué piensas que todos tienen igual probabilidad de ganar?\n2. ¿Es la misma probabilidad sumar 7 con dos dados que sumar 2?\nPreguntas para Catalina:\n1. ¿Por qué crees que es un suceso equiprobable? \n2. si escoges el 3 y lanzas 4 veces los dos dados, ¿crees que saldrá dos veces la suma de 3 y dos veces la suma de cualquier otro número?""}]}",,,,,,,
+16e3c1fa-e823-46c7-a900-7f65402d6187,13722,5d305077bba4ce34c1ce1ff47a5ad060,2020-05-13 21:32:04.154899+00:00,"{""parts"": [{""text"": ""Para profundizar el pensamiento del estudiante, debería hacer énfasis en la suma de dos dados y su incidencia en la elección del caballo con preguntas como ¿cuál es el resultado de la adición que más se repite al sumar los dígitos de los dados?\nPara reconocer el sesgo: ¿de acuerdo a lo anterior, es lo mismo elegir el caballo 2 que el caballo 7?""}]}",,,,,,,
+06d428d0-bb39-44a3-8d6a-49abed9f68a7,13720,b686d042aeae0dcb88fd516a1ac3fc65,2020-05-13 21:19:00.551465+00:00,"{""parts"": [{""text"": ""Sesgo de equiprobabilidad en :  Martín y Victoria\n\nSi lanzo ambos dados ¿Cuál es la probabilidad de la suma de los puntos obtenidos sea 9? ¿y de que no sea nueve?\nSi Andrés decide jugar con el 3 y Catalina con el 7, ¿cuál tiene mayor probabilidad de ganar?""}]}",,,,,,,
+c271c8df-d2c1-4d0a-ba71-f8aad7056e1f,13707,c458f4a3e4219af4290846073b9d2e0e,2020-05-13 17:49:35.108528+00:00,"{""parts"": [{""text"": ""Andrés y Catalina.\nAndrés: 1-. ¿ Por qué crees que las opciones son iguales para todos? \n2-. Si eliges el número 12, ¿Cuáles son tus opciones de ganar?\nCatalina: 1-. ¿Cuántas cantidades diferentes obtienes al sumar los dados?\n2-.""}]}",,,,,,,
+f4804f37-9911-4cf1-b15c-0cda9fd33d9f,13699,75d4e936400562aba226f3bb4bcc54b2,2020-05-13 14:53:51.649120+00:00,"{""parts"": [{""text"": ""En Catalina asume que todos los sucesos tienen la misma probabilidad de ocurrir.\n\n1) ¿Qué resultados obtengo al lanzar dos dados? y ¿Cuáles las posibles sumas?\n\n\n\n2) ¿Puede suceder que obtenga como suma el número que yo elegí u otra?""}]}",,,,,,,
+9dd119cd-72fc-41d6-a401-cc2499bbd4b6,13670,24392bdc4cbaebc4a439132b1753f8a9,2020-05-12 21:49:23.436186+00:00,"{""parts"": [{""text"": ""Andrés y Catalina presentan respuestas con sesgo de equiprobabilidad.""}]}",,,,,,,
+35ab2b5a-c26d-46d1-b36d-743036c687f3,13659,b3330248d6956e4a46ad6f315787bff6,2020-05-12 18:44:00.048004+00:00,"{""parts"": [{""text"": ""Andrés y catalina\n1. Porque tendrían la misma probabilidad cada caballo (andrés)\n2.Todos los números tienen la misma probabilidad de salir (Catalina)""}]}",,,,,,,
+2cb2e20a-bd84-49fd-8b49-71ac422a474e,13619,f81cb860c4ac58259a5abad446971eb8,2020-05-11 21:26:33.022622+00:00,"{""parts"": [{""text"": ""ANDRÉS Y CATALINA\nA ANDRÉS, ¿QUE TE HACE PENSAR QUE TODOS TIENEN LA MISMA OPCIÓN DE GANAR?\nA CATALINA, ¿QUÉ TE LLEVÓ A ESA CONCLUSIÓN?""}]}",,,,,,,

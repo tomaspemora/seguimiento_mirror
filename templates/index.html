@@ -1,0 +1,68 @@
+{% extends "layout.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% from 'bootstrap5/form.html' import render_form_row %}
+{% block content %}
+<script> 
+  function loader(){
+      $("#loading").show();
+      $(".display").hide();    
+  }
+</script>
+<form action="/" id="seguimiento_form" method="POST" encoding='multipart/form-data'enctype="multipart/form-data">
+  <div class="row">
+    {% if current_user.is_admin %}
+    <div class="col col-12 col-md-8">
+    {% else %}
+    <div class="col col-12 col-md-12">
+    {% endif %}
+      <div class="row mb-4">
+        <div class="col">
+            {{ render_form(form) }}
+        </div>
+      </div>
+      <div class="row mb-4">
+        <div class="col">
+          <div id="loading"></div>
+          {% if seg_response %}
+          <hr>
+          <div class="display">
+            <p>
+              Descarga Planilla Seguimiento: <a class="wrap-words" target="_blank" href="reports/{{seg_response['archivo_salida']}}">{{seg_response['archivo_salida']}}</a>
+            </p>
+            <p>
+              Descarga Reporte Encuesta: <a class="wrap-words" target="_blank" href="reports/{{seg_response['archivo_salida_encuesta']}}">{{seg_response['archivo_salida_encuesta']}}</a>
+            </p>
+            <hr>
+            <ul class="wrap-words">
+              {% for key, value in seg_response.items() %}
+                <li>
+                  <b>{{ key|e }}</b>: {{ value|e }}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    {% if current_user.is_admin %}
+    <div class="col col-12 col-md-4">
+      <div class="config">
+        <p>Parámetros de ejecucion <br>
+          <span style="font-size:12px">(Solo visible a admins)</span>
+        </p>
+        {% for value in tabla_form %}
+          {{render_form_row([value]) }}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</form>
+<hr>
+<!-- <div class="request_json">
+  {{ request_json | safe }} 
+</div> -->
+{% endblock %}

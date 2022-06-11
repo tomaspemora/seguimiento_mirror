@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block content %}
+<script> 
+    function loader(){
+        $("#loading").show();
+        $(".display").hide();    
+    } 
+</script>
+<div class="col col-md-">
+  <div class="admin">
+    <p> Admin: {{admin}} </p>
+  </div>
+  <form action="/admin" id="admin_form" method="POST" encoding='multipart/form-data'enctype="multipart/form-data">
+    {{ render_form(form) }}
+  </form>
+  <hr>
+  <div id="loading"></div>
+  <div class="display">
+    
+    {% if error %}
+    <p>{{error}}</p>
+    {% endif %}
+  </div>
+  <hr>
+  <div class="request_json">
+    <!-- {{ request_json | safe }}  -->
+  </div>
+</div>
+{% endblock %}
