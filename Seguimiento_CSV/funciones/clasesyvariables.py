@@ -65,7 +65,8 @@ class pregunta:
         self.tallerNumero = 0
         self.actividadNombre = ""
         self.actividadNumero = 0
-        self.nombrePregunta = 0
+        self.nombrePregunta = "0"
+        self.nombreAsistencia = "NO_ASISTENCIA"
         self.numeroPregunta = 0
         self.textoUbicacion = 0
         self.blockKeyCompleto =""

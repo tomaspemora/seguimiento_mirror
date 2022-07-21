@@ -1529,7 +1529,7 @@ def createXLS(listaUsuarios,nombre):
 
         nombrecodigoasistencia = str(asistencias[k-1]).split("_:_")
         nombreasist = nombrecodigoasistencia[0]
-        codigoasist = nombrecodigoasistencia[1]
+        #codigoasist = nombrecodigoasistencia[1]
 
         sheetCompleto[columnas[escribirAsistencia + k -1]+"2"] = nombreasist
 
@@ -1539,16 +1539,16 @@ def createXLS(listaUsuarios,nombre):
             for asist in usras.preguntas:
                 asist_score = 999
                 if asist.esAsistencia:
-                    asist_codigo = str(asist.codigo)
+                    asist_nombre = str(asist.nombreAsistencia)
                     asist_score = int(asist.score)
-                    # print("asistencia encontrada " + asist_codigo +  " score obtenido " + str(asist_score))
-                    # print(asist_codigo + " VS " + codigoasist)
-                    if asist_codigo == codigoasist :
-                        # print ("coinciden")
-                        # print("score a escribir " + str(asist_score))
+                    print("asistencia encontrada " + asist_nombre +  " score obtenido " + str(asist_score))
+                    print(asist_nombre + " VS " + nombreasist)
+                    if asist_nombre == nombreasist :
+                        print ("coinciden")
+                        print("score a escribir " + str(asist_score))
                         sheetCompleto[columnas[escribirAsistencia + k -1 ] + str(iteratorUser)] = asist_score
-                    # else:
-                        # print("no coinciden")
+                    else:
+                        print("no coinciden")
             iteratorUser += 1
 
 

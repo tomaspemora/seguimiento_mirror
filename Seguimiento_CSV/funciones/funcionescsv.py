@@ -201,10 +201,10 @@ def checkearNombreEncuestas(nombreencuesta,esUprueba):
 
 def checkearNombreAsistencia(nombreasistencia,codigoasistencia,esUprueba):
     if(nombreasistencia not in clasesyvariables.usuarioPrueba.nombresAsistencias):
-        # print("evaluar si agrego nombre de encuesta " + nombreasistencia + " a la lista")
+        print("evaluar si agrego nombre de encuesta " + nombreasistencia + " a la lista")
         if(esUprueba):
-            nombrecodigoasis = nombreasistencia + "_:_" + codigoasistencia  
-            clasesyvariables.usuarioPrueba.nombresAsistencias.append(nombrecodigoasis)
+            #nombrecodigoasis = nombreasistencia + "_:_" + codigoasistencia  
+            clasesyvariables.usuarioPrueba.nombresAsistencias.append(nombreasistencia)
             #time.sleep(5) 
             return True
         else:
@@ -947,6 +947,7 @@ def RecorrerCSV(fileLocation,usuarios,listadeoras,student_obj=None):
                                     
                                     time.sleep(6)
                                     # print(nombrefinalasistencia)
+                                    preg.nombreAsistencia = nombrefinalasistencia
 
                                 
                                 elif validaSitua:
@@ -1598,7 +1599,20 @@ def RecorrerCSVParaEncuestaClase3(fileLocation,usuarios,student_obj=None):
                                                         
                                                     ptr["tipo"] = posibletipo
 
-                                                    ptr_respuestas = ( ptr_values[1].replace("[" + posibletipo + "]","") ).split(";;")
+                                                    if(posibletipo == "checkbox"):
+                                                        ptr_respuestas = []
+                                                        ptr_respuestas_aux = ( ptr_values[1].replace("[" + posibletipo + "]","") ).split(";;")
+                                                        for e in encurespuestas:
+                                                            if(ptr["tag"]+"_;_" in e):
+                                                                ans = e.split("_;_")[1]
+                                                                break
+                                                        for r in ans.split("_"):
+                                                            if(r == "false"):
+                                                                ptr_respuestas.append("sin marcar")
+                                                            else:
+                                                                ptr_respuestas.append(ptr_respuestas_aux.pop(0))
+                                                        else:
+                                                            ptr_respuestas = ( ptr_values[1].replace("[" + posibletipo + "]","") ).split(";;")
                                                     ptr["respuestas"] = ptr_respuestas
 
                                                     ptrs.append(ptr)
